@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{% if page.title %}{{ page.title }} – {% endif %}{{ site.name }} – {{ site.description }}</title>
+
+    <!-- Favicon  -->
+    <link rel="icon" href="{{ site.baseurl }}/img/core-img/favicon.ico">
+    
+    {% include meta.html %}
+
+    <!--[if lt IE 9]>
+      <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.5.0/css/all.css" integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU" crossorigin="anonymous">
+    <!--<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/core-style.css">-->
+    <link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/style.css" />
+    
+    <link rel="alternate" type="application/rss+xml" title="{{ site.name }} - {{ site.description }}" href="{{ site.baseurl }}/feed.xml" />
+
+</head>
+
+<body>
+    <!-- ##### Header Area Start ##### -->
+    {% include header.html %}
+    <!-- ##### Header Area End ##### -->
+
+    {{ content }}
+
+    <!-- ##### Footer Area Start ##### -->
+    {% include footer.html %}
+    <!-- ##### Footer Area End ##### -->
+
+    <!-- jQuery (Necessary for All JavaScript Plugins) -->
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+    <!-- Popper js -->
+    <script src="{{ site.baseurl }}/js/popper.min.js"></script>
+    <!-- Bootstrap js -->
+    <script src="{{ site.baseurl }}/js/bootstrap.min.js"></script>
+    <!-- Plugins js -->
+    <script src="{{ site.baseurl }}/js/plugins.js"></script>
+    <!-- Classy Nav js -->
+    <script src="{{ site.baseurl }}/js/classy-nav.min.js"></script>
+    <!-- Active js -->
+    <script src="{{ site.baseurl }}/js/active.js"></script>
+    <!-- instafeed js -->
+    <script type="text/javascript" src="{{ site.baseurl }}/js/instafeed.min.js"></script>
+    <!-- format currency js -->
+    <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.formatCurrency.js"></script>
+
+  
+    <script>
+      //js halaman index
+      var userFeed = new Instafeed({
+        get: 'user',
+        userId: '{{site.igid}}',
+        accessToken: '{{site.igtoken}}',
+      });
+      userFeed.run();
+      
+      //Format currency
+      $(function() {
+        $('.old-price, .price').formatCurrency();
+      });
+      //js halaman single product
+      /*$(function() {
+          var i = 0;
+          $(".product-description img").each(function( index ) {
+            var img = "{{site.url}}/" + $(this).attr("src");
+            $('<div class="item"><img src="'+ img +'"><div class="carousel-caption"></div>   </div>').appendTo('.carousel-inner');
+            $('<li data-target="#carousel-example-generic" data-slide-to="'+i+'"></li>').appendTo('.carousel-indicators');
+            i++;
+          });
+
+          $('.item').first().addClass('active');
+          $('.carousel-indicators > li').first().addClass('active');
+          $('#carousel-example-generic').carousel();
+      });*/
+    </script>
+  
+    {% include analytics.html %}
+  </body>
+</html>

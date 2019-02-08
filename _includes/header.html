@@ -1,0 +1,63 @@
+<header class="header_area">
+        <a href="https://wa.me/{{site.wa}}/?text=Halo admin, saya mau booking lapangan" id="top-info" class="d-block text-center">
+                <i class="fas fa-futbol"></i> CLICK FOR WA BOOKING 083890722797 <i class="fas fa-long-arrow-alt-right"></i>
+        </a>
+        <div class="classy-nav-container breakpoint-off d-flex align-items-center justify-content-between bg-dark">
+            <!-- Classy Menu -->
+            <nav class="classy-navbar container d-block" id="essenceNav">
+                <!-- Logo -->
+                <a class="nav-brand" href="{{site.url}}"><img src="{{ site.logo }}" alt=""></a>
+                <!-- Navbar Toggler -->
+                <div class="classy-navbar-toggler float-right">
+                    <span class="navbarToggler"><span></span><span></span><span></span></span>
+                </div>
+                <!-- Menu -->
+                <div class="classy-menu float-right clearfix">
+                    <!-- close btn -->
+                    <div class="classycloseIcon .d-none .d-sm-block">
+                        <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
+                    </div>
+                    <!-- Nav Start -->
+                    <div class="classynav">
+                        <ul>
+                            <li><a href="{{site.baseurl}}/lapangan-futsal-dan-mini-soccer-BSD.html">STADIUM</a></li>
+                                {% for topmenu in site.nav %}
+                                    {% if topmenu.permalink != '/product/' %}  
+                                        <li>
+                                            <a href="{{ topmenu.permalink }}">
+                                                {{ topmenu.title }}
+                                            </a>
+                                        </li>
+                                    {% endif %}
+                                {% endfor %}
+                        </ul>
+                    </div>
+                    <!-- Nav End -->
+                </div>
+            </nav>
+
+            <!-- Header Meta Data -->
+            <div class="header-meta d-none clearfix justify-content-end">
+                <!-- Search Area -->
+                <div class="search-area">
+                    <form action="#" method="post">
+                        <input type="search" name="search" id="headerSearch" placeholder="Type for search" style="background-color: transparent;">
+                        <button type="submit"><i class="fa fa-search" aria-hidden="true"></i></button>
+                    </form>
+                </div>
+                <!-- Favourite Area -->
+                <div class="favourite-area">
+                    <a href="#"><img src="{{ site.baseurl }}/img/core-img/heart.svg" alt=""></a>
+                </div>
+                <!-- User Login Info -->
+                <div class="user-login-info">
+                    <a href="#"><img src="{{ site.baseurl }}/img/core-img/user.svg" alt=""></a>
+                </div>
+                <!-- Cart Area -->
+                <div class="cart-area">
+                    <a href="#" id="essenceCartBtn"><img src="{{ site.baseurl }}/img/core-img/bag.svg" alt=""> <span>3</span></a>
+                </div>
+            </div>
+
+        </div>
+    </header>
