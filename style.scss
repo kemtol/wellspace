@@ -356,10 +356,6 @@ img {
     width: 100%;
     border-bottom: 1px solid $border-color;
     @include trans-duration(500ms);
-    #top-info{
-        background:gold;
-        padding:7.5px 0;
-    }
     .classy-nav-container {
         @media #{$breakpoint-xs} {
             @include flex-wrap(wrap);
