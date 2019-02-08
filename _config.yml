@@ -81,7 +81,7 @@ igtoken:
 wa: 628567685884
 google_analytics: 
 url: https://kemtol.github.io/wellspace
-baseurl: 
+baseurl: https://kemtol.github.io/wellspace
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
