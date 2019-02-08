@@ -7,6 +7,19 @@
                         <h3>Genuinely Better</h3>
                     </div>
                 </div>
+                <div class="col-12">
+                    <ul>
+                        {% for topmenu in site.nav %}
+                            {% if topmenu.permalink != '/product/' %}  
+                                <li>
+                                    <a href="{{ topmenu.permalink }}">
+                                        {{ topmenu.title }}
+                                    </a>
+                                </li>
+                            {% endif %}
+                        {% endfor %}
+                    </ul>
+                </div>
             </div>
         </div>
     </section>
