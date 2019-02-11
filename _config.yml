@@ -76,8 +76,8 @@ defaults:
 name: Wellspaces Co.
 description: Freewarespaces, Office Space, Jakarta Best Co Working Space.
 logo: 
-igid:
-igtoken:
+igid: 
+igtoken: 
 wa: 628567685884
 google_analytics: 
 url: https://kemtol.github.io/wellspace
