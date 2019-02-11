@@ -1,52 +1,56 @@
 <section class="new_arrivals_area section-padding-10 clearfix">
-      <div class="container">
-          <div class="row">
-              <div class="col-12">
-                  <div class="section-heading text-center mt-50">
-                    <h4>EXPLORE OUR BRAND SERVICES</h4>
-                    <h2>We're a LOCAL team OF EXPERTS, WITH GLOBAL BRAND VISIONS IN MIND.</h2>
-                  </div>
+  <div class="container">
+      <div class="row">
+          <div class="col-12">
+              <div class="section-heading text-center mt-50">
+                <h4>EXPLORE OUR BRAND SERVICES</h4>
+                <h2>We're a LOCAL team OF EXPERTS, WITH GLOBAL BRAND VISIONS IN MIND.</h2>
               </div>
           </div>
       </div>
+  </div>
 
-      <div class="container">
-          <div class="row">
-              <div class="col-12">
-                  <div class="popular-products-slides owl-carousel">
+  <div class="container">
+      <div class="row">
+          <div class="col-12">
+              <div class="popular-products-slides owl-carousel">
 
-                        {% assign items = site.product  | sort:"date" | reverse %}
-                        {% for item in items %}
-                              {% if item.categories contains "apparel" or item.categories contains "equipment" %}
-                              <!-- Single Product -->
-                              <div class="single-product-wrapper">
-                                <!-- Product Image -->
-                                <a href="{{item.permalink}}" class="d-block product-img">
-                                    <img src="{{ item.image[0] }}" alt="">
-                                    <!-- Hover Thumb -->
-                                    <img class="hover-img" src="{{ item.image[1] }}" alt="">
+                    {% assign items = site.product  | sort:"date" | reverse %}
+                    {% for item in items %}
+                          {% if item.categories contains "apparel" or item.categories contains "equipment" %}
+                          <!-- Single Product -->
+                          <div class="single-product-wrapper">
+                            <!-- Product Image -->
+                            <a href="{{item.permalink}}" class="d-block product-img">
+                                <img src="{{ item.image[0] }}" alt="">
+                                <!-- Hover Thumb -->
+                                <img class="hover-img" src="{{ item.image[1] }}" alt="">
+                            </a>
+                            <!-- Product Description -->
+                            <div class="product-description">
+                                <span class="d-none">{{item.categories}}</span>
+                                <a href="{{ item.permalink }}">
+                                    <h6>{{ item.title }}</h6>
                                 </a>
-                                <!-- Product Description -->
-                                <div class="product-description">
-                                    <span class="d-none">{{item.categories}}</span>
-                                    <a href="{{ item.permalink }}">
-                                        <h6>{{ item.title }}</h6>
-                                    </a>
-                                    {% if item.saleprice and item.saleprice != 0 %}
-                                          <p class="product-price"><span class="old-price">{{ item.price }}</span> <span class="price">{{ item.saleprice }}</span></p>
-                                    {% else %}
-                                          <p class="product-price price">{{ item.price }}</p>
-                                    {% endif %}
-                                </div>
-                              </div>
-                              {% endif %}
-                        {% endfor %}
-                        
-                  </div>
+                                {% if item.saleprice and item.saleprice != 0 %}
+                                      <p class="product-price"><span class="old-price">{{ item.price }}</span> <span class="price">{{ item.saleprice }}</span></p>
+                                {% else %}
+                                      <p class="product-price price">{{ item.price }}</p>
+                                {% endif %}
+                            </div>
+                          </div>
+                          {% endif %}
+                    {% endfor %}
+                    
               </div>
           </div>
       </div>
-  </section>
+  </div>
+</section>
+
+<!-- ##### Brands Area Start ##### -->
+{% include front-brands.html %}
+<!-- ##### Brands Area End ##### -->
 
 <section class="new_arrivals_area section-padding-10 clearfix">
       <div class="container">
