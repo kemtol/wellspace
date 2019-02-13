@@ -352,7 +352,7 @@ img {
     top: 0;
     left: 0;
     width: 100%;
-    border-bottom: 1px solid $border-color;
+    /*border-bottom: 1px solid $border-color;*/
     @include trans-duration(500ms);
     .classy-nav-container {
         @media #{$breakpoint-xs} {
