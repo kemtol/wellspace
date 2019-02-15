@@ -229,6 +229,11 @@ img {
     }
 }
 
+/* OVERIDE */
+.classy-nav-container{
+    background-color:transparent !importants;
+}
+
 /* Miscellaneous */
 
 .bg-img {
@@ -794,11 +799,10 @@ img {
             margin-bottom: 10px;
         }
         h2 {
-            font-size: 72px;
+            font-size: 64px;
             color: #fff;
             margin-bottom: 50px;
-            font-style:italic;
-            text-shadow: 0px 0px 50px #000;
+            font-weight: 500;
             @media #{$breakpoint-md} {
                 font-size: 48px;
             }
