@@ -5,8 +5,8 @@ permalink: "/product/jual-sabnani-casual-jacket.html"
 categories:
 - apparel
 image:
-- "/uploads/sabnani%20jacket-1.jpg"
-- "/uploads/sabnani%20jacket-1.jpg"
+- "/uploads/home-owl-wellkitchen.jpg"
+- "/uploads/home-owl-wellkitchen.jpg"
 branches:
 - MOI Kelapa Gading
 ---
