@@ -10,7 +10,7 @@
       </div>
   </div>
 
-  <div class="container">
+  <div class="container-fluid">
       <div class="row">
           <div class="col-12">
               <div class="popular-products-slides owl-carousel">
@@ -28,15 +28,14 @@
                             </a>
                             <!-- Product Description -->
                             <div class="product-description">
-                                <span class="d-none">{{item.categories}}</span>
                                 <a href="{{ item.permalink }}">
                                     <h6>{{ item.title }}</h6>
                                 </a>
-                                {% if item.saleprice and item.saleprice != 0 %}
-                                      <p class="product-price"><span class="old-price">{{ item.price }}</span> <span class="price">{{ item.saleprice }}</span></p>
-                                {% else %}
-                                      <p class="product-price price">{{ item.price }}</p>
-                                {% endif %}
+                                <ul>
+                                  <li>{{item.branches[0]}}</li>
+                                  <li>{{item.branches[1]}}</li>
+                                  <li>{{item.branches[2]}}</li>
+                                </ul>
                             </div>
                           </div>
                           {% endif %}
