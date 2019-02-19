@@ -230,6 +230,11 @@ img {
 }
 
 /* OVERIDE */
+section{
+    .container-fluid{
+        max-width:2048px;
+    }
+}
 .classy-nav-container{
     background-color:transparent !important;
 }
