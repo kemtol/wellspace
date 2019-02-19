@@ -68,28 +68,22 @@
               <div class="col-12">
                   <div class="popular-products-slides owl-carousel">
 
-                        {% assign items = site.product  | sort:"date" | reverse %}
+                        {% assign items = site.gallery  | sort:"date" | reverse %}
                         {% for item in items %}
-                              {% if item.categories contains "teamwear" %}
+                              {% if item.categories contains "homepage" %}
                               <!-- Single Product -->
                               <div class="single-product-wrapper">
                                 <!-- Product Image -->
                                 <a href="{{item.permalink}}" class="d-block product-img">
-                                    <img src="{{site.baseurl}}{{ item.image[0] }}" alt="">
+                                    <img src="{{site.baseurl}}{{ item.image }}" alt="">
                                     <!-- Hover Thumb -->
-                                    <img class="hover-img" src="{{site.baseurl}}{{ item.image[1] }}" alt="">
+                                    <img class="hover-img" src="{{site.baseurl}}{{ item.image}}" alt="">
                                 </a>
                                 <!-- Product Description -->
                                 <div class="product-description">
-                                    <span class="d-none">{{item.categories}}</span>
                                     <a href="{{ item.permalink }}">
                                         <h6>{{ item.title }}</h6>
                                     </a>
-                                    {% if item.saleprice and item.saleprice != 0 %}
-                                          <p class="product-price"><span class="old-price">{{ item.price }}</span> <span class="price">{{ item.saleprice }}</span></p>
-                                    {% else %}
-                                          <p class="product-price price">{{ item.price }}</p>
-                                    {% endif %}
                                 </div>
                               </div>
                               {% endif %}
