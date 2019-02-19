@@ -5,6 +5,9 @@ collections:
   big-banner:
     title: Big Banner
     output: true
+  gallery:
+    title: Gallery
+    output: true
   jumbotron:
     title: Jumbotron
     output: true
