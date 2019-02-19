@@ -19,15 +19,15 @@
                     {% for item in items %}
                           {% if item.categories contains "apparel" or item.categories contains "equipment" %}
                           <!-- Single Product -->
-                          <div class="single-product-wrapper">
+                          <a href="{{item.permalink}}" class="single-product-wrapper d-flex flex-row">
                             <!-- Product Image -->
-                            <a href="{{item.permalink}}" class="d-block product-img">
+                            <div class="w-50">
+                              <span  class="d-block product-img">
                                 <img src="{{site.baseurl}}{{ item.image[0] }}" alt="">
-                                <!-- Hover Thumb -->
-                                <img class="hover-img" src="{{site.baseurl}}{{ item.image[1] }}" alt="">
-                            </a>
+                              </span>
+                            </div>
                             <!-- Product Description -->
-                            <div class="product-description">
+                            <div class="product-description w-50">
                                 <a href="{{ item.permalink }}">
                                     <h6>{{ item.title }}</h6>
                                 </a>
@@ -37,7 +37,7 @@
                                   <li>{{item.branches[2]}}</li>
                                 </ul>
                             </div>
-                          </div>
+                          </a>
                           {% endif %}
                     {% endfor %}
                     
