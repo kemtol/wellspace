@@ -15,7 +15,7 @@
           <div class="col-12">
               <div class="popular-products-slides owl-carousel">
 
-                    {% assign items = site.product  | sort:"date" | reverse %}
+                    {% assign items = site.product limit:4 | sort:"date" | reverse %}
                     {% for item in items %}
                           {% if item.categories contains "apparel" or item.categories contains "equipment" %}
                           <!-- Single Product -->
