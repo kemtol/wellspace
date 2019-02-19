@@ -14,7 +14,7 @@
             items: 4,
             margin: 10,
             loop: true,
-            nav: false,
+            nav: true,
             dots: false,
             autoplay: true,
             autoplayTimeout: 5000,
