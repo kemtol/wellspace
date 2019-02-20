@@ -15,6 +15,7 @@
             margin: 10,
             loop: true,
             nav: true,
+            navText: ["<img src='/img/core-img/arrow-left.png' alt=''>", "<img src='/img/core-img/arrow-right.png' alt=''>"],
             dots: false,
             autoplay: true,
             autoplayTimeout: 5000,
