@@ -230,11 +230,15 @@ img {
 }
 
 /* SHAPE */
+.ornament{
+    z-index:21;
+}
+
 .s1{
     top:2%;
     left:25%;
-    -webkit-animation: spin 2s linear;
-    animation: spin 2s linear;
+    -webkit-animation: upndown 20s linear;
+    animation: upndown 20s linear;
     -webkit-animation-iteration-count: infinite;
     animation-iteration-count: infinite;
 }
@@ -244,6 +248,24 @@ img {
     bottom: 5%;
     -webkit-animation: upndown 2s linear;
     animation: upndown 2s linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+.s3{
+    bottom: 10%;
+    right: 50%;
+    -webkit-animation: spin 25s linear;
+    animation: spin 25s linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+.s4{
+    top:2%;
+    right:25%;
+    -webkit-animation: spin 30s linear;
+    animation: spin 30s linear;
     -webkit-animation-iteration-count: infinite;
     animation-iteration-count: infinite;
 }
