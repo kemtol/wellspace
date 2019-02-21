@@ -297,20 +297,29 @@ section{
 }
 
 /* Carousel */
+.owl-carousel{
+    .owl-controls{
+        .owl-nav{
+            div[class^="owl-"]{
+                -webkit-transition-duration: 500ms;
+                transition-duration: 500ms;
+                position: absolute;
+                top: 50%;
+                z-index: 20;
+                width: 80px;
+                height: 80px;
+                margin-top: -40px;
+            }
+            .owl-prev{
+                left:0;
+            }
+            .owl-next{
+                right:0;
+            }
+        } 
+    }
+}
 
-.carousel-control{
-    position:absolute;
-    display:flex;
-    height:100%;
-    align-items:center;
-    top:0;
-}
-.carousel-control.left{
-    left:0px;
-}
-.carousel-control.right{
-    right:0px;
-}
 /* ScrollUp */
 
 #scrollUp {
