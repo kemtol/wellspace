@@ -1341,26 +1341,6 @@ section{
                 }
             }
         }
-        /*.footer_widget_menu {
-            @include display-flex(flex);
-            @include flex-wrap(wrap);
-            li {
-                @include flex(0 0 50%);
-                width: 50%;
-                a {
-                    display: block;
-                    font-size: 12px;
-                    /*color: rgba(255, 255, 255, 0.6);*/
-                    display: block;
-                    font-weight: 400;
-                    margin-bottom: 10px;
-                    &:hover,
-                    &:focus {
-                        /*color: $white-color;*/
-                    }
-                }
-            }
-        }*/
         .footer_heading {
             h6 {
                 /*color: $white-color;*/
