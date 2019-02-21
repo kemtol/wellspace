@@ -231,13 +231,17 @@ img {
 
 /* SHAPE */
 .s1{
-    -webkit-animation: upndown 2s linear;
-    animation: upndown 2s linear;
+    top:2%;
+    left:25%;
+    -webkit-animation: spin 2s linear;
+    animation: spin 2s linear;
     -webkit-animation-iteration-count: infinite;
     animation-iteration-count: infinite;
 }
 
 .s2{
+    right: 25%;
+    bottom: 5%;
     -webkit-animation: upndown 2s linear;
     animation: upndown 2s linear;
     -webkit-animation-iteration-count: infinite;
