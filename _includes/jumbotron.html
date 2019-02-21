@@ -10,13 +10,11 @@
                 <div class="col-12">
                     <ul class="d-flex justify-content-center  align-items-center">
                         {% for topmenu in site.nav %}
-                            {% if topmenu.permalink != '/product/' %}  
-                                <li class="p-4">
-                                    <a href="{{ topmenu.permalink }}">
-                                        {{ topmenu.title }}
-                                    </a>
-                                </li>
-                            {% endif %}
+                            <li class="p-4">
+                                <a href="{{ topmenu.permalink }}">
+                                    {{ topmenu.title }}
+                                </a>
+                            </li>
                         {% endfor %}
                     </ul>
                 </div>
