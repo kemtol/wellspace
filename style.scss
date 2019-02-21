@@ -324,12 +324,12 @@ footer{
 /* ScrollUp */
 
 #scrollUp {
-    background-color: #ff084e;
-    border-radius: 0;
+    background-color: transparent;
+    border-radius: 50%;
     bottom: 60px;
-    box-shadow: 0 2px 6px 0 rgba(0, 0, 0, 0.3);
-    color: $white-color;
-    font-size: 24px;
+    box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
+    color: #ccc;
+    font-size: 32px;
     height: 40px;
     line-height: 40px;
     right: 60px;
@@ -831,8 +831,24 @@ footer{
             }
         }
     }
-}
 
+    #jumbotron--nav{
+        li{
+            a{
+                font-size: 24px;
+                color: #fff;
+                margin-bottom: 50px;
+                font-weight: 100;
+                font-family: "Poppins", sans-serif;
+                letter-spacing: 6px;
+            }
+            &:hover {
+                color:gold;
+            }
+        }
+    }
+
+}
 
 
 /* :: 6.0 Top Catagory Area CSS */
