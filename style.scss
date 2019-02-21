@@ -229,6 +229,21 @@ img {
     }
 }
 
+/* SHAPE */
+.s1{
+    -webkit-animation: upndown 2s linear;
+    animation: upndown 2s linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
+.s2{
+    -webkit-animation: upndown 2s linear;
+    animation: upndown 2s linear;
+    -webkit-animation-iteration-count: infinite;
+    animation-iteration-count: infinite;
+}
+
 /* OVERIDE */
 
 h2.display-3{
