@@ -244,6 +244,20 @@ img {
     animation-iteration-count: infinite;
 }
 
+@keyframes upndown {
+  0%, 100% {
+    transform: translate(0, 0);
+  }
+  
+  50% {
+    transform: translate(0, 50px);
+  }
+  
+  80% {
+    transform: translate(0, 50px);
+  }
+}
+
 /* OVERIDE */
 
 h2.display-3{
