@@ -2,9 +2,9 @@
   <div class="container-fluid pt-5 mt-5">
       <div class="row">
           <div class="col-12">
-              <div class="section-heading text-center mt-50">
+              <div class="text-center mt-50">
                 <h4>EXPLORE OUR BRAND SERVICES</h4>
-                <h2 class="display-3">We're a LOCAL team OF EXPERTS, WITH GLOBAL BRAND VISIONS IN MIND.</h2>
+                <h2 class="display-3">WE'RE A LOCAL TEAM OF EXPERTS, WITH GLOBAL BRAND VISIONS IN MIND.</h2>
               </div>
           </div>
       </div>
@@ -50,12 +50,12 @@
 <!-- ##### Brands Area End ##### -->
 
 <section class="new_arrivals_area section-padding-10 clearfix">
-      <div class="container pt-5 mt-5">
+      <div class="container-fluid pt-5 mt-5">
           <div class="row">
               <div class="col-12">
                   <div class="section-heading text-center mt-50">
                     <h4>STAY WELL, GET CONNECTED</h4>
-                    <h2>We create AN engaging ENVIRONMENT WITH A COLLABORATIVE SPIRIT.</h2>
+                    <h2 class="display-3">WE CREATE AN ENGAGING ENVIRONMENT WITH A COLLABORATIVE SPIRIT.</h2>
                   </div>
               </div>
           </div>
@@ -70,7 +70,7 @@
                         {% for item in items %}
                               {% if item.categories contains "homepage" %}
                               <!-- Single Product -->
-                              <div class="single-product-wrapper">
+                              <div class="single-product-wrapper p-4">
                                 <!-- Product Image -->
                                 <a href="{{item.permalink}}" class="d-block product-img">
                                     <img src="{{site.baseurl}}{{ item.image }}" alt="">

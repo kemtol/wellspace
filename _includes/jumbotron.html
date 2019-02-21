@@ -8,10 +8,10 @@
                     </div>
                 </div>
                 <div class="col-12">
-                    <ul>
+                    <ul class="d-flex justify-content-center  align-items-center">
                         {% for topmenu in site.nav %}
                             {% if topmenu.permalink != '/product/' %}  
-                                <li>
+                                <li class="p-4">
                                     <a href="{{ topmenu.permalink }}">
                                         {{ topmenu.title }}
                                     </a>

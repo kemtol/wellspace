@@ -311,10 +311,10 @@ section{
                 margin-top: -40px;
             }
             .owl-prev{
-                left:0;
+                left:-80px;
             }
             .owl-next{
-                right:0;
+                right:-80px;
             }
         } 
     }
@@ -1342,7 +1342,7 @@ section{
             }
         }
         .footer_widget_menu {
-            @include display-flex(flex);
+            /*@include display-flex(flex);
             @include flex-wrap(wrap);
             li {
                 @include flex(0 0 50%);
@@ -1359,7 +1359,7 @@ section{
                         /*color: $white-color;*/
                     }
                 }
-            }
+            }*/
         }
         .footer_heading {
             h6 {
