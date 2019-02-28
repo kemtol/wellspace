@@ -3,6 +3,7 @@ title: About Us
 date: 2019-02-28 16:32:00 +07:00
 permalink: "/about.html"
 image: 
+layout: page
 ---
 
 ## THE INTRODUCTION
