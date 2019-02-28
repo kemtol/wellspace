@@ -11,7 +11,7 @@
                     <ul id="jumbotron--nav" class="d-flex justify-content-center  align-items-center mt-5">
                         {% for topmenu in site.nav %}
                             <li class="p-4">
-                                <a href="{{ topmenu.permalink }}">
+                                <a href="{{site.baseurl}}{{ topmenu.permalink }}">
                                     {{ topmenu.title }}
                                 </a>
                             </li>
