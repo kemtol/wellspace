@@ -2,7 +2,7 @@
 title: About Us
 date: 2019-02-28 16:32:00 +07:00
 permalink: "/about.html"
-image: 
+image: "/uploads/bg-3.jpg"
 layout: page
 ---
 
