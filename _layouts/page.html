@@ -1,12 +1,16 @@
 ---
 layout: default
 ---
-
+<style>
+    .hero-content{
+        visibility: hidden;
+    }
+</style>
 {% include jumbotron.html %}
 
-<section class="mt-5 mb-5">
+<section>
 
-    <div class="container-fluid">
+    <div class="container-fluid" class="mt-5 mb-5 pt-5 pb-5">
         <div class="row justify-content-center">
             <div class="col-12">
                 {{content}}
