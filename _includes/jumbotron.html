@@ -9,13 +9,13 @@
                 </div>
                 <div class="col-12">
                     <ul id="jumbotron--nav" class="d-flex justify-content-center  align-items-center mt-5">
-                        <li class="p-4">
+                        {% if page.permalink == "" %}<li class="p-4 active">{% else %}<li class="p-4">{% endif %}
                             <a href="{{site.baseurl}}">
                                 HOME
                             </a>
                         </li>
                         {% for topmenu in site.nav %}
-                            <li class="p-4">
+                            {% if topmenu.permalink == page.permalink %}<li class="p-4 active">{% else %}<li class="p-4">{% endif %}
                                 <a href="{{site.baseurl}}{{ topmenu.permalink }}">
                                     {{ topmenu.title }}
                                 </a>
