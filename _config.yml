@@ -43,9 +43,9 @@ defaults:
     - "/uploads/pic-2.jpg"
     price: 100000
     SEOTAGS:
-    - "You can put SEO tags here separated by coma"
+    - You can put SEO tags here separated by coma
     SEODESC:
-    - "You can put SEO desc here"
+    - You can put SEO desc here
 - scope:
     path: ''
     type: posts
