@@ -3,7 +3,7 @@ title: Co Working & Serviced Offices
 date: 2018-12-22 12:56:00 +07:00
 permalink: "/product/jual-sabnani-club-training-jacket.html"
 categories:
-- apparel
+- parent
 image:
 - "/uploads/home-owl-workwell.jpg"
 - "/uploads/home-owl-workwell.jpg"
