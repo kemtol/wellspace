@@ -1,5 +1,5 @@
 ---
-title: Minimalist
+title: Workwell Labs
 date: 2018-12-24 13:12:00 +07:00
 permalink: "/service/workwell-labs.html"
 categories:
