@@ -6,9 +6,6 @@ categories:
 - office
 image:
 - "/uploads/teamwear%20minimalist.jpg"
-- "/uploads/minimalist-1.jpg"
-- "/uploads/minimalist-2.jpg"
-- "/uploads/minimalist-3.jpg"
 price: 235000
 teamwearprice:
 - 2500000
