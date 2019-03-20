@@ -1,11 +1,16 @@
 ---
 title: Workwell Suites BSD
 date: 2019-03-20 16:45:00 +07:00
+permalink: "/service/workwell-suites-bsd.html"
 categories:
 - office
 image:
 - "/uploads/workwell-suites-SCBD.jpg"
 - "/uploads/workwell-suites-SCBD.jpg"
+seotags:
+- 
+seodesc:
+- 
 video: https://youtu.be/MqvdZ7Fo_8Y
 pricing:
   sharedesk month: 1500000
