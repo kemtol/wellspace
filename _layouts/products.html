@@ -32,13 +32,13 @@ layout: default
                   <!-- Single Product -->
                   <div class="single-product-wrapper p-4">
                     <!-- Product Description -->
-                    <div class="product-description position-absolute d-block w-100 h-100 p-4">
-                        <a href="{{ item.permalink }}">
+                    <div class="product-description d-block w-100 h-100 p-4">
+                        <a href="{{site.baseurl}}{{ item.permalink }}">
                             <h6>{{ item.title }}</h6>
                         </a>
                     </div>
                     <!-- Product Image -->
-                    <a href="{{item.permalink}}" class="d-block product-img">
+                    <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img">
                         <img src="{{site.baseurl}}{{item.image[0]}}" alt="">
                         <!-- Hover Thumb -->
                         <img class="hover-img" src="{{site.baseurl}}{{item.image[1]}}" alt="">
@@ -61,18 +61,18 @@ layout: default
                   {% if item.categories contains "living" %}
                   <!-- Single Product -->
                   <div class="single-product-wrapper p-4">
-                    <!-- Product Image -->
-                    <a href="{{item.permalink}}" class="d-block product-img">
-                        <img src="{{site.baseurl}}{{ item.image }}[0]" alt="">
-                        <!-- Hover Thumb -->
-                        <img class="hover-img" src="{{site.baseurl}}{{ item.image}}[1]" alt="">
-                    </a>
                     <!-- Product Description -->
-                    <div class="product-description position-absolute d-block w-100 h-100 p-4">
-                        <a href="{{ item.permalink }}">
+                    <div class="product-description d-block w-100 h-100 p-4">
+                        <a href="{{site.baseurl}}{{ item.permalink }}">
                             <h6>{{ item.title }}</h6>
                         </a>
                     </div>
+                    <!-- Product Image -->
+                    <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img">
+                        <img src="{{site.baseurl}}{{item.image[0]}}" alt="">
+                        <!-- Hover Thumb -->
+                        <img class="hover-img" src="{{site.baseurl}}{{item.image[1]}}" alt="">
+                    </a>
                   </div>
                   {% endif %}
             {% endfor %}
@@ -82,6 +82,30 @@ layout: default
 
 <section>
     <div class="container-fluid">
-        ini produk kitchen
+        <div class="row">
+            <h4>CO-KITCHEN + FOOD MARKET</h4>
+        </div>
+        <div class="row">
+            {% assign items = site.product  | sort:"date" | reverse %}
+            {% for item in items %}
+                  {% if item.categories contains "kitchen" %}
+                  <!-- Single Product -->
+                  <div class="single-product-wrapper p-4">
+                    <!-- Product Description -->
+                    <div class="product-description d-block w-100 h-100 p-4">
+                        <a href="{{site.baseurl}}{{ item.permalink }}">
+                            <h6>{{ item.title }}</h6>
+                        </a>
+                    </div>
+                    <!-- Product Image -->
+                    <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img">
+                        <img src="{{site.baseurl}}{{item.image[0]}}" alt="">
+                        <!-- Hover Thumb -->
+                        <img class="hover-img" src="{{site.baseurl}}{{item.image[1]}}" alt="">
+                    </a>
+                  </div>
+                  {% endif %}
+            {% endfor %}
+        </div>
     </div>
 </section>
