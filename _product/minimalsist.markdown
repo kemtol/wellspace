@@ -8,9 +8,6 @@ image:
 - "/uploads/workwell-suites-kemang.jpg"
 - "/uploads/workwell-suites-kemang.jpg"
 price: 235000
-teamwearprice:
-- 2500000
-- 4000000
 ---
 
 content buat workwell labs
