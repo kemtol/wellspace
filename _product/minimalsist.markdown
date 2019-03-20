@@ -5,7 +5,8 @@ permalink: "/service/workwell-labs.html"
 categories:
 - office
 image:
-- "/uploads/teamwear%20minimalist.jpg"
+- "/uploads/workwell-suites-kemang.jpg"
+- "/uploads/workwell-suites-kemang.jpg"
 price: 235000
 teamwearprice:
 - 2500000
