@@ -9,7 +9,16 @@ layout: default
     {% assign products = site.product | sort:"date" | reverse %}
 {% endif %}
 
-{{content}}
+{% include jumbotron.html %}
+
+<section>
+    <div class="container-fluid mt-5 mb-5 pt-5 pb-5">
+        <div class="row justify-content-center">
+            {{content}}
+            </div>
+        </div>
+    </div>
+</section>
 
 <section>
     <div class="container-fluid">
@@ -22,18 +31,18 @@ layout: default
                   {% if item.categories contains "office" %}
                   <!-- Single Product -->
                   <div class="single-product-wrapper p-4">
-                    <!-- Product Image -->
-                    <a href="{{item.permalink}}" class="d-block product-img">
-                        <img src="{{site.baseurl}}{{item.image[0]}}" alt="">
-                        <!-- Hover Thumb -->
-                        <img class="hover-img" src="{{site.baseurl}}{{item.image[1]}}" alt="">
-                    </a>
                     <!-- Product Description -->
                     <div class="product-description position-absolute d-block w-100 h-100 p-4">
                         <a href="{{ item.permalink }}">
                             <h6>{{ item.title }}</h6>
                         </a>
                     </div>
+                    <!-- Product Image -->
+                    <a href="{{item.permalink}}" class="d-block product-img">
+                        <img src="{{site.baseurl}}{{item.image[0]}}" alt="">
+                        <!-- Hover Thumb -->
+                        <img class="hover-img" src="{{site.baseurl}}{{item.image[1]}}" alt="">
+                    </a>
                   </div>
                   {% endif %}
             {% endfor %}
@@ -76,57 +85,3 @@ layout: default
         ini produk kitchen
     </div>
 </section>
-
-<!-- ##### Shop Grid Area Start ##### -->
-<section class="section-padding-80" style="padding-top:0px;">
-    <div class="container-fluid">
-        <div class="row">
-            <div class="col-12 col-md-12 col-lg-12">    
-                <!-- content -->
-                <div class="row">
-                    {% for item in products %}
-                    <!-- Single Product -->
-                    <div class="col-6 col-sm-6 col-md-4 col-lg-3">
-                      <div class="single-product-wrapper">
-                        <!-- Product Image -->
-                        <a href="{{item.permalink}}" class="d-block product-img">
-                            <img src="{{item.image[0]}}" alt="">
-                            <!-- Hover Thumb -->
-                            <img class="hover-img" src="{{item.image[1]}}" alt="">
-                        </a>
-                        <!-- Product Description -->
-                        <div class="product-description">
-                            <span>{{item.brand}}</span>
-                            <a href="{{ item.permalink }}">
-                                <h6>{{item.title}}</h6>
-                            </a>
-                            {% if item.saleprice and item.saleprice != 0 %}
-                                <p class="product-price"><span class="old-price">{{ item.price }}</span> <span class="price">{{ item.saleprice }}</span></p>
-                            {% else %}
-                                <p class="product-price price">{{ item.price }}</p>
-                            {% endif %}
-                        </div>
-                      </div>
-                    </div>
-
-                   {% endfor %}
-                </div>
-                <!-- // eo content -->
-                
-                <!-- Pagination -->
-                <nav aria-label="navigation" class="d-none">
-                    <ul class="pagination mt-50 mb-70">
-                        <li class="page-item"><a class="page-link" href="#"><i class="fa fa-angle-left"></i></a></li>
-                        <li class="page-item"><a class="page-link" href="#">1</a></li>
-                        <li class="page-item"><a class="page-link" href="#">2</a></li>
-                        <li class="page-item"><a class="page-link" href="#">3</a></li>
-                        <li class="page-item"><a class="page-link" href="#">...</a></li>
-                        <li class="page-item"><a class="page-link" href="#">21</a></li>
-                        <li class="page-item"><a class="page-link" href="#"><i class="fa fa-angle-right"></i></a></li>
-                    </ul>
-                </nav>
-            </div>
-        </div>
-    </div>
-</section>
-<!-- ##### Shop Grid Area End ##### -->
