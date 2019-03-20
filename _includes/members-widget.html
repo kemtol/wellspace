@@ -1,0 +1,28 @@
+<section>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-12">
+                <div class="popular-products-slides owl-carousel">
+                {% assign items = site.members  | sort:"date" | reverse %}
+                {% for item in items %}
+                      <!-- Single Product -->
+                      <div class="single-product-wrapper p-4">
+                        <!-- Product Image -->
+                        <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img">
+                            <img src="{{site.baseurl}}{{item.image[0]}}" alt="">
+                            <!-- Hover Thumb -->
+                            <img class="hover-img" src="{{site.baseurl}}{{item.image[1]}}" alt="">
+                        </a>
+                        <!-- Product Description -->
+                        <div class="product-description d-block w-100 h-100 p-4">
+                            <a href="{{site.baseurl}}{{ item.permalink }}">
+                                <h6>{{ item.title }}</h6>
+                            </a>
+                        </div>
+                      </div>
+                {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
