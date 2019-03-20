@@ -8,18 +8,9 @@ layout: default
     }
 </style>
 {% assign current_cat = page.categories[0] %}
-<!-- ##### Breadcumb Area Start ##### -->
-<div class="breadcumb_area bg-img" style="background-image: url({{site.baseurl}}/img/bg-img/breadcumb.jpg);">
-    <div class="container h-100">
-        <div class="row h-100 align-items-center">
-            <div class="col-12">
-                <div class="page-title text-center">
-                    <a href="{{site.url}}">HOME</a> <span>&middot;</span> <a href="{{site.baseurl}}/product/">ALL PRODUCTS</a> <span>&middot;</span> <a href="{{site.baseurl}}/product/{{page.categories}}">{{ page.categories }}</a> <span>&middot;</span> <span>{{ page.title }}</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
+
+{% include jumbotron.html %}
+
 <section class="container single_product_details_area d-flex">
 
     <!-- Single Product Thumb -->

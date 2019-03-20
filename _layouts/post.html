@@ -2,28 +2,18 @@
 layout: default
 ---
 
-<div class="breadcumb_area bg-img" style="background-image: url({{site.baseurl}}/img/bg-img/breadcumb.jpg);">
-    <div class="container h-100">
-        <div class="row h-100 align-items-center">
-            <div class="col-12">
-                <div class="page-title text-center">
-                    <a href="{{site.url}}">HOME</a> <span>&middot;</span> <a href="{{site.baseurl}}/blog/">BLOG</a> <span>&middot;</span> <span>{{ page.title }}</span>
-                </div>
-            </div>
-        </div>
-    </div>
-</div>
-<div class="single-blog-wrapper">
-    <div class="container">
+{% include jumbotron.html %}
+
+<section>
+
+    <div class="container-fluid mt-5 mb-5 pt-5 pb-5">
         <div class="row justify-content-center">
-            <div class="col-12 col-md-8">
-                <div class="regular-page-content-wrapper section-padding-80">
+            <div class="col-12">
                     <h2 class="mb-50">{{ page.title }}</h2>
                     <div class="regular-page-text">
                         {{content}}
                     </div>
-                </div>
             </div>
         </div>
     </div>
-</div>
+</section>

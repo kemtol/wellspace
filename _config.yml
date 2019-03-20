@@ -39,6 +39,8 @@ defaults:
   values:
     layout: products
     permalink: "/product/"
+    image:
+    - "/uploads/bg-img.jpg"
 - scope:
     path: ''
     type: product
@@ -48,9 +50,9 @@ defaults:
     - "/uploads/pic-1.jpg"
     - "/uploads/pic-2.jpg"
     price: 100000
-    SEOTAGS:
+    seotags:
     - You can put SEO tags here separated by coma
-    SEODESC:
+    seodesc:
     - You can put SEO desc here
 - scope:
     path: ''
