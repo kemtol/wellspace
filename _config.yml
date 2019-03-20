@@ -5,7 +5,7 @@ collections:
   big-banner:
     title: Big Banner
     output: true
-  product:
+  deals:
     title: Deals
     output: true
   gallery:
@@ -13,6 +13,9 @@ collections:
     output: true
   jumbotron:
     title: Jumbotron
+    output: true
+  members:
+    title: Members
     output: true
   micro-banner:
     title: Mini Banner
@@ -25,12 +28,6 @@ collections:
     output: true
   product:
     title: Product
-    output: true
-  deals:
-    title: Deals
-    output: true
-  members:
-    title: Members
     output: true
   uploads:
     title: Uploads
