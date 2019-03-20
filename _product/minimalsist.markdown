@@ -1,9 +1,9 @@
 ---
 title: Minimalist
 date: 2018-12-24 13:12:00 +07:00
-permalink: "/product/jasa-pembuatan-baju-futsal-minimalist.html"
+permalink: "/service/workwell-labs.html"
 categories:
-- teamwear
+- office
 image:
 - "/uploads/teamwear%20minimalist.jpg"
 - "/uploads/minimalist-1.jpg"
