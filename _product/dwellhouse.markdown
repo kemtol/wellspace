@@ -3,7 +3,7 @@ title: Co-living Houses
 date: 2018-12-22 12:53:00 +07:00
 permalink: "/product/jual-sabnani-training-jacket.html"
 categories:
-- apparel
+- parent
 image:
 - "/uploads/home-owl-dwellhouse.jpg"
 - "/uploads/home-owl-dwellhouse.jpg"
