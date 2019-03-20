@@ -1,6 +1,8 @@
 ---
 title: Workwell Suites BSD
 date: 2019-03-20 16:45:00 +07:00
+categories:
+- office
 image:
 - "/uploads/workwell-suites-SCBD.jpg"
 - "/uploads/workwell-suites-SCBD.jpg"
