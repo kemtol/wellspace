@@ -15,7 +15,4 @@ teamwearprice:
 - 4000000
 ---
 
-Jersey dengan konsep minimalis dibuat oleh sabnani untuk  musim 2019, konsep ini diciptakan untuk yang menyukai desain sederhana dan elegan dan sesuai untuk semua tim sepak bola dan futsal.
-
-
-
+content buat workwell labs
