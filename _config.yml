@@ -23,6 +23,9 @@ collections:
   product:
     title: Product
     output: true
+  product:
+    title: Deals
+    output: true
   uploads:
     title: Uploads
     output: true
