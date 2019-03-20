@@ -5,6 +5,9 @@ collections:
   big-banner:
     title: Big Banner
     output: true
+  product:
+    title: Deals
+    output: true
   gallery:
     title: Gallery
     output: true
@@ -19,12 +22,6 @@ collections:
     output: true
   posts:
     title: Posts
-    output: true
-  product:
-    title: Product
-    output: true
-  product:
-    title: Deals
     output: true
   uploads:
     title: Uploads
