@@ -5,6 +5,9 @@ collections:
   big-banner:
     title: Big Banner
     output: true
+  product:
+    title: Deals
+    output: true
   gallery:
     title: Gallery
     output: true
@@ -66,7 +69,7 @@ description: Freewarespaces, Office Space, Jakarta Best Co Working Space.
 logo: img/core-img/logo.png
 igid: 
 igtoken: 
-wa: 628567685884
+wa: 
 google_analytics: 
 url: https://kemtol.github.io/wellspace
 baseurl: https://kemtol.github.io/wellspace
