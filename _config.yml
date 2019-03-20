@@ -23,8 +23,11 @@ collections:
   product:
     title: Product
     output: true
-  product:
+  deals:
     title: Deals
+    output: true
+  members:
+    title: Members
     output: true
   uploads:
     title: Uploads
