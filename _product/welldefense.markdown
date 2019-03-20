@@ -3,7 +3,7 @@ title: Self-Defense Club
 date: 2018-12-22 12:46:00 +07:00
 permalink: "/product/jual-polo-shirt-team-sepakbola.html"
 categories:
-- apparel
+- defense
 image:
 - "/uploads/home-owl-welldefense.jpg"
 - "/uploads/home-owl-welldefense.jpg"
