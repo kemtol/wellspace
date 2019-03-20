@@ -5,8 +5,8 @@ permalink: "/service/workwell-suites.html"
 categories:
 - office
 image:
-- "/uploads/teamwear%20cantona.jpg"
-- "/uploads/cantona.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
 price: 235000
 ---
 
