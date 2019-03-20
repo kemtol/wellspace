@@ -26,26 +26,30 @@ layout: default
             <h4>CO-WORKING SPACES + SERVICED OFFICES</h4>
         </div>
         <div class="row">
-            {% assign items = site.product  | sort:"date" | reverse %}
-            {% for item in items %}
-                  {% if item.categories contains "office" %}
-                  <!-- Single Product -->
-                  <div class="single-product-wrapper p-4">
-                    <!-- Product Description -->
-                    <div class="product-description d-block w-100 h-100 p-4">
-                        <a href="{{site.baseurl}}{{ item.permalink }}">
-                            <h6>{{ item.title }}</h6>
+            <div class="col-12">
+                <div class="products-slides owl-carousel">
+                {% assign items = site.product  | sort:"date" | reverse %}
+                {% for item in items %}
+                      {% if item.categories contains "office" %}
+                      <!-- Single Product -->
+                      <div class="single-product-wrapper p-4">
+                        <!-- Product Description -->
+                        <div class="product-description d-block w-100 h-100 p-4">
+                            <a href="{{site.baseurl}}{{ item.permalink }}">
+                                <h6>{{ item.title }}</h6>
+                            </a>
+                        </div>
+                        <!-- Product Image -->
+                        <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img">
+                            <img src="{{site.baseurl}}{{item.image[0]}}" alt="">
+                            <!-- Hover Thumb -->
+                            <img class="hover-img" src="{{site.baseurl}}{{item.image[1]}}" alt="">
                         </a>
-                    </div>
-                    <!-- Product Image -->
-                    <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img">
-                        <img src="{{site.baseurl}}{{item.image[0]}}" alt="">
-                        <!-- Hover Thumb -->
-                        <img class="hover-img" src="{{site.baseurl}}{{item.image[1]}}" alt="">
-                    </a>
-                  </div>
-                  {% endif %}
-            {% endfor %}
+                      </div>
+                      {% endif %}
+                {% endfor %}
+                </div>
+            </div>
         </div>
     </div>
 </section>
