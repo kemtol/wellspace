@@ -14,9 +14,6 @@ collections:
   jumbotron:
     title: Jumbotron
     output: true
-  members:
-    title: Members
-    output: true
   mediacoverage:
     title: Media Coverage
     output: true
