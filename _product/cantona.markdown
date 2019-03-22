@@ -4,6 +4,8 @@ date: 2018-12-24 13:29:00 +07:00
 permalink: "/service/workwell-suites.html"
 categories:
 - office
+address: Equity Tower, 18th floor, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta Selatan,
+  Daerah Khusus Ibukota Jakarta 12190
 image:
 - "/uploads/Layer%2029.jpg"
 - "/uploads/Layer%2030.jpg"
@@ -33,4 +35,6 @@ photo:
 - "/uploads/workwell-suites-SCBD.jpg"
 ---
 
-content for workwell suites
+Content for workwell suites lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin est ex, vestibulum a ex sit amet, ornare sollicitudin velit. Aenean dictum arcu non dolor lacinia placerat. Praesent tincidunt ultricies rutrum. Aenean lacinia volutpat ante. Integer nec enim efficitur, dapibus est eget, congue ex. Sed hendrerit est eu metus tristique tristique. Nunc facilisis hendrerit turpis sit amet varius. Sed sed leo turpis. Curabitur condimentum justo vel ex tempor lacinia. Nunc eu aliquet lectus. Suspendisse laoreet eleifend odio ut ultricies.
+
+Curabitur condimentum ut tortor ut vulputate. Donec pellentesque lorem lorem, in dictum ipsum dignissim vel. Vivamus condimentum ligula laoreet nisi egestas eleifend. Aliquam in metus consectetur, efficitur mi in, consequat leo. Sed feugiat risus eget congue tincidunt. Fusce sit amet sapien eu nulla sagittis ornare. Duis erat felis, tempus a aliquam eget, molestie vulputate sem. Etiam euismod id mi egestas pretium. Proin gravida tellus a tristique faucibus. Phasellus at sagittis diam.
