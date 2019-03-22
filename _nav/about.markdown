@@ -10,6 +10,10 @@ layout: page
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu lacinia enim, quis auctor diam. Vestibulum vel nisi massa. Maecenas mi lorem, vehicula eget condimentum ac, tempus id quam. Cras nec ipsum fringilla, porttitor nisi ac, eleifend lectus. Proin volutpat ligula eu mi tempus mollis. Sed ut odio vitae nisi fermentum dictum nec vel velit. Nullam eu egestas lectus, et vestibulum libero. Curabitur vel ligula velit. Suspendisse massa tortor, molestie vitae porttitor eget, pharetra quis dui.
 
+![Layer 27.png](/uploads/Layer%2027.png)
+
+![Layer 26.png](/uploads/Layer%2026.png)
+
 Vestibulum vulputate erat consequat nibh accumsan, nec consequat nibh feugiat. Nulla congue orci nisl. Curabitur mollis nibh ullamcorper orci porttitor tristique. Nunc ut nibh imperdiet tortor finibus suscipit vel ornare turpis. Nunc a sollicitudin tellus. Donec dictum fringilla rutrum. Aenean eget fringilla dolor. Aliquam velit diam, luctus pharetra iaculis quis, viverra sed libero. Ut posuere viverra leo sed faucibus.
 
 Nullam sed nunc pharetra, hendrerit magna vitae, consequat nunc. Fusce ut velit feugiat erat interdum ullamcorper in sed est. Aenean tellus neque, lacinia vitae tortor et, sollicitudin dignissim urna. Curabitur volutpat nibh ut posuere ullamcorper. Duis vitae euismod sapien, et accumsan enim. Suspendisse viverra neque quis urna porttitor viverra. Aliquam vehicula elementum vestibulum. Pellentesque non elit at quam sagittis pretium. Curabitur velit nunc, fermentum eget pretium at, convallis nec justo. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.
