@@ -7,7 +7,6 @@
     if ($.fn.classyNav) {
         $('#essenceNav').classyNav();
     }
-
     // :: Sliders Active Code
     if ($.fn.owlCarousel) {
         $('.popular-products-slides').owlCarousel({
