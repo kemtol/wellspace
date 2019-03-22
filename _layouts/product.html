@@ -42,6 +42,10 @@ layout: default
             </div>
             <div class="col-6">
                 <div>
+                    <h3><img src="{{ site.baseurl }}/img/core-img/logo.png" alt=""> AT {{page.title}}</h3>
+                    <address>{{page.address}}</address>
+                </div>
+                <div>
                     <p>{{content}}</p>
                 </div>
                 <div><img src="{{site.baseurl}}{{page.image[1]}}"></div>
@@ -75,10 +79,15 @@ layout: default
         </div>
 
         <div class="row">
-            {% assign photos = page.photo %}
-            {% for photo in photos %}
-                <img src="{{site.baseurl}}{{photo}}" />
-            {% endfor %}
+            <div class="col-6">
+                <img src="{{site.baseurl}}{{page.photo[0]}}" />
+            </div>
+            <div class="col-6">
+                {% assign photos = page.photo %}
+                {% for photo in photos %}
+                    <span class="w-25 d-inline-block"><img src="{{site.baseurl}}{{photo}}" class="w-100" /></span>
+                {% endfor %}
+            </div>
         </div>
     </div>
 </section>
