@@ -74,13 +74,13 @@ layout: default
                 page pricing
             </div>
             <div class="col-6">
-                {{page.map}}
+                {{page.mapcoordinate}}
             </div>
         </div>
 
         <div class="row">
             <div class="col-6">
-                <img src="{{site.baseurl}}{{page.photo[0]}}" />
+                <img src="{{site.baseurl}}{{page.photo[0]}}" class="w-100" />
             </div>
             <div class="col-6 d-flex">
                 {% assign photos = page.photo %}
