@@ -36,17 +36,52 @@ layout: default
 
 <section>
     <div class="container-fluid">
-        <div>{{content}}</div>
-        <div><img src="{{site.baseurl}}{{page.image[0]}}"></div>
-        <div><img src="{{site.baseurl}}{{page.image[1]}}"></div>
+    
+        <div class="row">
+            <div class="col-6">
+                <img src="{{site.baseurl}}{{page.image[0]}}" class="w-100">
+            </div>
+            <div class="col-6">
+                <div>
+                    <p>{{content}}</p>
+                </div>
+                <div><img src="{{site.baseurl}}{{page.image[1]}}"></div>
+            </div>
+        </div>
 
-        <div>{{page.featuresdesc}}}</div>
-        <div>
-            {% assign features = page.featureslist %}
-            {% for feature in features %}
-                <span>{{feature}}</span>
+        <div class="row">
+            <div class="text-center">
+                <h2 class="display-3">FEATURES</h2>
+                <p>{{page.featuresdesc}}</p>
+                <div>
+                    {% assign features = page.featureslist %}
+                    {% for feature in features %}
+                        <span>{{feature}}</span>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+
+        <div class="row">
+            <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="788.54" height="443" type="text/html" src="{{page.video}}?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0"></iframe>
+        </div>
+
+        <div class="row">
+            <div class="col-6">
+                page pricing
+            </div>
+            <div class="col-6">
+                {{page.map}}
+            </div>
+        </div>
+
+        <div class="row">
+            {% assign photos = page.photo %}
+            {% for photo in photos %}
+                <img src="{{site.baseurl}}{{photo}}" />
             {% endfor %}
         </div>
+
     </div>
 </section>
 
