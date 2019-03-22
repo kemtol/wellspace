@@ -12,7 +12,12 @@ image:
 price:
   Private Room Month: 15000000
   Private Room Year: 150000000
-featuresdesc: Lorem ipsum dollor imet
+featuresdesc: Curabitur condimentum ut tortor ut vulputate. Donec pellentesque lorem
+  lorem, in dictum ipsum dignissim vel. Vivamus condimentum ligula laoreet nisi egestas
+  eleifend. Aliquam in metus consectetur, efficitur mi in, consequat leo. Sed feugiat
+  risus eget congue tincidunt. Fusce sit amet sapien eu nulla sagittis ornare. Duis
+  erat felis, tempus a aliquam eget, molestie vulputate sem. Etiam euismod id mi egestas
+  pretium. Proin gravida tellus a tristique faucibus. Phasellus at sagittis diam.
 featureslist:
 - 15 Private Office Rooms
 - 12 Persons Meeting Room
