@@ -37,7 +37,7 @@ layout: default
                 {% assign items = site.product  | sort:"date" | reverse %}
                 {% for item in items %}
                       {% if item.categories contains "office" %}
-                      <div class="single-product-wrapper p-4">
+                      <div class="single-product-wrapper">
                         <!-- Product Description -->
                         <div class="product-description d-block w-50 h-100 float-left">
                             <a href="{{site.baseurl}}{{ item.permalink }}">
@@ -46,7 +46,7 @@ layout: default
                                 <h3>SUITES</h3>
                                 <address>{{item.address}}</address>
                                 <span class="mb-4">More details..</span>
-                                <img src="{{site.baseurl}}{{item.image[1]}}" alt="" class="w-100">    
+                                <img src="{{site.baseurl}}{{item.image[1]}}" alt="" class="w-100 pr-2">    
                             </a>
                         </div>
                         <!-- Product Image -->
