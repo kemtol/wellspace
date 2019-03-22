@@ -6,7 +6,7 @@ categories:
 - office
 image:
 - "/uploads/workwell-suites-kemang.jpg"
-- "/uploads/workwell-suites-kemang.jpg"
+- "/uploads/Layer%2030.jpg"
 price: 235000
 ---
 
