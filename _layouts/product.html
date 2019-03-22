@@ -47,7 +47,7 @@ layout: default
                 <img src="{{site.baseurl}}{{page.image[0]}}" class="w-100">
             </div>
             <div class="col-6">
-                <div class="p-4">
+                <div class="p-4 mt-5 mb-5">
                     <h3 class="mb-5"><img src="{{ site.baseurl }}/img/core-img/logo.png" class="w-25" alt=""> AT {{page.title}}</h3>
                     <address class="mb-5">{{page.address}}</address>
                     <p class="mb-5">{{content}}</p>
@@ -57,13 +57,13 @@ layout: default
         </div>
 
         <div class="row mt-5 mb-5 pt-5 pb-5">
-            <div class="text-center">
-                <h2 class="display-3">FEATURES</h2>
+            <div class="col-6 offset-3 text-center">
+                <h2 class="display-3 mb-5">FEATURES</h2>
                 <p class="mb-5">{{page.featuresdesc}}</p>
                 <div>
                     {% assign features = page.featureslist %}
                     {% for feature in features %}
-                        <span>{{feature}}</span>
+                        <span>{{feature}} | </span>
                     {% endfor %}
                 </div>
             </div>
@@ -90,7 +90,9 @@ layout: default
                 <div class="row">
                 {% assign photos = page.photo %}
                 {% for photo in photos %}
-                    <a href="" class="col-3"><img src="{{site.baseurl}}{{photo}}" class="w-100" /></span>
+                    <a href="" class="col-3 p-4">
+                        <span class="rounded-circle d-block overflow-hidden"><img src="{{site.baseurl}}{{photo}}" class="w-100" /></span>
+                    </a>
                 {% endfor %}
                 </div>
             </div>
