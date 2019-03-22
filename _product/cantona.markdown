@@ -13,6 +13,7 @@ featureslist:
 - 15 Private Office Rooms
 - 12 Persons Meeting Room
 - Cozy Lounge
+mapcoordinate: 
 ---
 
 content for workwell suites
