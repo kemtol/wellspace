@@ -6,7 +6,7 @@ image: "/uploads/Featured-Image-Meet-The-Team-1920x720.jpg"
 layout: page
 ---
 
-<div>
+<div class="text-center">
 
 <h4>ALL IT TAKES IS A GREAT TEAMWORK</h4>
 
