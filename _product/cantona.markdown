@@ -8,6 +8,11 @@ image:
 - "/uploads/workwell-suites-SCBD.jpg"
 - "/uploads/workwell-suites-SCBD.jpg"
 price: 235000
+featuresdesc: 
+featureslist:
+- 15 Private Office Rooms
+- 12 Persons Meeting Room
+- Cozy Lounge
 ---
 
 content for workwell suites
