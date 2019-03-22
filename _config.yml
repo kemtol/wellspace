@@ -17,8 +17,8 @@ collections:
   members:
     title: Members
     output: true
-  media:
-    title: Media
+  mediacoverage:
+    title: Media Coverage
     output: true
   nav:
     title: Nav
@@ -43,7 +43,7 @@ defaults:
     - "/uploads/bg-img.jpg"
 - scope:
     path: ''
-    type: media
+    type: mediacoverage
   values:
     image:
     - "/uploads/media-logo.jpg"    
