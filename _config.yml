@@ -17,8 +17,8 @@ collections:
   members:
     title: Members
     output: true
-  micro-banner:
-    title: Mini Banner
+  media:
+    title: Media
     output: true
   nav:
     title: Nav
@@ -41,6 +41,12 @@ defaults:
     permalink: "/product/"
     image:
     - "/uploads/bg-img.jpg"
+- scope:
+    path: ''
+    type: media
+  values:
+    image:
+    - "/uploads/media-logo.jpg"    
 - scope:
     path: ''
     type: product
