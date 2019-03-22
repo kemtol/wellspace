@@ -20,6 +20,9 @@ collections:
   mediacoverage:
     title: Media Coverage
     output: true
+  members:
+    title: Members
+    output: true
   nav:
     title: Nav
     output: true
@@ -46,7 +49,7 @@ defaults:
     type: mediacoverage
   values:
     image:
-    - "/uploads/media-logo.jpg"    
+    - "/uploads/media-logo.jpg"
 - scope:
     path: ''
     type: product
