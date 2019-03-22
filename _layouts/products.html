@@ -2,6 +2,12 @@
 layout: default
 ---
 
+<style>
+    .hero-content{
+        visibility: hidden;
+    }
+</style>
+
 {% assign current_cat = page.permalink | split: "/" | last %}
 {% if current_cat != "service" %}
     {% assign products = site.product | where: "categories", current_cat | sort:"date" | reverse %}
@@ -34,13 +40,13 @@ layout: default
                       <!-- Single Product -->
                       <div class="single-product-wrapper p-4">
                         <!-- Product Description -->
-                        <div class="product-description d-block w-100 h-100 p-4">
+                        <div class="product-description d-block w-50 h-100 p-4">
                             <a href="{{site.baseurl}}{{ item.permalink }}">
                                 <h6>{{ item.title }}</h6>
                             </a>
                         </div>
                         <!-- Product Image -->
-                        <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img">
+                        <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img w-50">
                             <img src="{{site.baseurl}}{{item.image[0]}}" alt="">
                             <!-- Hover Thumb -->
                             <img class="hover-img" src="{{site.baseurl}}{{item.image[1]}}" alt="">
