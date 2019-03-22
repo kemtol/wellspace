@@ -41,11 +41,12 @@ layout: default
                         <!-- Product Description -->
                         <div class="product-description d-block w-50 h-100 float-left">
                             <a href="{{site.baseurl}}{{ item.permalink }}">
-                                <img src="{{ site.baseurl }}/img/core-img/logo.png" class="w-50 d-block" alt="">
-                                <h6>{{ item.title }}</h6>
+                                <img src="{{ site.baseurl }}/img/core-img/logo.png" class="w-50 d-block mb-4" alt="">
+                                <h6 class="mb-4">{{ item.title }}</h6>
                                 <h3>SUITES</h3>
                                 <address>{{item.address}}</address>
-                                <span>More details..</span>
+                                <span class="mb-4">More details..</span>
+                                <img src="{{site.baseurl}}{{item.image[1]}}" alt="" class="w-100">    
                             </a>
                         </div>
                         <!-- Product Image -->
