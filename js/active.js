@@ -37,6 +37,34 @@
                 }
             }
         });
+        $('.lg-two-slides').owlCarousel({
+            items: 3,
+            margin: 10,
+            loop: true,
+            nav: true,
+            navText: ["<img src='img/core-img/arrow-left.png' alt=''>", "<img src='img/core-img/arrow-right.png' alt=''>"],
+            dots: false,
+            autoplay: true,
+            autoplayTimeout: 5000,
+            smartSpeed: 1000,
+            responsive: {
+                0: {
+                    items: 1
+                },
+                576: {
+                    items: 1
+                },
+                768: {
+                    items: 1
+                },
+                992: {
+                    items: 2
+                },
+                2048: {
+                    items: 2
+                }
+            }
+        });
         $('.products-slides').owlCarousel({
             items: 3,
             margin: 10,
