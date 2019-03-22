@@ -91,7 +91,7 @@ layout: default
                 {% assign photos = page.photo %}
                 {% for photo in photos %}
                     <a href="" class="col-3 p-4">
-                        <span class="rounded-circle d-block overflow-hidden"><img src="{{site.baseurl}}{{photo}}" class="w-100" /></span>
+                        <span class="rounded-circle d-block overflow-hidden" style="overflow: hidden"><img src="{{site.baseurl}}{{photo}}" class="w-100" /></span>
                     </a>
                 {% endfor %}
                 </div>
