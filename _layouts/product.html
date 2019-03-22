@@ -71,7 +71,7 @@ layout: default
 
         <div class="row">
             <div class="col-6">
-                page pricing
+                <p>{{page.pricedesc}}</p>
             </div>
             <div class="col-6">
                 {{page.mapcoordinate}}
@@ -85,7 +85,7 @@ layout: default
             <div class="col-6 d-flex">
                 {% assign photos = page.photo %}
                 {% for photo in photos %}
-                    <a href="" class="w-25 d-block"><img src="{{site.baseurl}}{{photo}}" class="w-100" /></span>
+                    <a href="" class="col-3"><img src="{{site.baseurl}}{{photo}}" class="w-100" /></span>
                 {% endfor %}
             </div>
         </div>
