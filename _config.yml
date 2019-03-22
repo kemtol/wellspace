@@ -14,11 +14,11 @@ collections:
   jumbotron:
     title: Jumbotron
     output: true
-  members:
-    title: Members
-    output: true
   media:
     title: Media
+    output: true
+  members:
+    title: Members
     output: true
   nav:
     title: Nav
@@ -46,7 +46,7 @@ defaults:
     type: media
   values:
     image:
-    - "/uploads/media-logo.jpg"    
+    - "/uploads/media-logo.jpg"
 - scope:
     path: ''
     type: product
