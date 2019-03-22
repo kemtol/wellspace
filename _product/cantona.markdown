@@ -9,6 +9,12 @@ address: Equity Tower, 18th floor, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta S
 image:
 - "/uploads/Layer%2029.jpg"
 - "/uploads/Layer%2030.jpg"
+pricedesc: Curabitur condimentum ut tortor ut vulputate. Donec pellentesque lorem
+  lorem, in dictum ipsum dignissim vel. Vivamus condimentum ligula laoreet nisi egestas
+  eleifend. Aliquam in metus consectetur, efficitur mi in, consequat leo. Sed feugiat
+  risus eget congue tincidunt. Fusce sit amet sapien eu nulla sagittis ornare. Duis
+  erat felis, tempus a aliquam eget, molestie vulputate sem. Etiam euismod id mi egestas
+  pretium. Proin gravida tellus a tristique faucibus. Phasellus at sagittis diam.
 price:
   Private Room Month: 15000000
   Private Room Year: 150000000
