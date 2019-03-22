@@ -36,24 +36,24 @@ layout: default
 
 <section>
     <div class="container-fluid">
-        <div class="row">
+        <div class="row mb-5 pb-5">
             <div class="col-6">
                 <img src="{{site.baseurl}}{{page.image[0]}}" class="w-100">
             </div>
             <div class="col-6">
                 <div class="p-4">
-                    <h3><img src="{{ site.baseurl }}/img/core-img/logo.png" class="w-25" alt=""> AT {{page.title}}</h3>
-                    <address>{{page.address}}</address>
-                    <p>{{content}}</p>
+                    <h3 class="mb-5"><img src="{{ site.baseurl }}/img/core-img/logo.png" class="w-25" alt=""> AT {{page.title}}</h3>
+                    <address class="mb-5">{{page.address}}</address>
+                    <p class="mb-5">{{content}}</p>
                 </div>
                 <div><img src="{{site.baseurl}}{{page.image[1]}}"></div>
             </div>
         </div>
 
-        <div class="row">
+        <div class="row mt-5 mb-5 pt-5 pb-5">
             <div class="text-center">
                 <h2 class="display-3">FEATURES</h2>
-                <p>{{page.featuresdesc}}</p>
+                <p class="mb-5">{{page.featuresdesc}}</p>
                 <div>
                     {% assign features = page.featureslist %}
                     {% for feature in features %}
@@ -63,28 +63,30 @@ layout: default
             </div>
         </div>
 
-        <div class="row">
+        <div class="row mt-5 mb-5 pt-5 pb-5">
             <iframe frameborder="0" scrolling="no" marginheight="0" marginwidth="0" width="100%" height="480" type="text/html" src="{{page.video}}?autoplay=0&fs=0&iv_load_policy=3&showinfo=0&rel=0&cc_load_policy=0&start=0&end=0"></iframe>
         </div>
 
-        <div class="row">
+        <div class="row mt-5 mb-5 pt-5 pb-5">
             <div class="col-6">
-                <p>{{page.pricedesc}}</p>
+                <p class="mb-5">{{page.pricedesc}}</p>
             </div>
             <div class="col-6">
                 {{page.mapcoordinate}}
             </div>
         </div>
 
-        <div class="row">
+        <div class="row mt-5 mb-5 pt-5 pb-5">
             <div class="col-6">
                 <img src="{{site.baseurl}}{{page.photo[0]}}" class="w-100" />
             </div>
-            <div class="col-6 d-flex">
+            <div class="col-6">
+                <div class="row">
                 {% assign photos = page.photo %}
                 {% for photo in photos %}
                     <a href="" class="col-3"><img src="{{site.baseurl}}{{photo}}" class="w-100" /></span>
                 {% endfor %}
+                </div>
             </div>
         </div>
     </div>
