@@ -6,19 +6,25 @@ categories:
 - office
 image:
 - "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-seotags:
-- 
-seodesc:
-- 
+- "/uploads/Layer%2030.jpg"
 video: https://youtu.be/MqvdZ7Fo_8Y
+photo:
+- "/uploads/workwell-suites-kemang.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
 pricing:
   sharedesk month: 1500000
   sharedesk year: 15000000
   private month: 15000000
   private year: 150000000
-photo:
-- "/uploads/workwell-suites-kemang.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
