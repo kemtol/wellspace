@@ -12,66 +12,14 @@
 
   <div class="container-fluid pb-5 mb-5">
       <div class="row">
+      {% assign teams = site.team  | sort:"date" | reverse %}
+      {% for team in teams %}        
         <div class="col-lg-2 col-md-3 col-6">
           <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
+                <img class="img-fluid img-thumbnail" src="{{site.baseurl}}{{team.image}}" alt="">
               </a>
         </div>
-        <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
-              </a>
-        </div>
-        <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
-              </a>
-        </div>
-        <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
-              </a>
-        </div>
-        <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
-              </a>
-        </div>
-        <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
-              </a>
-        </div>
-        <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
-              </a>
-        </div>
-        <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
-              </a>
-        </div>
-        <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
-              </a>
-        </div>
-        <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
-              </a>
-        </div>
-        <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
-              </a>
-        </div>
-        <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="https://source.unsplash.com/pWkk7iiCoDM/400x300" alt="">
-              </a>
-        </div>
+      {% endfor %}
       </div>
   </div>
 </section>
