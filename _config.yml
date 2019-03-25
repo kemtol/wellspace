@@ -5,6 +5,9 @@ collections:
   big-banner:
     title: Big Banner
     output: true
+  company:
+    title: Company
+    output: true
   deals:
     title: Deals
     output: true
