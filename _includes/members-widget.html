@@ -5,15 +5,15 @@
                 <div class="lg-two-slides owl-carousel">
                 {% assign items = site.members  | sort:"date" | reverse %}
                 {% for item in items %}
-                      <div class="single-product-wrapper">
-                        <div class="product-description d-block w-25 h-100 float-left">
-                            <img src="{{site.baseurl}}{{item.image}}" alt="" class="w-100 pr-2">    
+                    <div class="single-product-wrapper">
+                        <div class="d-block w-25 h-100 float-left" style="border-radius: 50%;overflow:hidden;">
+                            <img src="{{site.baseurl}}{{item.image}}" alt="" class="w-100">    
                         </div>
-                        <div class="d-block product-img w-75 float-right">
+                        <div class="d-block product-img w-75 float-right pl-3">
                             <h2>{{item.title}} ({{item.position}}, {{item.company}})</h2>
                             <p>{{item.content}}</p>
                         </div>
-                      </div>
+                    </div>
                 {% endfor %}
                 </div>
             </div>
