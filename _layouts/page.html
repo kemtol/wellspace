@@ -22,16 +22,21 @@ layout: default
 
 </section>
 
-<h1>{{page.path}}</h1>
+{% if page.path == "_nav/about.markdown" %}
+    {% include milestone-widget.html %}
+{% endif %}
 
-{% include members-widget.html %}
+{% if page.path == "_nav/meet-the-team.markdown" %}
+    {% include team-widget.html %}
+{% endif %}
 
-{% include company-widget.html %}
+{% if page.path == "_nav/our-members.markdown" %}
+    {% include members-widget.html %}
+    {% include company-widget.html %}
+{% endif %}
 
-{% include deals-widget.html %}
-
-{% include milestone-widget.html %}
-
-{% include team-widget.html %}
+{% if page.path == "_nav/whats-on.markdown" %}
+    {% include deals-widget.html %}
+{% endif %}
 
 {% include gallery-widget.html %}
