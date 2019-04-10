@@ -3,7 +3,11 @@ title: ABOUT US
 date: 2018-08-31 16:49:00 +07:00
 permalink: "/about.html"
 image: "/uploads/bg-3.jpg"
-milestone: "/uploads/milestone-bg.jpg"
+milestone-image: "/uploads/milestone-bg.jpg"
+milestone-description: |-
+  Freeware now is transformed into Wellspace group with new diversed brand opening over 10 new locations in the pipeline by end of 2019.
+
+  We also launched our new, fresh look that you can now enjoy!
 layout: page
 ---
 
