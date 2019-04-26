@@ -1035,6 +1035,9 @@ footer{
         p{
             font-size: 1.4rem;
             color: #fff;
+            @media #{$breakpoint-xs} {
+                font-size:21px;
+            }
         }
     }
 }
