@@ -20,7 +20,7 @@
                     <ul>
                         {% for topmenu in site.nav %}
                             <li>
-                                <a href="{{ topmenu.permalink }}">
+                                <a href="{{site.baseurl}}{{ topmenu.permalink }}">
                                     {{ topmenu.title }}
                                 </a>
                             </li>

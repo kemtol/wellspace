@@ -247,6 +247,10 @@ img {
     animation: upndown 20s linear;
     -webkit-animation-iteration-count: infinite;
     animation-iteration-count: infinite;
+    @media #{$breakpoint-xs} {
+        left:15%;
+        z-index:-1;
+    }
 }
 
 .s2{
@@ -336,6 +340,9 @@ img {
 
 h2.display-3{
     font-family:georgia;
+    @media #{$breakpoint-xs} {
+        font-size:32px;
+    }
 }
 
 h4{
@@ -925,7 +932,7 @@ footer{
         height: 450px;
     }
     @media #{$breakpoint-xs} {
-        height: 350px;
+        padding-top: 7rem;
     }
 
     .page-title-left{
@@ -948,8 +955,15 @@ footer{
                 font-size: 48px;
             }
             @media #{$breakpoint-xs} {
-                font-size: 30px;
+                font-size: 21px;
+                margin-bottom: 24px;
             }
+        }
+        .img-jmb{
+            @media #{$breakpoint-xs} {
+                max-width:300px;
+                margin-bottom: 24px !important;
+            }   
         }
         span.line-yellow{
             height: 3px;
@@ -983,11 +997,27 @@ footer{
 }
 
 #sect--welcome{
+    img.logo-welcome{
+        @media #{$breakpoint-xs} {
+            max-width: 300px;
+        }
+    }
     p{
         font-size: 32px;
         color: #111;
         font-family: georgia;
         line-height: 1.5;
+        @media #{$breakpoint-xs} {
+            font-size:21px;
+        }
+    }
+}
+
+#sect-welcome-2{
+    .banner2{
+        @media #{$breakpoint-xs} {
+            background-size:75%;
+        }
     }
 }
 
