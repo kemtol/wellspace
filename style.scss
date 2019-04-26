@@ -926,6 +926,10 @@ footer{
     @media #{$breakpoint-xs} {
         height: 350px;
     }
+
+    .page-title-left{
+        background: #003760;color: yellow;font-family: 'Poppins', sans-serif;font-weight: 600;font-size: 3rem;padding:1rem;padding-left: 2rem;letter-spacing: 7px;
+    }
     .hero-content {
         h6 {
             font-size: 18px;
