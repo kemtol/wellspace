@@ -49,6 +49,14 @@ defaults:
     - "/uploads/bg-img.jpg"
 - scope:
     path: ''
+    type: gallery
+  values:
+    layout: default
+    author: "@someone"
+    image:
+    - "/uploads/gallery-1.jpg"
+- scope:
+    path: ''
     type: mediacoverage
   values:
     image:
