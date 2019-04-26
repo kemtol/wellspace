@@ -950,6 +950,12 @@ footer{
                 font-size: 30px;
             }
         }
+        span.line-yellow{
+            height: 3px;
+            width: 60px;
+            background: gold;
+            margin: auto;
+        }
     }
 
     #jumbotron--nav{
@@ -1232,6 +1238,22 @@ footer{
     .single-product-wrapper{
         &:hover {
             background:gold;
+        }
+    }
+}
+
+.gallery-widget-slide{
+    .single-product-wrapper{
+        .product-description{
+            opacity: 0.8;
+            top: 0;
+            right: 0;
+            left: 0;
+            bottom: 0;
+            background: green;
+        }
+        .product-description:hover{
+            display:block
         }
     }
 }
