@@ -14,7 +14,7 @@
   <div class="container-fluid pb-5 mb-5">
       <div class="row">
           <div class="col-12">
-              <div class="popular-products-slides owl-carousel">
+              <div class="popular-products-slides front-services-slide owl-carousel">
                     {% assign items = site.product limit:4 | sort:"date" | reverse %}
                     {% for item in items %}
                           {% if item.categories contains "parent" %}

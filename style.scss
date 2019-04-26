@@ -1211,7 +1211,6 @@ footer{
         }
     }
     &:hover {
-        background:gold;
         .product-img {
             .hover-img {
                 opacity: 1;
@@ -1225,6 +1224,14 @@ footer{
         .hover-content {
             opacity: 1;
             visibility: visible;
+        }
+    }
+}
+
+.front-services-slide{
+    .single-product-wrapper{
+        &:hover {
+            background:gold;
         }
     }
 }
