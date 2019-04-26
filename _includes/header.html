@@ -12,22 +12,19 @@
             <!-- Menu -->
             <div class="classy-menu float-right clearfix">
                 <!-- close btn -->
-                <div class="classycloseIcon d-block d-sm-none">
+                <div class="classycloseIcon d-block">
                     <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
                 </div>
                 <!-- Nav Start -->
-                <div class="classynav d-none">
+                <div class="classynav">
                     <ul>
-                        <li><a href="{{site.baseurl}}/lapangan-futsal-dan-mini-soccer-BSD.html">STADIUM</a></li>
-                            {% for topmenu in site.nav %}
-                                {% if topmenu.permalink != '/product/' %}  
-                                    <li>
-                                        <a href="{{ topmenu.permalink }}">
-                                            {{ topmenu.title }}
-                                        </a>
-                                    </li>
-                                {% endif %}
-                            {% endfor %}
+                        {% for topmenu in site.nav %}
+                            <li>
+                                <a href="{{ topmenu.permalink }}">
+                                    {{ topmenu.title }}
+                                </a>
+                            </li>
+                        {% endfor %}
                     </ul>
                 </div>
                 <!-- Nav End -->
