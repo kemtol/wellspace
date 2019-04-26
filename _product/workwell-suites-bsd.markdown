@@ -7,6 +7,11 @@ categories:
 image:
 - "/uploads/workwell-suites-SCBD.jpg"
 - "/uploads/Layer%2030.jpg"
+featureslist:
+- 
+- 
+- 
+- Center of South Tangerang
 video: https://youtu.be/MqvdZ7Fo_8Y
 photo:
 - "/uploads/workwell-suites-kemang.jpg"
