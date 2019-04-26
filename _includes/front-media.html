@@ -1,4 +1,4 @@
-<section class="brands-area pt-5 pt-sm-5 pb-5 pb-sm-5 mt-4 mt-sm-5 mb-4 mb-sm-5 ">
+<section class="brands-area pt-5 pt-sm-5 pb-5 pb-sm-5 mb-4 mb-sm-5 ">
     <div class="container-fluid">
         <div class="row">
             <div class="col-12 col-md-4 d-block d-sm-none">
@@ -9,7 +9,7 @@
                   <div class="row">
                         {% assign items = site.mediacoverage | sort:"date" %}
                         {% for item in items %}
-                              <div class="col-4 col-md-3">
+                              <div class="col-6 col-md-3">
                                 <a href="{{item.permalink}}"  class="d-block product-img">
                                   <img src="{{site.baseurl}}{{item.image}}" alt="">
                                 </a>
