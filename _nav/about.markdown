@@ -13,7 +13,13 @@ layout: page
 
 #### THE INTRODUCTION
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean eu lacinia enim, quis auctor diam. Vestibulum vel nisi massa. Maecenas mi lorem, vehicula eget condimentum ac, tempus id quam. Cras nec ipsum fringilla, porttitor nisi ac, eleifend lectus. Proin volutpat ligula eu mi tempus mollis. Sed ut odio vitae nisi fermentum dictum nec vel velit. Nullam eu egestas lectus, et vestibulum libero. Curabitur vel ligula velit. Suspendisse massa tortor, molestie vitae porttitor eget, pharetra quis dui.
+Started as Freeware Spaces Group, a premier operator of co-working–the first mover in Indonesia who brought the concept of Freeware Co-working by launching Freeware Labs Antasari in 2012 where no other players in the market and was fully sponsored by an energy company to run their available/idle office space as a business incubator for the start-ups to work for free.
+
+Recently re-introduced to the public as Wellspaces, we don't want to limit ourselves to one type of portfolio. With our new set of brands, we give people different choices. Spaces to count on, that are different enough to be fun. Unstuffy spaces, where people feel comfortable to be productive, and just get on with the genuine connection amongst our team and members. Spaces that naturally stand out from the crowd.
+
+The company now provides not only a great living experience to our members, but also an active discovery that the members can get inspirations and creative juices from.
+
+The new brands are also committed to create feelings of personal growth, enrichment and a sense of community and affiliation beyond delivering an efficient design and accommodating spaces—Somewhere charming and sophisticated, but with an informal and community spirit.
 
 ![Layer 27.png](https://raw.githubusercontent.com/kemtol/wellspace/master/_uploads/Layer%2027.png)
 
