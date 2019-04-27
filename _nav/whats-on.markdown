@@ -6,4 +6,4 @@ image: "/uploads/bg-3.jpg"
 layout: page
 ---
 
-BE IT WORKWELL, DWELL, WELLKITCHEN OR ANY OF OUR SPACES liat disini kalau mau isi https://drive.google.com/drive/u/0/folders/1zII_Zv2BxP2wLAPOxZHbliE8Fpxn2K5G
+BE IT **WORKWELL**, **DWELL**, **WELLKITCHEN **OR ANY OF OUR SPACES, THERE ARE ALWAYS WELL-INSPIRED EVENTS AND SPECIAL DEALS/PROMOTIONS AWAITING YOU TO DISCOVER!
