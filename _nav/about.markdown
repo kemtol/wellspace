@@ -19,13 +19,13 @@ layout: page
 <div class="col-12 col-lg-8">
 <div class="row">
 
-<div class="col-8">
+<div class="col-12 col-md-8">
 <h4 class="mb-5">THE INTRODUCTION</h4>
 <p class="text-justify">Started as Freeware Spaces Group, a premier operator of co-working–the first mover in Indonesia who brought the concept of Freeware Co-working by launching Freeware Labs Antasari in 2012 where no other players in the market and was fully sponsored by an energy company to run their available/idle office space as a business incubator for the start-ups to work for free.
 </p>
 </div>
 
-<div class="col-4 text-left">
+<div class="col-12 col-md-4 text-left">
 <img src="https://raw.githubusercontent.com/kemtol/wellspace/master/_uploads/Layer%2027.png" class="img-fluid mb-5" style="width:100%; max-width:200px" />
 </div>
 
@@ -37,11 +37,11 @@ layout: page
 <p class="text-justify">The company now provides not only a great living experience to our members, but also an active discovery that the members can get inspirations and creative juices from.</p>
 </div>
 
-<div class="col-3 text-right">
+<div class="col-12 col-md-3 text-right">
 <img src="https://raw.githubusercontent.com/kemtol/wellspace/master/_uploads/Layer%2026.png" class="img-fluid mb-5" style="width:100%;max-width:200px" />
 </div>
 
-<div class="col-9">
+<div class="col-12 col-md-9">
 <p class="text-justify">The new brands are also committed to create feelings of personal growth, enrichment and a sense of community and affiliation beyond delivering an efficient design and accommodating spaces—Somewhere charming and sophisticated, but with an informal and community spirit.</p>
 </div>
 
