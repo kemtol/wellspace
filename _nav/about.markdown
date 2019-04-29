@@ -12,6 +12,8 @@ layout: page
 ---
 
 <div class="row">
+<div class="col-12 col-lg-8">
+<div class="row">
 
 <div class="col-8">
 <h4>THE INTRODUCTION</h4>
@@ -35,5 +37,8 @@ layout: page
 
 <div class="col-8">
 <p>The new brands are also committed to create feelings of personal growth, enrichment and a sense of community and affiliation beyond delivering an efficient design and accommodating spaces—Somewhere charming and sophisticated, but with an informal and community spirit.</p>
+</div>
+
+</div>
 </div>
 </div>
