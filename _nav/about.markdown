@@ -11,7 +11,7 @@ milestone-description: |-
 layout: page
 ---
 
-<div class="row">
+<div class="row justify-content-center">
 <div class="col-12 col-lg-8">
 <div class="row">
 
