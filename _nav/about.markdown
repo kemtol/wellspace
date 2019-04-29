@@ -8,6 +8,9 @@ milestone-description: |-
   <p>Freeware now is transformed into Wellspace group with new diversed brand opening over 10 new locations in the pipeline by end of 2019.</p>
 
   <p>We also launched our new, fresh look that you can now enjoy!</p>
+content-bg-image: "/img/bg-img/bg-plus.png"
+content-bg-repeat: no-repeat
+content-bg-position: bottom left
 layout: page
 ---
 
