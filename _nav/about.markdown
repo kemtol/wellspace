@@ -27,7 +27,7 @@ layout: page
 
 <div class="col-12 mb-5">
 <p>Recently re-introduced to the public as Wellspaces, we don't want to limit ourselves to one type of portfolio. With our new set of brands, we give people different choices. Spaces to count on, that are different enough to be fun. Unstuffy spaces, where people feel comfortable to be productive, and just get on with the genuine connection amongst our team and members. Spaces that naturally stand out from the crowd.</p>
-</p>
+</div>
 
 <div class="col-12 mb-5">
 <p>The company now provides not only a great living experience to our members, but also an active discovery that the members can get inspirations and creative juices from.</p>
