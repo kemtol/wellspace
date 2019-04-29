@@ -21,7 +21,7 @@ layout: page
 </p>
 </div>
 
-<div class="col-4">
+<div class="col-4 text-left">
 <img src="https://raw.githubusercontent.com/kemtol/wellspace/master/_uploads/Layer%2027.png" class="img-fluid mb-5" style="width:100%; max-width:200px" />
 </div>
 
@@ -33,7 +33,7 @@ layout: page
 <p>The company now provides not only a great living experience to our members, but also an active discovery that the members can get inspirations and creative juices from.</p>
 </div>
 
-<div class="col-3">
+<div class="col-3 text-right">
 <img src="https://raw.githubusercontent.com/kemtol/wellspace/master/_uploads/Layer%2026.png" class="img-fluid mb-5" style="width:100%;max-width:200px" />
 </div>
 
