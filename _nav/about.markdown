@@ -37,7 +37,7 @@ layout: page
 <p class="text-justify">The company now provides not only a great living experience to our members, but also an active discovery that the members can get inspirations and creative juices from.</p>
 </div>
 
-<div class="col-12 col-md-3 text-right">
+<div class="col-12 col-md-3 text-left text-md-right">
 <img src="https://raw.githubusercontent.com/kemtol/wellspace/master/_uploads/Layer%2026.png" class="img-fluid mb-5" style="width:100%;max-width:200px" />
 </div>
 
