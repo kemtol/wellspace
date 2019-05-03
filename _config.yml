@@ -130,8 +130,8 @@ igid:
 igtoken: 
 wa: 
 google_analytics: 
-url: https://kemtol.github.io/wellspace
-baseurl: https://kemtol.github.io/wellspace
+url: https://wellspaces.CO
+baseurl:
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
