@@ -1,6 +1,6 @@
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
-# Jekyll Now
+# Jekyll Now..
 
 **Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
 
@@ -70,22 +70,22 @@ It covers:
 
 ## Jekyll Now Features
 
-✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog  
-✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)  
-✓ Sass/Coffeescript support using Jekyll 2.0  
-✓ Free hosting on your GitHub Pages user site  
-✓ Markdown blogging  
-✓ Syntax highlighting  
-✓ Disqus commenting  
-✓ Google Analytics integration  
-✓ SVG social icons for your footer  
-✓ 3 http requests, including your avatar  
+✓ Command-line free _fork-first workflow_, using GitHub.com to create, customize and post to your blog
+✓ Fully responsive and mobile optimized base theme (**[Theme Demo](http://jekyllnow.com)**)
+✓ Sass/Coffeescript support using Jekyll 2.0
+✓ Free hosting on your GitHub Pages user site
+✓ Markdown blogging
+✓ Syntax highlighting
+✓ Disqus commenting
+✓ Google Analytics integration
+✓ SVG social icons for your footer
+✓ 3 http requests, including your avatar
 
 ✘ No installing dependencies
-✘ No need to set up local development  
-✘ No configuring plugins  
-✘ No need to spend time on theming  
-✘ More time to code other things ... wait ✓!  
+✘ No need to set up local development
+✘ No configuring plugins
+✘ No need to spend time on theming
+✘ More time to code other things ... wait ✓!
 
 ## Questions?
 
