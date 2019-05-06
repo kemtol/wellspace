@@ -11,7 +11,7 @@
                                 <a href="#"><img src="{{ site.baseurl }}/img/core-img/logo.png" alt=""></a>
                             </div>
                             <div class="w-100 w-sm-75 p-1 p-sm-4">
-                                <h4 style="font-size: 16px;letter-spacing: 3px;color: #333;">INQUIRE FOR A SPACE? CONTACT US AT<br>+62 812 3787 3056 OR CLICK HERE!</h4>
+                                <h4 style="font-size: 16px;letter-spacing: 3px;color: #333;">INQUIRE FOR A SPACE? CONTACT US AT<br>{{site.wa}} OR CLICK HERE!</h4>
                             </div>
                         </div>
                     </div>
@@ -19,12 +19,10 @@
                     <div class="col-12 col-md-12 justify-content-center d-none d-sm-flex">
                         <div class="single_widget_area mb-30 w-75">
                             <ul class="footer_widget_menu d-flex justify-content-around">
-                                <li class="p-2"><a href="https://wa.me/{{site.wa}}/?text=Halo admin, bagaimana status order saya..">HOME</a></li>
-                                <li class="p-2"><a href="https://wa.me/{{site.wa}}/?text=Halo admin, berikut konfirmasi pembayaran saya..">ABOUT US</a></li>
-                                <li class="p-2"><a href="/kebijakan-pengiriman.html">OUR SERVICE</a></li>
-                                <li class="p-2"><a href="/kebijakan-penggunaan.html">MEET THE TEAM</a></li>
-                                <li class="p-2"><a href="/">WHATS ON</a></li>
-                                <li class="p-2"><a href="/">OUR MEMBERS</a></li>
+                                <li class="p-2"><a href="{{site.baseurl}}">HOME</a></li>
+                                {% for topmenu in site.nav %}
+                                  <li class="p-2"><a href="{{site.baseurl}}{{ topmenu.permalink }}">{{ topmenu.title }}</a></li>
+                                {% endfor %}
                             </ul>
                         </div>
                     </div>
@@ -59,7 +57,7 @@
                         </div>
                     </div>
                 </div>
-            </div>  
+            </div>
         </div>
         <div class="row mt-5 d-none">
             <div class="col-md-12 text-center" style="border-top: 1px dotted #ccc;padding-top: 20px;">
