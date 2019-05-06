@@ -7,7 +7,7 @@ layout: page
 ---
 
 <div class="row">
-<div class="col-6 offset-3">
+<div class="col-12 col-lg-6 offset-lg-3">
 <h4>ALL IT TAKES IS A GREAT TEAMWORK</h4>
 <p>Wellspaces is a group of talent whose individuals believe in diversity, inclusivity, openness, creativity, genuine, high standard of work ethics and service from the heart. We grow by working together as a team where thriving spirit and effectiveness of a global-level company becomes our work inspiration.</p>
 </div>
