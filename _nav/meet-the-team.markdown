@@ -24,7 +24,7 @@ layout: page
 <div class="row">
 
 <div class="col-3 col-lg-">
-<img src="/uploads/Layer%2029-d91318.jpg" class="col-5" />
+<img src="/uploads/Layer%2029-d91318.jpg" class="img-fluid" />
 </div>
 
 <div class="col-7">
