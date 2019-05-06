@@ -23,7 +23,7 @@ layout: page
 
 <div class="row">
 
-<div class="col-8 offset-2 col-lg-3">
+<div class="col-8 offset-2 col-lg-3 offset-lg-0">
 <img src="/uploads/Layer%2029-d91318.jpg" class="img-fluid mb-3" />
 </div>
 
