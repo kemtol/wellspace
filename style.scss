@@ -1013,6 +1013,7 @@ footer{
 .welcome_area.not-home {
   .container-fluid.h-100{
     height: 350px!important;
+    
     @media #{$breakpoint-xs} {
       height: 75px!important;
     }
