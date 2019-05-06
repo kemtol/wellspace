@@ -23,11 +23,11 @@ layout: page
 
 <div class="row">
 
-<div class="col-3 col-lg-">
-<img src="/uploads/Layer%2029-d91318.jpg" class="img-fluid" />
+<div class="col-8 offset-2 col-lg-3">
+<img src="/uploads/Layer%2029-d91318.jpg" class="img-fluid mb-3" />
 </div>
 
-<div class="col-7">
+<div class="col-12 col-lg-7">
 <h3>FRITZ ARADHANA (CMO + CO-FOUNDER)</h3>
 <p>Previously named Angga Adhitya, he is an award-winning, well-seasoned professional in Brand, Marketing and Communications with wealth of field experiences ranging from consumer goods, luxury automotive, services, and now commercial property business. Fritz was graduated from the highly regarded Prasetiya Mulya School of Business and Economics, majored in Marketing & Communications and granted as the "Honored Fellowship Student".</p>
 </div>
