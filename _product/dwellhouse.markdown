@@ -7,6 +7,8 @@ categories:
 image:
 - "/uploads/home-owl-dwellhouse.jpg"
 - "/uploads/home-owl-dwellhouse.jpg"
+price:
+  privatemonth: 5000000
 branches:
 - House Antasari 27
 - Signature Kertanegara

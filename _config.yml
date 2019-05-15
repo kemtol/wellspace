@@ -126,12 +126,12 @@ defaults:
 name: Wellspaces Co.
 description: Freewarespaces, Office Space, Jakarta Best Co Working Space.
 logo: img/core-img/logo.png
-igid:
-igtoken:
-wa: +62 812 3787 3056
-google_analytics:
+igid: 
+igtoken: 
+wa: "+62 812 3787 3056"
+google_analytics: 
 url: https://wellspaces.CO
-baseurl:
+baseurl: 
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
