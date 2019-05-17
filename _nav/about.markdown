@@ -10,7 +10,8 @@ milestone-description: |-
   <p>We also launched our new, fresh look that you can now enjoy!</p>
 content-bg-image: "/uploads/bg-plus-90.png"
 content-bg-repeat: no-repeat
-content-bg-position: bottom left
+content-bg-position: top left
+content-bg-size: 16%
 content-inline-css: 
 layout: page
 ---
