@@ -26,11 +26,10 @@ layout: default
 
 {% include jumbotron.html %}
 
-<section>
-    <div class="container-fluid mt-5 mb-5 pt-5 pb-5">
+<section class="pt-4 pt-sm-5 pb-4 pb-sm-5 mt-4 mt-sm-5 mb-4 mb-sm-5 ">
+    <div class="container-fluid">
         <div class="row justify-content-center">
             {{content}}
-            </div>
         </div>
     </div>
 </section>
@@ -55,7 +54,7 @@ layout: default
                                 <h3>SUITES</h3>
                                 <address>{{item.address}}</address>
                                 <span class="mb-4">More details..</span>
-                                <img src="{{site.baseurl}}{{item.image[1]}}" alt="" class="w-100 pr-2">    
+                                <img src="{{site.baseurl}}{{item.image[1]}}" alt="" class="w-100 pr-2">
                             </a>
                         </div>
                         <!-- Product Image -->
