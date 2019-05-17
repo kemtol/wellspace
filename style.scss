@@ -237,7 +237,7 @@ img {
 
 /* SHAPE */
 .ornament{
-    z-index:21;
+    z-index:-1;
 }
 
 .s1{
@@ -450,11 +450,11 @@ footer{
 /* ScrollUp */
 
 #scrollUp {
-    background-color: transparent;
+    background-color: white;
     border-radius: 50%;
     bottom: 60px;
     box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.2);
-    color: #ccc;
+    color: #003760;
     font-size: 32px;
     height: 40px;
     line-height: 40px;
@@ -1261,7 +1261,7 @@ footer{
         }
         h6 {
             color: #222222;
-            margin-bottom: 5px;
+            margin-bottom: 1rem;
         }
         p {
             margin-bottom: 0;
