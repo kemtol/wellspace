@@ -983,6 +983,7 @@ footer{
             }
         }
         .img-jmb{
+            max-width:400px;
             @media #{$breakpoint-xs} {
                 max-width:300px;
                 margin-bottom: 24px !important;
@@ -1029,12 +1030,13 @@ footer{
 
 #sect--welcome{
     img.logo-welcome{
+        max-width:400px;
         @media #{$breakpoint-xs} {
             max-width: 300px;
         }
     }
     p{
-        font-size: 32px;
+        font-size: 1.75rem;
         color: #111;
         font-family: georgia;
         line-height: 1.5;
