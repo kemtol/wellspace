@@ -12,12 +12,17 @@
             <!-- Menu -->
             <div class="classy-menu float-right clearfix d-block d-sm-none">
                 <!-- close btn -->
-                <div class="classycloseIcon d-block">
+                <div class="classycloseIcon d-none">
                     <div class="cross-wrap"><span class="top"></span><span class="bottom"></span></div>
                 </div>
                 <!-- Nav Start -->
                 <div class="classynav">
                     <ul>
+                        <li>
+                          <a href="{{site.url}}">
+                            Home
+                          </a>
+                        </li>
                         {% for topmenu in site.nav %}
                             <li>
                                 <a href="{{site.baseurl}}{{ topmenu.permalink }}">

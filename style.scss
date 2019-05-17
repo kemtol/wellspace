@@ -504,6 +504,7 @@ footer{
         @media #{$breakpoint-xs} {
             @include flex-wrap(wrap);
         }
+        
         .classy-navbar-toggler {
             @media #{$breakpoint-xs} {
                 margin-left: auto;
@@ -515,6 +516,9 @@ footer{
                     background-color: #fff;
                 }
             }
+        }
+        .classy-menu.menu-on{
+          background:gold;
         }
     }
     .classy-navbar,
@@ -561,6 +565,9 @@ footer{
         }
         @media #{$breakpoint-xs} {
             color: #111;
+            color: #111;
+            font-size: 1.35rem;
+            height: 44px;
             &:hover {
                 color: #000;
             }
