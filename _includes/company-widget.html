@@ -12,14 +12,18 @@
 
   <div class="container-fluid pb-5 mb-5">
       <div class="row">
-      {% assign companies = site.company  | sort:"date" | reverse %}
-      {% for company in companies %}    
-        <div class="col-lg-2 col-md-3 col-6">
-          <span class="d-block mb-4 h-100">
-            <img class="img-fluid" src="{{site.url}}{{company.image}}" alt="">
-          </span>
-        </div>
-      {% endfor %}
+          <div class="col-8 offset-2">
+            <div class="row">
+              {% assign companies = site.company  | sort:"date" | reverse %}
+              {% for company in companies %}
+                <div class="col-lg-2 col-md-3 col-6">
+                  <span class="d-block mb-4 h-100">
+                    <img class="img-fluid" src="{{site.url}}{{company.image}}" alt="">
+                  </span>
+                </div>
+              {% endfor %}
+            </div>
+          </div>
       </div>
   </div>
 </section>
