@@ -1022,6 +1022,18 @@ footer{
 
 .welcome_area.not-home {
   .container-fluid.h-100{
+    .a1{
+      .hero-content{
+        h2{
+          display:none;
+        }
+      }
+    }
+    .a2{
+      #jumbotron--nav.mt-5{
+        margin-top:0px !important;
+      }
+    }
     @media #{$breakpoint-xs} {
       height: 75px!important;
     }
