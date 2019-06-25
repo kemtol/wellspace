@@ -3,7 +3,7 @@
 {% elesif %}
       <section class="welcome_area {% if page.url != '/' %}not-home{% endif %} bg-img background-overlay" style="background-image: url({{site.baseurl}}{{page.image}});">
 {% endif %}
-        <span class="page-title-left display-3 position-absolute d-block">{{ page.title | replace: " ", "<br/>"}}</span>
+        <span class="page-title-left display-3 position-absolute d-block">{{ page.title | replace: " ", "<br/>" | upcase }}</span>
         <div class="container-fluid h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-12 a1">
