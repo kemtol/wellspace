@@ -5,8 +5,8 @@ permalink: "/service/workwell-suites.html"
 categories:
 - office
 image:
+- "/uploads/workwell-suites-SCBD.jpg"
 - "/uploads/Layer%2030.jpg"
-- "/uploads/Layer%2029.jpg"
 price:
   Private Room Month: 15000000
   Private Room Year: 150000000
