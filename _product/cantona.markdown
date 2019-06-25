@@ -44,6 +44,7 @@ photo:
 - "/uploads/workwell-suites-SCBD.jpg"
 - "/uploads/workwell-suites-SCBD.jpg"
 - "/uploads/workwell-suites-SCBD.jpg"
+bg-image: "/uploads/bg-3.jpg"
 ---
 
 Content for workwell suites lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin est ex, vestibulum a ex sit amet, ornare sollicitudin velit. Aenean dictum arcu non dolor lacinia placerat. Praesent tincidunt ultricies rutrum. Aenean lacinia volutpat ante. Integer nec enim efficitur, dapibus est eget, congue ex. Sed hendrerit est eu metus tristique tristique. Nunc facilisis hendrerit turpis sit amet varius. Sed sed leo turpis. Curabitur condimentum justo vel ex tempor lacinia. Nunc eu aliquet lectus. Suspendisse laoreet eleifend odio ut ultricies.
