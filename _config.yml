@@ -67,6 +67,7 @@ defaults:
     type: product
   values:
     layout: product
+    bg-image: "/uploads/bg-3.jpg"
     image:
     - "/uploads/pic-1.jpg"
     - "/uploads/pic-2.jpg"
