@@ -1,4 +1,5 @@
 {% if page.layout == "product" %}
+      <section class="welcome_area {% if page.url != '/' %}not-home{% endif %} bg-img background-overlay" style="background-image: url({{site.baseurl}}{{page.bg-image}});">
       <section class="welcome_area {% if page.url != '/' %}not-home{% endif %} bg-img background-overlay" style="background-image: url({{site.baseurl}}{{page.image}});">
 {% endif %}
         <span class="page-title-left display-3 position-absolute d-block">{{ page.title | replace: " ", "<br/>" }}</span>
