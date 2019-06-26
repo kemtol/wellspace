@@ -1,7 +1,7 @@
 ---
 title: Dwell House Antasari
 date: 2019-06-26 10:53:00 +07:00
-permalink: "/product/dwell-house-antasari.html"
+permalink: "/service/dwell-house.html"
 categories:
 - living
 image:
