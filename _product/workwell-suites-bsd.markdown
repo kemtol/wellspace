@@ -9,6 +9,12 @@ image:
 - "/uploads/Layer%2030.jpg"
 address: The Associate Tower, 2nd Floor, Jl. Lkr. Tim. No. 9, Rw. Mekar Jaya, Serpong,
   Kota Tangerang Selatan, Banten 15310
+featuresdesc: |-
+  Workwell Suites Intermark BSD is:
+  - 30 minutes from Jakarta
+  - Next to the Jakarta - BSD toll road exit
+  - 5 minutes from Pasar Modern BSD
+  - 10 minutes from Edutown Complex (The Breeze, Grha Unilever, Prasetiya Mulya University, AEON Mall, Apple iOS Developer Academy)
 featureslist:
 - The only building in BSD
 - 12 Persons Meeting Room
@@ -39,3 +45,8 @@ pricing:
   private year: 150000000
 ---
 
+Workwell Suites Intermark BSD is located at the new development complex of Intermark where the Associate Tower, 24/7 alfresco dining, business hotel, residence and assembly hall sit in one compound—making it a strategic global business hub in the emerging town of BSD, South Tangerang.
+
+Located next to the exit toll road of BSD from Jakarta, 5-minute drive to Pasar Modern BSD and 10-minute drive to Edutown BSD (Prasetiya Mulya, Unilever Indonesia, The Breeze, Aeon Mall, ICE BSD), Freeware Suites Intermark BSD brings a new perspective in ways of work to South Tangerang where our shared office spaces and all the supporting features are entwined with great design.
+
+Whether you’re an entrepreneur, small business or start-up founder, Freeware Suites Intermark BSD provides the ideal environment for you and your business to thrive. We believe by establishing a professional yet collaborative ecosystem will help our members to be creative, innovative and productive in which business development is paramount.
