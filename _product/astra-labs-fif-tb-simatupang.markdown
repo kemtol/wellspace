@@ -17,6 +17,16 @@ image:
 - "/uploads/10-c6a530.jpg"
 address: Jl. TB Simatupang Kav. 15, Menara FIF, 2nd Floor, RT.4/RW.1, Lb. Bulus, Cilandak,
   Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440
+featuresdesc: |-
+  Astra Labs FIF TB Simatupang is:
+  - 10 minutes walk to Lebak Bulus and Fatmawati MRT Station
+  - Right next to Siloam Hospital and South Quarter
+  - 500 meters to Mayapada Hospital
+  - Within the strategic CBD area of TB Simatupang
+  - 45 minutes drive to Soekarno-Hatta International Airport via the toll road
+  - 5 minutes drive to Poin Square Shopping Mall
+  - Less than 10 minutes drive to Cilandak Town Square and Pondok Indah Hospital
+  - 10 minutes drive to Pondok Indah Mall
 ---
 
 Nestled in FIF Tower, Astra Labs TB Simatupang offers a workspace that promotes innovation and productivity. Be it private office space, meeting rooms or virtual office needs, or event space that can cater up to 75 people, AstraLabs FIF TB Simatupang promises the ideal setup where business unlock their potentials and thrive to grow exponentially through our #WorkLearnNetwork environment that will shape start-ups and scale-ups to take off for future success.
