@@ -8,7 +8,7 @@ layout: page
 
 <div class="row">
 <div class="col-12 col-md-8 offset-md-2 text-center">
-<h4 class="mb-5">TESTIMONIALS FROM OUR MEMBERS AND ALUMNI</h4>
+<h4 class="mb-5">TESTIMONIALS FROM OUR MEMBERS AND ALUMNMI</h4>
 
 <p class="mb-5">Many of our members and alums have started joining us ever since we were still Freeware Spaces and we are beyond proud to be part of their success stories ever since the early stage of their company’s journey. We let them share their experiences of how they feel about our spaces and what makes it memorable to them. </p>
 
