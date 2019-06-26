@@ -11,6 +11,9 @@ collections:
   deals:
     title: Deals
     output: true
+  events:
+    title: Events
+    output: true
   gallery:
     title: Gallery
     output: true
