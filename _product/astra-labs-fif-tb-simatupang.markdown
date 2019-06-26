@@ -1,5 +1,5 @@
 ---
-title: Astra Labs FIF TB Simatupang
+title: Astra Labs Simatupang
 date: 2019-06-26 12:07:00 +07:00
 permalink: "/service/astra-labs-simatupang.html"
 categories:
