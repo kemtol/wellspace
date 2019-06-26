@@ -4,6 +4,7 @@ date: 2019-06-26 12:07:00 +07:00
 permalink: "/service/astra-labs-simatupang.html"
 categories:
 - office
+bg-image: "/uploads/Untitled%20design%20(1).jpg"
 image:
 - "/uploads/1-8ebfad.jpg"
 - "/uploads/2-0aff69.jpg"
