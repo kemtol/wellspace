@@ -53,6 +53,9 @@
       <div class="col-12">
         <div class="grid">
           <div class="grid-sizer"></div>
+          
+          {% assign items = site.product  | sort:"date" | reverse %}
+          {% for item in items %}
           <!-- Grid item -->
           <div class="grid-item p-4">
             <div class="grid-image mb-4">
@@ -66,8 +69,10 @@
               <strong style="color:dodgerblue">Free</strong>
             </div>
           </div>
+          {% endfor %}
+
           <!-- Grid item -->
-          <div class="grid-item p-4">
+          <div class="d-none grid-item p-4">
             <div class="grid-image mb-4">
               <img src="https://www.a-c-d.net/wp-content/uploads/2018/01/Tatsuto-Shibata-tokyo-photography-4-819x1024.jpg" class="img-fluid"  />
               
@@ -80,7 +85,7 @@
             </div>
           </div>
           <!-- Grid item -->
-          <div class="grid-item p-4">
+          <div class="d-none grid-item p-4">
             <div class="grid-image mb-4">
               <img src="https://www.a-c-d.net/wp-content/uploads/2018/01/Tatsuto-Shibata-tokyo-photography-4-819x1024.jpg" class="img-fluid"  />
               
