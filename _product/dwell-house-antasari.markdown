@@ -11,6 +11,33 @@ price:
   Rate: 4000000
 address: Jl. Pangeran Antasari Blok Haji Naim 3 No.27, RT.7/RW.9, Cipete Utara, Kby.
   Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150
+featuresdesc: |-
+  - Queen-size bed
+  - 32-inch Samsung Smart TV that supports YouTube and Netflix viewing
+  - Water Heater
+  - Free Parking
+  - 24/7 security with CCTV system
+  - Daily house cleaning and weekly room cleaning
+  - Fully furnished by Fabelio and IKEA
+  - Minimalistic yet elegantly designed rooms
+  - Work desk in every room
+  - Shared kitchen complete with utensils, large fridge, microwave, electric stoves and water dispenser
+  - Living room with floor-to-ceiling windows allowing ample daylight
+  - Keyless access (thumbprint and password door access)
+
+  Accessibility:
+  - Walking distance to Lippo Mall Kemang
+  - 5-mins to Brawijaya Hospital & Clinic
+  - 5-mins to the vibrant neighbourhood of Kemang
+  - Nearest ATM vestibule: 5-mins walk in the nearest Pertamina Petrol Station - Antasari
+  - 5-mins to Dharmawangsa, Brawijaya and Panglima Polim
+  - 10-mins to Cipete, Senopati, Pasaraya Blok M, Blok M and Senayan Area
+  - 10- up to 15-mins to Sudirman Business Central District (SCBD) and Thamrin
+  - 15-mins to Kuningan and Gatot Soebroto Area
+featureslist:
+- Queen Size Bed
+- Free Parking
+- Thumbprint Access
 ---
 
 Dwell House Antasari 27 is the latest elegant approach to community living. Our concept invites millenials to never feel out of place in their work and home. Modern furnished private rooms and bathrooms for your leisure at a practical value with support from Fabelio furniture. Our newest venture infuses co living with the entrepreneurial spirit of the city we live in. 
