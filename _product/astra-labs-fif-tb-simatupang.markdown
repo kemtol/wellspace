@@ -6,8 +6,8 @@ categories:
 - office
 bg-image: "/uploads/Untitled%20design.jpg"
 image:
+- "/uploads/12.jpg"
 - "/uploads/1-8ebfad.jpg"
-- "/uploads/2-0aff69.jpg"
 address: Jl. TB Simatupang Kav. 15, Menara FIF, 2nd Floor, RT.4/RW.1, Lb. Bulus, Cilandak,
   Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440
 featuresdesc: |-
