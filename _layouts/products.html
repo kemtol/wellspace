@@ -79,31 +79,35 @@ layout: default
             <h4 class="col-12 mb-4">CO-LIVING HOUSES</h4>
         </div>
         <div class="row">
-            {% assign items = site.product  | sort:"date" | reverse %}
-            {% for item in items %}
-                  {% if item.categories contains "living" %}
-                    <div class="single-product-wrapper p-4">
-                        <!-- Product Image -->
-                        <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img w-100 float-right">
-                            <img src="{{site.baseurl}}{{item.image[0]}}" alt="" class="img-fluid">
-                            <!-- Hover Thumb -->
-                            <img class="hover-img img-fluid" src="{{site.baseurl}}{{item.image[0]}}" alt="">
-                        </a>
-                        
-                        <!-- Product Description -->
-                        <div class="product-description d-block w-100 h-100 float-left">
-                            <a href="{{site.baseurl}}{{ item.permalink }}">
-                              <img src="{{ site.baseurl }}/img/core-img/logo.png" class="w-50 mb-4 d-none" alt="">
-                              <h6 class="mb-4">{{ item.title }}</h6>
-                              <address>{{item.address}}</address>
-                              <span class="mb-4">More details..</span>
-                              <img src="{{site.baseurl}}{{item.image[1]}}" alt="" class="d-none w-100 pr-2">
+          <div class="col-12">
+              <div class="products-slides owl-carousel">
+                {% assign items = site.product  | sort:"date" | reverse %}
+                {% for item in items %}
+                      {% if item.categories contains "living" %}
+                        <div class="single-product-wrapper p-4">
+                            <!-- Product Image -->
+                            <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img w-100 float-right">
+                                <img src="{{site.baseurl}}{{item.image[0]}}" alt="" class="img-fluid">
+                                <!-- Hover Thumb -->
+                                <img class="hover-img img-fluid" src="{{site.baseurl}}{{item.image[0]}}" alt="">
                             </a>
+                            
+                            <!-- Product Description -->
+                            <div class="product-description d-block w-100 h-100 float-left">
+                                <a href="{{site.baseurl}}{{ item.permalink }}">
+                                  <img src="{{ site.baseurl }}/img/core-img/logo.png" class="w-50 mb-4 d-none" alt="">
+                                  <h6 class="mb-4">{{ item.title }}</h6>
+                                  <address>{{item.address}}</address>
+                                  <span class="mb-4">More details..</span>
+                                  <img src="{{site.baseurl}}{{item.image[1]}}" alt="" class="d-none w-100 pr-2">
+                                </a>
+                            </div>
+                            
                         </div>
-                        
-                    </div>
-                  {% endif %}
-            {% endfor %}
+                      {% endif %}
+                {% endfor %}
+              </div>
+            </div>
         </div>
     </div>
 </section>
