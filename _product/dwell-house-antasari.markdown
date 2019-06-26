@@ -38,6 +38,8 @@ featureslist:
 - Queen Size Bed
 - Free Parking
 - Thumbprint Access
+mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15864.096635606922!2d106.8080454!3d-6.2605479!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcfcaa46ebe677140!2sThe+Stay+%2F+Dwell+Antasari+27+by+wellspaces+%2F+Freeware!5e0!3m2!1sid!2sid!4v1561524816014!5m2!1sid!2sid"
+  width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 ---
 
 Dwell House Antasari 27 is the latest elegant approach to community living. Our concept invites millenials to never feel out of place in their work and home. Modern furnished private rooms and bathrooms for your leisure at a practical value with support from Fabelio furniture. Our newest venture infuses co living with the entrepreneurial spirit of the city we live in. 
