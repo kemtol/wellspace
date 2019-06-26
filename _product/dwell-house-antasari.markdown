@@ -16,7 +16,7 @@ featuresdesc: The 16 bedroom venue provides a homey touch for residents to indul
   professionals in comfort at our lounges. Build by entrepreneurs for entrepreneurs.
 featureslist:
 - Queen Size Bed
-- '32-inch Samsung Smart TV that supports YouTube and Netflix viewing
+- 'Smart TV support YouTube and Netflix viewing
 
 '
 - Water Heater
@@ -26,18 +26,11 @@ featureslist:
 - Fully furnished by Fabelio and IKEA
 - Minimalistic yet elegantly designed rooms
 - Work desk in every room
-- Shared kitchen complete with utensils, large fridge, microwave, electric stoves
-  and water dispenser
-- Living room with floor-to-ceiling windows allowing ample daylight
-- Keyless access (thumbprint and password door access)
+- Shared kitchen complete with cooking  utensils
+- Living room
+- Keyless access
 - Walking distance to Lippo Mall Kemang
 - 5-mins to Brawijaya Hospital & Clinic
-- 5-mins to the vibrant neighbourhood of Kemang
-- 'Nearest ATM vestibule: 5-mins walk in the nearest Pertamina Petrol Station - Antasari'
-- 5-mins to Dharmawangsa, Brawijaya and Panglima Polim
-- 10-mins to Cipete, Senopati, Pasaraya Blok M, Blok M and Senayan Area
-- 10- up to 15-mins to Sudirman Business Central District (SCBD) and Thamrin
-- 15-mins to Kuningan and Gatot Soebroto Area
 mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15864.096635606922!2d106.8080454!3d-6.2605479!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcfcaa46ebe677140!2sThe+Stay+%2F+Dwell+Antasari+27+by+wellspaces+%2F+Freeware!5e0!3m2!1sid!2sid!4v1561524816014!5m2!1sid!2sid"
   width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 photo:
