@@ -8,7 +8,7 @@ image:
 - "/uploads/Dwell-1.jpg"
 - "/uploads/Dwell02.jpeg"
 price:
-  privatemonth: 4000000
+  Rate: 4000000
 address: Jl. Pangeran Antasari No 27, Jakarta Selatan
 ---
 
