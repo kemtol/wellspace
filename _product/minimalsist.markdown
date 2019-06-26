@@ -17,4 +17,4 @@ mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1
   width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 ---
 
-content buat workwell labs
+In an innovative house-container style building at the the most hipster area in Jakarta, Kemang. This Jakarta co-working space is the most startup friendly campus to be opened by Freeware Spaces Group. This 1,800 m2 complex set the tone for Freeware Labs brand to follow, with house revealing exposed brick, towering containers, and huge windows letting in lots of light.
