@@ -9,7 +9,8 @@ image:
 - "/uploads/Dwell02.jpeg"
 price:
   Rate: 4000000
-address: Jl. Pangeran Antasari No 27, Jakarta Selatan
+address: Jl. Pangeran Antasari Blok Haji Naim 3 No.27, RT.7/RW.9, Cipete Utara, Kby.
+  Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150
 ---
 
 Dwell House Antasari 27 is the latest elegant approach to community living. Our concept invites millenials to never feel out of place in their work and home. Modern furnished private rooms and bathrooms for your leisure at a practical value with support from Fabelio furniture. Our newest venture infuses co living with the entrepreneurial spirit of the city we live in. 
