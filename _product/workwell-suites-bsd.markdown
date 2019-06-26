@@ -7,6 +7,8 @@ categories:
 image:
 - "/uploads/workwell-suites-SCBD.jpg"
 - "/uploads/Layer%2030.jpg"
+address: The Associate Tower, 2nd Floor, Jl. Lkr. Tim. No. 9, Rw. Mekar Jaya, Serpong,
+  Kota Tangerang Selatan, Banten 15310
 featureslist:
 - The only building in BSD
 - 12 Persons Meeting Room
