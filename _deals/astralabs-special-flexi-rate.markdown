@@ -7,3 +7,4 @@ price-after:
 image: "/uploads/1-8ebfad.jpg"
 ---
 
+No need to hustle right?
