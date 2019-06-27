@@ -52,10 +52,10 @@ layout: default
                 <p class="mb-5">{{content}}</p>
               </div>
             </div>
-            <div class="col-6 p-4">
+            <div class="col-6 p-5">
                 <img src="{{site.baseurl}}{{page.image[0]}}" class="w-100">
             </div>
-            <div class="col-6 p-4">
+            <div class="col-6 p-5">
                 <div><img src="{{site.baseurl}}{{page.image[1]}}"></div>
             </div>
         </div>
@@ -89,6 +89,7 @@ layout: default
 
         <div class="row mt-5 mb-5 pt-5 pb-5">
             <div class="col-6">
+                <h2 class="display-3 mb-5">PRICE & PACKAGES</h2>
                 <p class="mb-5">{{page.pricedesc}}</p>
             </div>
             <div class="col-6">
@@ -112,10 +113,10 @@ layout: default
             </div>
         </div>
         
-        <div class="row mt-5 mb-5 pt-5 pb-5 d-none">
+        <div class="row mt-5 mb-5 pt-5 pb-5">
               {% assign photos = page.photo %}
               {% for photo in photos %}
-              <div class="col-4">
+              <div class="col-4 mb-4 p-5">
                 <img src="{{site.baseurl}}{{photo}}" class="w-100" />
               </div>
               {% endfor %}
