@@ -23,7 +23,7 @@ featureslist:
 - Skype Room
 - Balcony
 - Near MRT Station
-- Near Shopping Arcade.
+- Near Shopping Arcade
 - CBD
 video: <iframe width="100%" height="640" src="https://www.youtube.com/embed/35iok_pqI6Q"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
