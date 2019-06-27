@@ -45,7 +45,7 @@ layout: default
     <div class="container-fluid">
         <div class="row mb-5 pb-5">
             <div class="col-12">
-              <div class="p-4 mt-5 mb-5 text-center">
+              <div class="mb-5 text-center">
                 <img src="{{ site.baseurl }}/img/core-img/logo.png" class="w-25 mb-5" alt="">
                 <h3 class="mb-5">AT {{page.title}}</h3>
                 <address class="mb-5">{{page.address}}</address>
@@ -59,15 +59,23 @@ layout: default
                 <div><img src="{{site.baseurl}}{{page.image[1]}}"></div>
             </div>
         </div>
-
+        
+        <style>
+          .features-list span{
+            font-size: 24px;
+            font-family: georgia;
+            padding: 1.5rem;
+            display: inline-block;
+          }
+        </style>
         <div class="row mt-5 mb-5 pt-5 pb-5">
             <div class="col-6 offset-3 text-center">
                 <h2 class="display-3 mb-5">FEATURES</h2>
                 <p class="mb-5">{{page.featuresdesc}}</p>
-                <div>
+                <div class="features-list">
                     {% assign features = page.featureslist %}
                     {% for feature in features %}
-                        <span>{{feature}} | </span>
+                        <span>{{feature}}</span>
                     {% endfor %}
                 </div>
             </div>
