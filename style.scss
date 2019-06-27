@@ -68,7 +68,6 @@ a {
     outline: 0 solid transparent;
     color: $dark-color;
     font-weight: 600;
-    font-size: 12px;
     &:hover,
     &:focus {
         @include transition(all 500ms ease 0s);
@@ -361,6 +360,13 @@ footer{
     overflow:hidden;
     .container-fluid{
         max-width:2048px;
+    }
+    .footer_widget_menu{
+      li{
+        a{
+          font-size:12px;
+        }
+      }
     }
 }
 .classy-nav-container{

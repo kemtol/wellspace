@@ -11,27 +11,29 @@
         <div class="row">
             <div class="col-12">
                 <div class="popular-products-slides owl-carousel">
-                {% assign items = site.product  | sort:"date" | reverse %}
+                {% assign items = site.deals  | sort:"date" | reverse %}
                 {% for item in items %}
-                      {% if item.categories contains "office" %}
-                      <!-- Single Product -->
-                      <div class="single-product-wrapper p-4">
-                        <!-- Product Image -->
-                        <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img">
-                            <img src="{{site.baseurl}}{{item.image[0]}}" alt="">
-                            <!-- Hover Thumb -->
-                            <img class="hover-img" src="{{site.baseurl}}{{item.image[1]}}" alt="">
+                  <!-- Single Product -->
+                  <div class="single-product-wrapper p-4">
+                    <!-- Product Image -->
+                    <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img">
+                        <img src="{{site.baseurl}}{{item.image}}" alt="">
+                        <!-- Hover Thumb -->
+                        <img class="hover-img" src="{{site.baseurl}}{{item.image}}" alt="">
+                    </a>
+                    <!-- Product Description -->
+                    <div class="product-description d-block w-100 h-100">
+                        <a href="{{site.baseurl}}{{ item.permalink }}">
+                            <h6>{{ item.title }}</h6>
+                            {% if item.start-from %}
+                              <strong class="d-block price-after">{{item.start-from}}</strong>
+                            {% else %}
+                              <span class="d-block price-before" style="color:#ddd"><strike>{{item.price-before}}</strike></span>
+                              <strong class="d-block price-after">{{item.price-after}}</strong>
+                            {% endif %}
                         </a>
-                        <!-- Product Description -->
-                        <div class="product-description d-block w-100 h-100">
-                            <a href="{{site.baseurl}}{{ item.permalink }}">
-                                <h6>{{ item.title }}</h6>
-                                <span class="price-before" style="color:#ddd"><strike>Rp 400.000</strike></span>
-                                <strong class="price-after">Rp 200.000</strong>
-                            </a>
-                        </div>
-                      </div>
-                      {% endif %}
+                    </div>
+                  </div>
                 {% endfor %}
                 </div>
             </div>
