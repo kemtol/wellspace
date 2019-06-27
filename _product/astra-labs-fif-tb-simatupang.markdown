@@ -20,7 +20,7 @@ featuresdesc: |-
   - 5 minutes drive to Poin Square Shopping Mall
   - Less than 10 minutes drive to Cilandak Town Square and Pondok Indah Hospital
   - 10 minutes drive to Pondok Indah Mall
-video: <iframe width="100%" height="800" src="https://www.youtube.com/embed/35iok_pqI6Q"
+video: <iframe width="100%" height="640" src="https://www.youtube.com/embed/35iok_pqI6Q"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
 photo:
