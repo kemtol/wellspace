@@ -44,7 +44,7 @@ layout: default
 <section class="pt-4 pt-sm-5 pb-4 pb-sm-5 mt-4 mt-sm-5 mb-4 mb-sm-5">
     <div class="container-fluid">
         <div class="row mb-5 pb-5">
-            <div class="col-12">
+            <div class="col-8 offset-2 mb-5">
               <div class="mb-5 text-center">
                 <img src="{{ site.baseurl }}/img/core-img/logo.png" class="w-25 mb-5" alt="">
                 <h3 class="mb-5">AT {{page.title}}</h3>
@@ -52,19 +52,19 @@ layout: default
                 <p class="mb-5">{{content}}</p>
               </div>
             </div>
-            <div class="col-6">
+            <div class="col-6 p-4">
                 <img src="{{site.baseurl}}{{page.image[0]}}" class="w-100">
             </div>
-            <div class="col-6">
+            <div class="col-6 p-4">
                 <div><img src="{{site.baseurl}}{{page.image[1]}}"></div>
             </div>
         </div>
         
         <style>
           .features-list span{
-            font-size: 24px;
+            font-size: 21px;
             font-family: georgia;
-            padding: 1.5rem;
+            padding: 0.5rem 1rem;
             display: inline-block;
           }
         </style>
@@ -82,7 +82,9 @@ layout: default
         </div>
 
         <div class="row mt-5 mb-5 pt-5 pb-5">
+          <div class="col-12">
             {{page.video}}
+          </div>
         </div>
 
         <div class="row mt-5 mb-5 pt-5 pb-5">
