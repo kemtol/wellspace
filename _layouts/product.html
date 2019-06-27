@@ -81,7 +81,7 @@ layout: default
             </div>
         </div>
 
-        <div class="row mt-5 mb-5 pt-5 pb-5">
+        <div class="row mt-5 mb-5">
           <div class="col-12">
             {{page.video}}
           </div>
@@ -96,7 +96,7 @@ layout: default
             </div>
         </div>
 
-        <div class="row mt-5 mb-5 pt-5 pb-5">
+        <div class="row mt-5 mb-5 pt-5 pb-5 d-none">
             <div class="col-6">
                 <img src="{{site.baseurl}}{{page.photo[0]}}" class="w-100" />
             </div>
@@ -111,6 +111,16 @@ layout: default
                 </div>
             </div>
         </div>
+        
+        <div class="row mt-5 mb-5 pt-5 pb-5 d-none">
+              {% assign photos = page.photo %}
+              {% for photo in photos %}
+              <div class="col-4">
+                <img src="{{site.baseurl}}{{photo}}" class="w-100" />
+              </div>
+              {% endfor %}
+        </div>
+                
     </div>
 </section>
 
