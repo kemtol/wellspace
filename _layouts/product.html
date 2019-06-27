@@ -44,18 +44,18 @@ layout: default
 <section class="pt-4 pt-sm-5 pb-4 pb-sm-5 mt-4 mt-sm-5 mb-4 mb-sm-5">
     <div class="container-fluid">
         <div class="row mb-5 pb-5">
-            <div class="col-8 offset-2 mb-5">
+            <div class="col-12 col-sm-8 offset-sm-2 mb-2 mb-sm-5">
               <div class="mb-5 text-center">
-                <img src="{{ site.baseurl }}/img/core-img/logo.png" class="w-25 mb-5" alt="">
+                <img src="{{ site.baseurl }}/img/core-img/logo.png" class="w-50 w-sm-25 mb-5" alt="">
                 <h3 class="mb-5">AT {{page.title}}</h3>
                 <address class="mb-5">{{page.address}}</address>
                 <p class="mb-5">{{content}}</p>
               </div>
             </div>
-            <div class="col-6 p-5">
+            <div class="col-6 p-2 p-sm-5">
                 <img src="{{site.baseurl}}{{page.image[0]}}" class="w-100">
             </div>
-            <div class="col-6 p-5">
+            <div class="col-6 p-2 p-sm-5">
                 <div><img src="{{site.baseurl}}{{page.image[1]}}"></div>
             </div>
         </div>
@@ -69,7 +69,7 @@ layout: default
           }
         </style>
         <div class="row mt-5 mb-5 pt-5 pb-5">
-            <div class="col-6 offset-3 text-center">
+            <div class="col-12 col-sm-6 offset-sm-3 text-center">
                 <h2 class="display-3 mb-5">FEATURES</h2>
                 <p class="mb-5">{{page.featuresdesc}}</p>
                 <div class="features-list">
@@ -88,11 +88,11 @@ layout: default
         </div>
 
         <div class="row mt-5 mb-5 pt-5 pb-5">
-            <div class="col-6">
+            <div class="col-12 col-sm-6">
                 <h2 class="display-3 mb-5">PRICE & PACKAGES</h2>
                 <p class="mb-5">{{page.pricedesc}}</p>
             </div>
-            <div class="col-6">
+            <div class="col-12 col-sm-6">
                 {{page.mapcoordinate}}
             </div>
         </div>
@@ -114,10 +114,10 @@ layout: default
         </div>
         
         <div class="row mt-5 pt-5">
-              <h2 class="display-3 mb-5">SOME SHOTS TO CONSIDER</h2>
+              <h2 class="col-12 display-3">SOME SHOTS TO CONSIDER</h2>
               {% assign photos = page.photo %}
               {% for photo in photos %}
-              <div class="col-4 mb-4 p-5">
+              <div class="col-6 col-sm-4 mb-4 p-2 p-sm-5">
                 <img src="{{site.baseurl}}{{photo}}" class="w-100" />
               </div>
               {% endfor %}
