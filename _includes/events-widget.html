@@ -61,10 +61,12 @@
               <img src="{{item.image}}" class="img-fluid"  />
             </div>
             <div class="grid-description">
-              <h6><a href="{{item.ticket-link}}">{{item.title}}</a></h6>
-              <date class="d-block mb-3">{{item.event-date}}</date>
-              <address>{{item.location}}</address>
-              <strong style="color:dodgerblue">{{item.price}}</strong>
+              <a href="{{item.ticket-link}}">
+                <h6>{{item.title}}</h6>
+                <date class="d-block mb-3">{{item.event-date}}</date>
+                <address>{{item.location}}</address>
+                <strong style="color:dodgerblue">{{item.price}}</strong>
+              </a>
             </div>
           </div>
           {% endfor %}
