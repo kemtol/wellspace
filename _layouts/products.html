@@ -84,7 +84,7 @@ layout: default
                 {% assign items = site.product  | sort:"date" | reverse %}
                 {% for item in items %}
                       {% if item.categories contains "living" %}
-                        <div class="single-product-wrapper p-4">
+                        <div class="single-product-wrapper">
                             <!-- Product Image -->
                             <a href="{{site.baseurl}}{{item.permalink}}" class="d-block product-img w-100 float-right">
                                 <img src="{{site.baseurl}}{{item.image[0]}}" alt="" class="img-fluid">
