@@ -3,8 +3,8 @@
       <div class="row">
           <div class="col-12">
               <div class="mb-50">
-                <h4>SAY HI IF YOU MEET THEM</h4>
-                <h2 class="display-3">OUR "A" TEAM</h2>
+                <h4 style="color:#fff">SAY HI IF YOU MEET THEM</h4>
+                <h2 style="color:#fff" class="display-3">OUR "A" TEAM</h2>
               </div>
           </div>
       </div>
@@ -13,13 +13,13 @@
   <div class="container-fluid pb-5 mb-5">
       <div class="row">
       {% assign teams = site.team  | sort:"date" | reverse %}
-      {% for team in teams %}        
+      {% for team in teams %}
         <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100 text-center">
+          <a href="#" data-toggle="modal" data-target="#exampleModal" class="d-block mb-4 h-100 text-center">
             <span class="d-block mb-3" style="border-radius: 50%;overflow:hidden;">
               <img class="img-fluid" src="{{site.baseurl}}{{team.image}}" alt="">
             </span>
-            <h4 style="color: #fff">ARYO</h4>
+            <h4 style="color: #fff">{{team.title}}</h4>
           </a>
         </div>
       {% endfor %}
