@@ -16,7 +16,7 @@ layout: page
 <div class="row">
 
 <div class="col-12 col-lg-8 offset-lg-2">
-<h4 class="mb-5">HOVER THROUGH OUR TEAM MEMBERS’ PHOTO TO GET TO KNOW THEM</h4>
+<h4 class="mb-5 text-center">HELLO FROM US</h4>
 </div>
 
 <div class="col-12 col-lg-8 offset-lg-2">
