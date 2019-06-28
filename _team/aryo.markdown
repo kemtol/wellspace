@@ -1,7 +1,7 @@
 ---
 title: Aryo
 date: 2019-03-25 16:55:00 +07:00
-image: 
+image: "/uploads/Aryo.jpg"
 ---
 
 Aryo Ariotedjo has been a serial entrepreneur since 2012, started out as one of the early venture capitalist in Indonesia and have supported multi million $ companies with over 1,000 employees over all the ventures he is involved in.
