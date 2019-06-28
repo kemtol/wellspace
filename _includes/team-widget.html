@@ -19,7 +19,7 @@
             <span class="d-block mb-3" style="border-radius: 50%;overflow:hidden;">
               <img class="img-fluid" src="{{site.baseurl}}{{team.image}}" alt="">
             </span>
-            <h4 style="color: #fff">{{team.title}}</h4>
+            <h4 style="color: #fff">{{team.title | upcase }}</h4>
           </a>
         </div>
       {% endfor %}
