@@ -4,6 +4,7 @@ date: 2019-06-29 23:20:00 +07:00
 permalink: "/service/workwell-suites-tokopedia.html"
 categories:
 - office
+bg-image: "/uploads/Wellspaces-Tokopedia-Featured-Image.jpg"
 image:
 - "/uploads/WellspacesTokopedia3.jpg"
 - "/uploads/WellspacesTokopedia8.jpg"
