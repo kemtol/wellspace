@@ -6,8 +6,8 @@ categories:
 - office
 bg-image: "/uploads/WellspaceLabs-Featured-Image.jpg"
 image:
-- "/uploads/FreewareLabs1.jpg"
 - "/uploads/FreewareLabs6.jpg"
+- "/uploads/FreewareLabs1.jpg"
 price: 235000
 address: Jl. Bangka XII No.4, RT.2/RW.7, Pela Mampang, Mampang Prapatan, Jakarta Selatan,
   Daerah Khusus Ibukota Jakarta 12720
