@@ -36,7 +36,7 @@ photo:
 - "/uploads/WellspacesTokopedia1.jpg"
 - "/uploads/WellspacesTokopedia4.jpg"
 - "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/WellspacesTokopedia3.jpg"
 - "/uploads/workwell-suites-SCBD.jpg"
 ---
 
