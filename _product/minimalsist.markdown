@@ -4,6 +4,7 @@ date: 2018-12-24 13:12:00 +07:00
 permalink: "/service/workwell-labs.html"
 categories:
 - office
+bg-image: "/uploads/WellspaceLabs-Featured-Image.jpg"
 image:
 - "/uploads/FreewareLabs4.jpg"
 - "/uploads/FreewareLabs1.jpg"
