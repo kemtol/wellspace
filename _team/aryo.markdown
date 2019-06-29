@@ -1,6 +1,6 @@
 ---
 title: Aryo
-date: 2019-03-25 16:55:00 +07:00
+date: 2019-06-29 16:55:00 +07:00
 image: "/uploads/Aryo.jpg"
 ---
 
