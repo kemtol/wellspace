@@ -1,7 +1,7 @@
 ---
 title: Workwell Suites Tokopedia Tower
 date: 2019-06-29 23:20:00 +07:00
-permalink: "/service/workwell-suites-tokopedia.html"
+permalink: "/service/workwell-suites-tokopedia"
 categories:
 - office
 bg-image: "/uploads/Wellspaces-Tokopedia-Featured-Image.jpg"
