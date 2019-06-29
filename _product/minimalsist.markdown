@@ -1,5 +1,5 @@
 ---
-title: Workwell Labs
+title: Workwell Labs Kemang
 date: 2018-12-24 13:12:00 +07:00
 permalink: "/service/workwell-labs.html"
 categories:
