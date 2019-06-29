@@ -1,6 +1,8 @@
 ---
 title: Workwell Suites Tokopedia Tower
 date: 2019-06-29 23:20:00 +07:00
+categories:
+- office
 image:
 - "/uploads/WellspacesTokopedia3.jpg"
 - "/uploads/WellspacesTokopedia8.jpg"
@@ -16,6 +18,9 @@ featureslist:
 - Meeting Room
 - 'Ampitheater '
 - Cozy Lounge
+video: <iframe width="100%" height="800" src="https://www.youtube.com/embed/MqvdZ7Fo_8Y"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126935.34071815993!2d106.70555680249149!3d-6.166980377667229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f3dfac70797f%3A0x31b837bfa1fcbdae!2sworkwell+Suites+Tokopedia+Tower+Kuningan+Coworking+Space+%26+Serviced+Office+by+wellspaces.co!5e0!3m2!1sid!2sid!4v1561825506765!5m2!1sid!2sid"
   width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 photo:
