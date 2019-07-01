@@ -2,7 +2,7 @@
 title: Christian Sutardi
 date: 2019-03-20 17:37:00 +07:00
 company: Fabelio
-position: CEO
+position: Co-Founder
 image: "/uploads/CSutardi.jpg"
 ---
 
