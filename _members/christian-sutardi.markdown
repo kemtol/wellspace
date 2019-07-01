@@ -1,7 +1,7 @@
 ---
 title: Christian Sutardi
 date: 2019-03-20 17:37:00 +07:00
-company: Fabelio
+company: Fabelio & Kopi Kenangan
 position: Startup Founder
 image: "/uploads/CSutardi.jpg"
 ---
