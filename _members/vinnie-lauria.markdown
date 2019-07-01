@@ -6,4 +6,4 @@ position: Venture Capitalist
 image: "/uploads/Vinnie.jpg"
 ---
 
-I met some really great teams at workwell by wellspaces.co, I always make it a point to swing in on my trips to Jakarta.
+I met some really great teams at **workwell by wellspaces.co**, I always make it a point to swing in on my trips to Jakarta.
