@@ -2,7 +2,7 @@
 title: Redya Febriyanto
 date: 2019-03-20 17:47:00 +07:00
 company: Telunjuk
-position: Co-Founder
+position: Startup Founder
 image: "/uploads/Redya.jpg"
 ---
 
