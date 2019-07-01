@@ -13,18 +13,10 @@ price:
   Private Room Year: 150000000
 address: Equity Tower, 18th floor, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta Selatan,
   Daerah Khusus Ibukota Jakarta 12190
-pricedesc: Curabitur condimentum ut tortor ut vulputate. Donec pellentesque lorem
-  lorem, in dictum ipsum dignissim vel. Vivamus condimentum ligula laoreet nisi egestas
-  eleifend. Aliquam in metus consectetur, efficitur mi in, consequat leo. Sed feugiat
-  risus eget congue tincidunt. Fusce sit amet sapien eu nulla sagittis ornare. Duis
-  erat felis, tempus a aliquam eget, molestie vulputate sem. Etiam euismod id mi egestas
-  pretium. Proin gravida tellus a tristique faucibus. Phasellus at sagittis diam.
-featuresdesc: Curabitur condimentum ut tortor ut vulputate. Donec pellentesque lorem
-  lorem, in dictum ipsum dignissim vel. Vivamus condimentum ligula laoreet nisi egestas
-  eleifend. Aliquam in metus consectetur, efficitur mi in, consequat leo. Sed feugiat
-  risus eget congue tincidunt. Fusce sit amet sapien eu nulla sagittis ornare. Duis
-  erat felis, tempus a aliquam eget, molestie vulputate sem. Etiam euismod id mi egestas
-  pretium. Proin gravida tellus a tristique faucibus. Phasellus at sagittis diam.
+featuresdesc: |-
+  The coworking space occupies the 18th floor of the Equity Tower SCBD. So there’s plenty of light and views of the urban skyline. There are dozens of eateries nearby, and many locals enjoy cocktails on the sunny patio at Cork & Screw, Potatohead, Liberica Coffee, Lucy in the Sky, and the upcoming internationally acclaimed Hakassan are all within a few blocks. For an office that will impress clients in a neighborhood that means business, Workwell Suites Equity 18 is the perfect location for your business.
+
+  Near strategic areas such Senopati, Gunawarman, Senayan, Wijaya, Woltermonginsidi, Blok M, Sudirman, and more.
 featureslist:
 - 15 Private Office Rooms
 - 12 Persons Meeting Room
@@ -49,6 +41,4 @@ photo:
 - "/uploads/workwell-suites-SCBD.jpg"
 ---
 
-Content for workwell suites lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin est ex, vestibulum a ex sit amet, ornare sollicitudin velit. Aenean dictum arcu non dolor lacinia placerat. Praesent tincidunt ultricies rutrum. Aenean lacinia volutpat ante. Integer nec enim efficitur, dapibus est eget, congue ex. Sed hendrerit est eu metus tristique tristique. Nunc facilisis hendrerit turpis sit amet varius. Sed sed leo turpis. Curabitur condimentum justo vel ex tempor lacinia. Nunc eu aliquet lectus. Suspendisse laoreet eleifend odio ut ultricies.
-
-Curabitur condimentum ut tortor ut vulputate. Donec pellentesque lorem lorem, in dictum ipsum dignissim vel. Vivamus condimentum ligula laoreet nisi egestas eleifend. Aliquam in metus consectetur, efficitur mi in, consequat leo. Sed feugiat risus eget congue tincidunt. Fusce sit amet sapien eu nulla sagittis ornare. Duis erat felis, tempus a aliquam eget, molestie vulputate sem. Etiam euismod id mi egestas pretium. Proin gravida tellus a tristique faucibus. Phasellus at sagittis diam.
+In one of Jakarta’s most upscale areas, this SCBD coworking & serviced office space located directly in the most popular business district in Sudirman, Jakarta. Famous locations such Pacific Place, Jakarta Stock Exchange, and Ritz Carlton hotel are just in proximity with our Workwell Suites Equity 18 branch.
