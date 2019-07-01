@@ -6,8 +6,8 @@ categories:
 - office
 bg-image: "/uploads/Wellspaces-Suites-SCBD3.jpg"
 image:
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/Layer%2030.jpg"
+- "/uploads/Equity6.jpg"
+- "/uploads/Equity5.jpg"
 price:
   Private Room Month: 15000000
   Private Room Year: 150000000
@@ -27,18 +27,15 @@ video: <iframe width="100%" height="800" src="https://www.youtube.com/embed/Mqvd
 mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15865.135203714744!2d106.8084354!3d-6.2262628!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xf830686a95e909cf!2sFreeware+%2F+workwell+Suites+Equity+18+Sudirman+Coworking+Space+%26+Serviced+Office+(wellspaces)!5e0!3m2!1sen!2sid!4v1553237547798"
   width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 photo:
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/Equity9.jpg"
+- "/uploads/Equity8.jpg"
+- "/uploads/Equity7.jpg"
+- "/uploads/Equity6.jpg"
+- "/uploads/Equity5.jpg"
+- "/uploads/Equity3.jpg"
+- "/uploads/Equity4.jpg"
+- "/uploads/Equity2.jpg"
+- "/uploads/Equity1.jpg"
 ---
 
 In one of Jakarta’s most upscale areas, this SCBD coworking & serviced office space located directly in the most popular business district in Sudirman, Jakarta. Famous locations such Pacific Place, Jakarta Stock Exchange, and Ritz Carlton hotel are just in proximity with our Workwell Suites Equity 18 branch.
