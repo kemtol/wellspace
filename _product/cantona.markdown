@@ -8,12 +8,6 @@ bg-image: "/uploads/Wellspaces-Suites-SCBD3.jpg"
 image:
 - "/uploads/Equity6.jpg"
 - "/uploads/Equity5.jpg"
-price:
-  Shared Desk: Rp. 1.950.000/mo
-  Reserved Desk: Rp. 2.800.000/mo
-  Private Office (2-6 Person): Rp. 11.200.000/mo
-  Private Office (7-12 Person): Rp. 19.200.000/mo
-  Private Office (+13 Person): Rp. 38.000.000/mo
 address: Equity Tower, 18th floor, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta Selatan,
   Daerah Khusus Ibukota Jakarta 12190
 featuresdesc: |-
