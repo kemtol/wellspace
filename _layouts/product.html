@@ -91,11 +91,15 @@ layout: default
             <div class="col-12 col-sm-6">
                 <h2 class="display-3 mb-5">PRICE & PACKAGES</h2>
                 <p class="mb-5">{{page.pricedesc}}</p>
+                <table class="table">
                 {% assign prices = page.price %}
                 {% for price in prices %}
-                  {{price}}<br/>
-                  {{price[0]}} is {{price[1]}}
+                  <tr>
+                    <td>{{price[0]}}</td>
+                    <td>{{price[1]}}</td>
+                  </tr>
                 {% endfor %}
+                </table>
             </div>
             <div class="col-12 col-sm-6">
                 {{page.mapcoordinate}}
