@@ -977,7 +977,8 @@ footer{
     .page-title-left{
         background: #003760;color: yellow;
         font-family: 'Poppins', sans-serif;
-        font-weight: 600;font-size: 3rem;
+        font-weight: 600;
+        font-size: 2.5rem;
         padding:1rem;padding-left: 2rem;
         letter-spacing: 7px;
         @media #{$breakpoint-xs} {
@@ -1030,7 +1031,7 @@ footer{
     #jumbotron--nav{
         li{
             a{
-                font-size: 21px;
+                font-size: 19px;
                 color: #fff;
                 margin-bottom: 50px;
                 font-weight: 100;
