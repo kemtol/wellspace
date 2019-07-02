@@ -92,6 +92,10 @@ layout: default
                 <h2 class="display-3 mb-5">PRICE & PACKAGES</h2>
                 <p class="mb-5">{{page.pricedesc}}</p>
                 <table class="table">
+                  <tr>
+                    <th scope="col">PACKAGE</th>
+                    <th scope="col">PRICES</th>
+                  </tr>
                 {% assign prices = page.price %}
                 {% for price in prices %}
                   <tr>
