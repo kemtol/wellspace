@@ -1,6 +1,7 @@
 ---
 title: Dwell House (Coming Soon)
 date: 2019-07-02 15:54:00 +07:00
+permalink: "/service/dwell-house-2.html"
 categories:
 - living
 status: Coming Soon
