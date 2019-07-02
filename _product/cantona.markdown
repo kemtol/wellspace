@@ -8,6 +8,11 @@ bg-image: "/uploads/Wellspaces-Suites-SCBD3.jpg"
 image:
 - "/uploads/Equity6.jpg"
 - "/uploads/Equity5.jpg"
+price:
+- private month: 
+- private year: 
+- shared month: 
+- shared year: 
 address: Equity Tower, 18th floor, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta Selatan,
   Daerah Khusus Ibukota Jakarta 12190
 featuresdesc: |-
