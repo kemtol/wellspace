@@ -22,7 +22,6 @@ price:
   "**Weekend only, maximum 8 hours": 
 address: Jl. Bangka XII No.4, RT.2/RW.7, Pela Mampang, Mampang Prapatan, Jakarta Selatan,
   Daerah Khusus Ibukota Jakarta 12720
-pricedesc: "&nbsp"
 featuresdesc: |-
   The members who make their home here—many of them startup companies, but there’s a broad range from other industries as well— pet-friendly vibe, and cool lounge areas supported by Fabelio.com. There are workshops and networking events designed for Indonesian & global startups to improve their business. And some of the city’s best eateries are steps away. If you’re looking for a convenient location, a great mix of people, and a sense of startups, this would be the best Jakarta coworking space to join.
 
