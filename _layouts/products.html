@@ -42,7 +42,7 @@ layout: default
         <div class="row">
             <div class="col-12">
                 <div class="products-slides owl-carousel">
-                {% assign items = site.product  | sort:"date" | reverse %}
+                {% assign items = site.product %}
                 {% for item in items %}
                       {% if item.categories contains "office" %}
                       <div class="single-product-wrapper">
@@ -81,7 +81,7 @@ layout: default
         <div class="row">
           <div class="col-12">
               <div class="products-slides owl-carousel">
-                {% assign items = site.product  | sort:"date" | reverse %}
+                {% assign items = site.product %}
                 {% for item in items %}
                       {% if item.categories contains "living" %}
                         <div class="single-product-wrapper">
