@@ -375,6 +375,9 @@ footer{
 
 .modal{
   background: #fff;
+  .modal-header{
+    border-bottom:none;
+  }
 }
 
 .modal-content{
