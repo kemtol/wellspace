@@ -341,7 +341,11 @@ address{
 /* OVERIDE */
 
 .table{
-  th, td{
+  th{
+    border-top:none;
+    border-bottom:1px solid #dee2e6;
+  }
+  td{
     border-top:none;
   }
 }
