@@ -9,8 +9,7 @@ bg-image: "/uploads/Dwell-Featured-Image.jpg"
 image:
 - "/uploads/Dwell02.jpeg"
 - "/uploads/Dwell-1.jpg"
-address: Jl. Pangeran Antasari Blok Haji Naim 3 No.27, RT.7/RW.9, Cipete Utara, Kby.
-  Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150
+address: 'Jl. Pangeran Antasari '
 price:
   Coming Soon: 
 featuresdesc: The 16 bedroom venue provides a homey touch for residents to indulge
