@@ -15,8 +15,9 @@ price:
   Private Offices (8 Person) Window Side: Rp. 11.000.000/mo
   Private Offices (11 Person) Window Side: Rp. 12.000.000/mo
   Meeting Room (6 person): Rp. 250.000/hour
-  Event Spaces Indoor* (up to 70 person): Rp. 1.650.000/hour
-  or: Rp. 6.600.000/day (8 hours)
+  Event Spaces Indoor* (up to 70 person): 
+  per Hour: Rp. 1.650.000/hour
+  per Day: Rp. 6.600.000/day (8 hours)
   "&nbsp": "&nbsp"
   "*Minimum 3 hours, weekdays above 6pm": 
 featuresdesc: Astra Labs FIF TB Simatupang located in Lebak Bulus 10 minutes walk
