@@ -3,6 +3,7 @@ title: Dwell House (Coming Soon)
 date: 2019-07-02 15:54:00 +07:00
 categories:
 - living
+status: Coming Soon
 bg-image: "/uploads/Dwell-Featured-Image.jpg"
 image:
 - "/uploads/Dwell-1.jpg"
@@ -30,7 +31,8 @@ photo:
 - "/uploads/Dwell-6.jpeg"
 - "/uploads/Dwell-10.jpeg"
 - "/uploads/Dwell-9.jpg"
-status: Coming Soon
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
 Dwell House Antasari 27 is the latest elegant approach to community living. Our concept invites millenials to never feel out of place in their work and home. Modern furnished private rooms and bathrooms for your leisure at a practical value with support from Fabelio furniture. Our newest venture infuses co living with the entrepreneurial spirit of the city we live in. 
