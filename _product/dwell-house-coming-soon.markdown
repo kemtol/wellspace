@@ -5,10 +5,10 @@ permalink: "/service/dwell-house-2.html"
 categories:
 - living
 status: Coming Soon
-bg-image: "/uploads/Dwell02.jpeg"
+bg-image: "/uploads/Dwell-Featured-Image.jpg"
 image:
-- "/uploads/Dwell-1.jpg"
 - "/uploads/Dwell02.jpeg"
+- "/uploads/Dwell-1.jpg"
 address: Jl. Pangeran Antasari Blok Haji Naim 3 No.27, RT.7/RW.9, Cipete Utara, Kby.
   Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150
 price:
