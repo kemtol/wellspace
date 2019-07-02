@@ -9,7 +9,8 @@ image:
 - "/uploads/Dwell-1.jpg"
 - "/uploads/Dwell02.jpeg"
 price:
-  Rate: 4000000
+  Deluxe Room: Rp. 4.000.000/mo (Promo Rp 3.500.000)
+  Deluxe Room + Flexi Desk Co-Working: Rp. 4.450.000/mo (Promo Rp 3.950.000)
 address: Jl. Pangeran Antasari Blok Haji Naim 3 No.27, RT.7/RW.9, Cipete Utara, Kby.
   Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150
 featuresdesc: The 16 bedroom venue provides a homey touch for residents to indulge
