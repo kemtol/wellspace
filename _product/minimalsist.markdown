@@ -10,10 +10,9 @@ image:
 - "/uploads/FreewareLabs1.jpg"
 price:
   Shared Desk: Rp. 1.350.000/mo
-  Private Offices: 
-  "(2-4 Person)": Rp. 6.500.000/mo
-  "(6-8 Person)": Rp. 12.000.000/mo
-  "(10+ Person)": Rp. 19.200.000/mo
+  Private Offices (2-4 Person): Rp. 6.500.000/mo
+  Private Offices (6-8 Person): Rp. 12.000.000/mo
+  Private Offices (10+ Person): Rp. 19.200.000/mo
   "*Event Spaces Indoor": 'Rp. 4.500.000/3 hours '
   "*Event Spaces Outdoor": Rp. 3.600.000/3 hours
   "**Event Spaces Indoor + Outdoor": 'Rp. 15.000.000/8 hours, all day '
