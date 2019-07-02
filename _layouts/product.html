@@ -9,34 +9,6 @@ layout: default
 </style>
 
 {% assign current_cat = page.categories[0] %}
-<section class="d-none welcome_area bg-img background-overlay" style="background-image: url({{site.baseurl}}/uploads/Featured-Image-Our-Service-1920x720.jpg">
-    <div class="container-fluid h-100">
-        <div class="row h-100 align-items-center">
-            <div class="col-12">
-                <div class="hero-content text-center">
-                    <h2>SPACES DESIGNED FOR<br>RESULTS AND FOR YOU TO FEEL</h2>
-                    <img src="{{site.baseurl}}/img/core-img/gen-better.png" alt="" class="img-fluid mb-5">
-                </div>
-            </div>
-            <div class="col-12">
-                <ul id="jumbotron--nav" class="d-flex justify-content-center  align-items-center mt-5">
-                    {% if page.url == "/" %}<li class="p-4 active">{% else %}<li class="p-4">{% endif %}
-                        <a href="{{site.baseurl}}">
-                            HOME
-                        </a>
-                    </li>
-                    {% for topmenu in site.nav %}
-                        {% if topmenu.permalink == page.permalink %}<li class="p-4 active">{% else %}<li class="p-4">{% endif %}
-                            <a href="{{site.baseurl}}{{ topmenu.permalink }}">
-                                {{ topmenu.title }}
-                            </a>
-                        </li>
-                    {% endfor %}
-                </ul>
-            </div>
-        </div>
-    </div>
-</section>
 
 {% include jumbotron.html %}
 
