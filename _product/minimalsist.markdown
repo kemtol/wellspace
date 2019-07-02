@@ -13,9 +13,9 @@ price:
   Private Offices (2-4 Person): Rp. 6.500.000/mo
   Private Offices (6-8 Person): Rp. 12.000.000/mo
   Private Offices (10+ Person): Rp. 19.200.000/mo
-  "*Event Spaces Indoor": 'Rp. 4.500.000/3 hours '
-  "*Event Spaces Outdoor": Rp. 3.600.000/3 hours
-  "**Event Spaces Indoor + Outdoor": 'Rp. 15.000.000/8 hours, all day '
+  Event Spaces Indoor*: 'Rp. 4.500.000/3 hours '
+  Event Spaces Outdoor*: Rp. 3.600.000/3 hours
+  Event Spaces Indoor + Outdoor**: 'Rp. 15.000.000/8 hours, all day '
   Meeting Room: Rp. 150.000/hour
   "&nbsp": "&nbsp"
   "*Minimum 3 hours, weekdays above 6pm": 
