@@ -17,6 +17,9 @@ price:
   "*Event Spaces Outdoor": Rp. 3.600.000/3 hours
   "**Event Spaces Indoor + Outdoor": 'Rp. 15.000.000/8 hours, all day '
   Meeting Room: Rp. 150.000/hour
+  "&nbsp": "&nbsp"
+  "*Minimum 3 hours, weekdays above 6pm": 
+  "**Weekend only, maximum 8 hours": 
 address: Jl. Bangka XII No.4, RT.2/RW.7, Pela Mampang, Mampang Prapatan, Jakarta Selatan,
   Daerah Khusus Ibukota Jakarta 12720
 featuresdesc: |-
