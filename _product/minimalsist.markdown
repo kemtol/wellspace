@@ -8,7 +8,8 @@ bg-image: "/uploads/WellspaceLabs-Featured-Image.jpg"
 image:
 - "/uploads/FreewareLabs6.jpg"
 - "/uploads/FreewareLabs1.jpg"
-price: 235000
+price:
+  Shared Desk: Rp. 1.350.000/mo
 address: Jl. Bangka XII No.4, RT.2/RW.7, Pela Mampang, Mampang Prapatan, Jakarta Selatan,
   Daerah Khusus Ibukota Jakarta 12720
 featuresdesc: |-
@@ -39,6 +40,8 @@ photo:
 - "/uploads/FreewareLabs3.jpg"
 - "/uploads/FreewareLabs4.jpg"
 - "/uploads/FreewareLabs2.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
 In an innovative house-container style building at the the most hipster area in Jakarta, Kemang. This Jakarta co-working space is the most startup friendly campus to be opened by Freeware Spaces Group. This 1,800 m2 complex set the tone for Freeware Labs brand to follow, with house revealing exposed brick, towering containers, and huge windows letting in lots of light.
