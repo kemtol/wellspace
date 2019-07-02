@@ -5,7 +5,7 @@ permalink: "/service/dwell-house-2.html"
 categories:
 - living
 status: Coming Soon
-bg-image: "/uploads/Dwell-Featured-Image.jpg"
+bg-image: "/uploads/Dwell02.jpeg"
 image:
 - "/uploads/Dwell-1.jpg"
 - "/uploads/Dwell02.jpeg"
