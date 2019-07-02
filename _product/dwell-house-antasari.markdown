@@ -27,7 +27,7 @@ featureslist:
 - Work Desk
 - Shared Kitchen
 - Keyless Access
-video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/nfQHF87vY0s?autoplay=1"
+video: <iframe width="1280" height="720" src="https://www.youtube.com/embed/nfQHF87vY0s?autoplay=0"
   frameborder="0" allowfullscreen></iframe>
 mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15864.096635606922!2d106.8080454!3d-6.2605479!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xcfcaa46ebe677140!2sThe+Stay+%2F+Dwell+Antasari+27+by+wellspaces+%2F+Freeware!5e0!3m2!1sid!2sid!4v1561524816014!5m2!1sid!2sid"
   width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
