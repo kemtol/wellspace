@@ -373,8 +373,13 @@ footer{
     background-color:transparent !important;
 }
 
+.modal{
+  background: #fff;
+}
+
 .modal-content{
   border:none;
+  border-radius:0;
 }
 
 /* Miscellaneous */
