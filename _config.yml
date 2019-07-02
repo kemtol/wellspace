@@ -91,7 +91,9 @@ defaults:
     - You can put SEO desc here
     address: Equity Tower, 18th floor, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta
       Selatan, Daerah Khusus Ibukota Jakarta 12190.
-    pricedesc: "Not only we offer you the best hospitality as best as we could, but also the experience that suits your needs. Pro tips: dont forget to check our special deals in whats on section!"
+    pricedesc: 'Not only we offer you the best hospitality as best as we could, but
+      also the experience that suits your needs. Pro tips: dont forget to check our
+      special deals in whats on section!'
     featuresdesc: Curabitur condimentum ut tortor ut vulputate. Donec pellentesque
       lorem lorem, in dictum ipsum dignissim vel. Vivamus condimentum ligula laoreet
       nisi egestas eleifend. Aliquam in metus consectetur, efficitur mi in, consequat
@@ -137,17 +139,17 @@ defaults:
 name: Wellspaces Co.
 description: Freewarespaces, Office Space, Jakarta Best Co Working Space.
 logo: img/core-img/logo.png
-igid:
-igtoken:
+igid: 
+igtoken: 
 wa: "+62 812 3787 3056"
 fb: https://www.facebook.com/wellspaces.co/
 ig: https://www.instagram.com/wellspaces.co/
-twitter:
+twitter: 
 youtube: https://www.youtube.com/channel/UCtnxjFATCgkZoFErnaf-6aA
-google_analytics:
-google_form_contact:
+google_analytics: 
+google_form_contact: 
 url: https://wellspaces.CO
-baseurl:
+baseurl: 
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
