@@ -1,5 +1,5 @@
 ---
-title: Workwell Suites BSD
+title: Workwell Suites Intermark BSD
 date: 2019-03-20 16:45:00 +07:00
 permalink: "/service/workwell-suites-bsd.html"
 categories:
