@@ -84,11 +84,7 @@ defaults:
     image:
     - "/uploads/pic-1.jpg"
     - "/uploads/pic-2.jpg"
-    price:
-    - privatemonth: '15000000'
-    - privateyear: '150000000'
-    - sharedmonth: '15000000'
-    - sharedyear: '150000000'
+    price: "Convert to object then filling the packages field and price."
     seotags:
     - You can put SEO tags here separated by coma
     seodesc:
@@ -147,17 +143,17 @@ defaults:
 name: Wellspaces Co.
 description: Freewarespaces, Office Space, Jakarta Best Co Working Space.
 logo: img/core-img/logo.png
-igid: 
-igtoken: 
+igid:
+igtoken:
 wa: "+62 812 3787 3056"
 fb: https://www.facebook.com/wellspaces.co/
 ig: https://www.instagram.com/wellspaces.co/
-twitter: 
+twitter:
 youtube: https://www.youtube.com/channel/UCtnxjFATCgkZoFErnaf-6aA
-google_analytics: 
-google_form_contact: 
+google_analytics:
+google_form_contact:
 url: https://wellspaces.CO
-baseurl: 
+baseurl:
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
