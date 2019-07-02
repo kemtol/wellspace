@@ -84,7 +84,6 @@ defaults:
     image:
     - "/uploads/pic-1.jpg"
     - "/uploads/pic-2.jpg"
-    price: Convert to object then filling the packages field and price.
     seotags:
     - You can put SEO tags here separated by coma
     seodesc:
@@ -92,6 +91,7 @@ defaults:
     address: Equity Tower, 18th floor, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta
       Selatan, Daerah Khusus Ibukota Jakarta 12190.
     pricedesc: "Not only we offer you the best hospitality as best as we could, but also the experience that suits your needs. Pro tips: dont forget to check our special deals in whats on section!"
+    price: Convert to object then filling the packages field and price.
     featuresdesc: Curabitur condimentum ut tortor ut vulputate. Donec pellentesque
       lorem lorem, in dictum ipsum dignissim vel. Vivamus condimentum ligula laoreet
       nisi egestas eleifend. Aliquam in metus consectetur, efficitur mi in, consequat
