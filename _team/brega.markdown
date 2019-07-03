@@ -1,6 +1,6 @@
 ---
 title: Brega
-date: 2019-03-25 16:58:00 +07:00
+date: 2019-06-30 16:58:00 +07:00
 image: "/uploads/Brega.jpg"
 ---
 
