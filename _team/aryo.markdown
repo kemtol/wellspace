@@ -1,6 +1,6 @@
 ---
 title: Aryo
-date: 2019-06-29 16:55:00 +07:00
+date: 2019-06-30 16:55:00 +07:00
 image: "/uploads/Aryo.jpg"
 position: Co-Founder
 ---
