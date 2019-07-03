@@ -1,6 +1,6 @@
 ---
 title: Fritz
-date: 2019-07-03 11:16:00 +07:00
+date: 2019-07-02 11:16:00 +07:00
 image: "/uploads/Layer%2029-d91318.jpg"
 ---
 
