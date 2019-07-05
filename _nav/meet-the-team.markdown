@@ -29,7 +29,7 @@ layout: page
 
 <div class="col-12 col-lg-9">
 <h3 class="d-none">FRITZ ARADHANA (CMO + CO-FOUNDER)</h3>
-<p>Previously named Angga Adhitya, he is an award-winning, well-seasoned professional in Brand, Marketing and Communications with wealth of field experiences ranging from consumer goods, luxury automotive, services, and now commercial property business. Fritz was graduated from the highly regarded Prasetiya Mulya School of Business and Economics, majored in Marketing & Communications and granted as the "Honored Fellowship Student".</p>
+<p>We are the brand-driven, upscale spaces management company enriched by individuals with years of experience in delivering genuine services. Our long-term vision is to be one of the global leaders of choice in upscale mixed-use space brands that exudes the feeling of comfort and welcoming.</p>
 </div>
 </div>
 </div>
