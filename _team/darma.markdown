@@ -1,6 +1,6 @@
 ---
 title: Darma
-date: 2019-06-29 17:28:00 +07:00
+date: 2019-06-21 17:28:00 +07:00
 image: "/uploads/Darma.jpg"
 position: Community Development Associate - Labs Kemang
 ---
