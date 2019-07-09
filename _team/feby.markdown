@@ -1,6 +1,6 @@
 ---
 title: Feby
-date: 2019-06-29 17:30:00 +07:00
+date: 2019-06-21 17:30:00 +07:00
 image: "/uploads/Feby.jpg"
 position: Community Development Associate - Suites Tokopedia Tower
 ---
