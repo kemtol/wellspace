@@ -1,6 +1,6 @@
 ---
 title: Ivan
-date: 2019-06-27 17:15:00 +07:00
+date: 2019-06-28 17:15:00 +07:00
 image: "/uploads/Ivan.jpg"
 position: Events Lead
 ---
