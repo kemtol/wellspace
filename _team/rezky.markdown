@@ -1,6 +1,6 @@
 ---
 title: Rezky
-date: 2019-06-29 17:30:00 +07:00
+date: 2019-06-20 17:30:00 +07:00
 image: "/uploads/Rezky.jpg"
 position: Community Development Associate - AstraLabs FIF TB Simatupang
 ---
