@@ -1,6 +1,6 @@
 ---
 title: Devina
-date: 2019-06-29 17:22:00 +07:00
+date: 2019-06-21 17:22:00 +07:00
 image: "/uploads/Devina.jpg"
 position: Community Development Associate - Suites Equity 18 SCBD
 ---
