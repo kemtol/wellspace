@@ -8,7 +8,7 @@ image:
 - "/uploads/home-owl-wellkitchen.jpg"
 - "/uploads/home-owl-wellkitchen.jpg"
 branches:
-- MOI Kelapa Gading
+- Soon!
 ---
 
-Sabnani Jacket menggunakan bahan 100% french terry, ditambah dengan zipper untuk bagian kantong dan logo sabnani dengan velvet memuat anda terlihat sangat modis di luar lapangan sepakbola
+
