@@ -6,6 +6,7 @@ categories:
 - parent
 image:
 - "/uploads/home-owl-dwellhouse.jpg"
+- "/uploads/pic-2.jpg"
 price:
   privatemonth: 5000000
 branches:
