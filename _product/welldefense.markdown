@@ -15,4 +15,3 @@ branches:
 - Muay Thai
 ---
 
-Sabnani polo shirts menggunakan bahan cvc lacoste terbaik, dengan teknologi Comfort Fit yang kami kembangkan sangat sesuai untuk digunakan pada saat menuju latihan Sepakbola
