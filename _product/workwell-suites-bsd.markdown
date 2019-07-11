@@ -1,5 +1,5 @@
 ---
-title: Workwell Suites Intermark BSD
+title: workwell Suites Intermark BSD
 date: 2019-03-20 16:45:00 +07:00
 permalink: "/service/workwell-suites-bsd.html"
 categories:
@@ -29,7 +29,6 @@ mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!
 photo:
 - "/uploads/IntermarkBSD9.jpg"
 - "/uploads/IntermarkBSD10.jpg"
-- "/uploads/IntermarkBSD8.jpg"
 - "/uploads/IntermarkBSD6.jpg"
 - "/uploads/IntermarkBSD7.jpg"
 - "/uploads/IntermarkBSD5.jpg"
@@ -44,7 +43,7 @@ pricing:
   private year: 150000000
 ---
 
-Workwell Suites Intermark BSD is located at the new development complex of Intermark where the Associate Tower, 24/7 alfresco dining, business hotel, residence and assembly hall sit in one compound—making it a strategic global business hub in the emerging town of BSD, South Tangerang.
+workwell Suites Intermark BSD is located at the new development complex of Intermark where the Associate Tower, 24/7 alfresco dining, business hotel, residence and assembly hall sit in one compound—making it a strategic global business hub in the emerging town of BSD, South Tangerang.
 
 Located next to the exit toll road of BSD from Jakarta, 5-minute drive to Pasar Modern BSD and 10-minute drive to Edutown BSD (Prasetiya Mulya, Unilever Indonesia, The Breeze, Aeon Mall, ICE BSD), Freeware Suites Intermark BSD brings a new perspective in ways of work to South Tangerang where our shared office spaces and all the supporting features are entwined with great design.
 
