@@ -8,8 +8,8 @@ layout: page
 
 <div class="row">
 <div class="col-12">
-<h4>AT ANY LOCATIONS OF</h4>
+<h4>AT ANY LOCATIONS...</h4>
 
-<p>BE IT <strong>WORKWELL</strong>, <strong>DWELL</strong>, <strong>WELLKITCHEN</strong> OR ANY OF OUR SPACES, THERE ARE ALWAYS WELL-INSPIRED EVENTS AND SPECIAL DEALS/PROMOTIONS AWAITING YOU TO DISCOVER!</p>
+<p>Be it <strong>workwell</strong>, <strong>dwell</strong>, <strong>wellkitchen</strong> or any of our spaces, there are always well-inspired events and special deals/promotions awaiting you to be discovered!</p>
 </div>
 </div>
