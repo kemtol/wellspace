@@ -11,7 +11,7 @@ price:
   privatemonth: 5000000
 branches:
 - House Antasari 27
-- Signature Kertanegara
-- Signature Sarana Cikini
+- Studio Antasari (Soon!)
+- Signature Abdul Majid (Soon!)
 ---
 
