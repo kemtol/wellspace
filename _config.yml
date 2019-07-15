@@ -139,19 +139,21 @@ defaults:
 name: Wellspaces Co.
 description: Freewarespaces, Office Space, Jakarta Best Co Working Space.
 logo: img/core-img/logo.png
-igid:
-igtoken:
+igid: 
+igtoken: 
 wa: "+62 813 1839 1205"
 fb: https://www.facebook.com/wellspaces.co/
 ig: https://www.instagram.com/wellspaces.co/
-twitter:
+twitter: 
 youtube: https://www.youtube.com/channel/UCtnxjFATCgkZoFErnaf-6aA
 linkedin: https://www.linkedin.com/company/wellspaces-group/
-google_analytics:
+google_analytics: 
 google_form_contact: http://bit.ly/wellspacesinquiryform
-homeyoutube: '<iframe width="100%" height="420" src="https://www.youtube.com/embed/35iok_pqI6Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+homeyoutube: <iframe width="100%" height="420" src="https://www.youtube.com/embed/35iok_pqI6Q"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 url: https://wellspaces.CO
-baseurl:
+baseurl: 
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
