@@ -29,7 +29,7 @@ featuresdesc: |-
 featureslist:
 - Private Office Room
 - Meeting Room
-- 'Ampitheater '
+- Event Space
 - Cozy Lounge
 video: <iframe width="100%" height="800" src="https://www.youtube.com/embed/MqvdZ7Fo_8Y"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
@@ -46,6 +46,9 @@ photo:
 - "/uploads/WellspacesTokopedia5.jpg"
 - "/uploads/WellspacesTokopedia1.jpg"
 - "/uploads/WellspacesTokopedia4.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
 workwell Suites Tokopedia Tower offers inspiring spaces with inviting design, flexible environment and genuine experiences, for the thriving communities of business and professionals to grow, sustain and scale.
