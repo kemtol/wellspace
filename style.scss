@@ -596,11 +596,11 @@ footer{
         }
         @media #{$breakpoint-xs} {
             color: #111;
-            color: #111;
             font-size: 1.35rem;
             height: 44px;
             &:hover {
                 color: #000;
+                background: #fff;
             }
         }
     }
@@ -988,9 +988,9 @@ footer{
             width: 100%;
             text-align: center;
             padding:1rem;
-            br{
+            /*br{
               display:none;
-            }
+            }*/
         }
     }
     .hero-content {
