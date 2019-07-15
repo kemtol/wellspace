@@ -8,6 +8,7 @@ bg-image: "/uploads/Wellspaces-Tokopedia-Featured-Image.jpg"
 image:
 - "/uploads/WellspacesTokopedia3.jpg"
 - "/uploads/WellspacesTokopedia8.jpg"
+- 
 address: "Tokopedia Tower Ciputra World 2, 19th Floor, Jl. Prof. DR. Satrio No.Kav.
   11, RT.3/RW.3, Karet Semanggi, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota
   Jakarta 12950\n\n"
@@ -22,7 +23,7 @@ price:
   "&nbsp": 
   "*Minimum 3 hours, weekdays above 6pm": 
 featuresdesc: |-
-  Opening in May 2019, workwell Suites Tokopedia Tower provides a co-working style serviced office with 8 (eight) private workspaces, one meeting room, corner desk, even space with amphitheater seats for up to 30 persons, Skype room, reading corner, as well as a cozy lounge and pantry to relax and unwind.
+  workwell Suites Tokopedia Tower provides a co-working style serviced office with 8 (eight) private workspaces, one meeting room, corner desk, even space with amphitheater seats for up to 30 persons, Skype room, reading corner, as well as a cozy lounge and pantry to relax and unwind.
 
   workwell Suites Tokopedia Tower is also relatively friendly to your daily commute routine, with merely 10-minute walk from Bendungan Hilir MRT Station, you save plenty of time to get to work.
 featureslist:
@@ -45,9 +46,6 @@ photo:
 - "/uploads/WellspacesTokopedia5.jpg"
 - "/uploads/WellspacesTokopedia1.jpg"
 - "/uploads/WellspacesTokopedia4.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/WellspacesTokopedia3.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
 workwell Suites Tokopedia Tower offers inspiring spaces with inviting design, flexible environment and genuine experiences, for the thriving communities of business and professionals to grow, sustain and scale.
