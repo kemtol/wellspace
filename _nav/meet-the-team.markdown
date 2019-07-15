@@ -9,6 +9,11 @@ intro-content: We are the brand-driven, upscale spaces management company enrich
   by individuals with years of experience in delivering genuine services. Our long-term
   vision is to be one of the global leaders of choice in upscale mixed-use space brands
   that exudes the feeling of comfort and welcoming.
+content-bg-image: "/uploads/bg-plus-90.png"
+content-bg-repeat: no-repeat
+content-bg-position: top left
+content-bg-size: content-bg-size
+content-inline-css: 
 layout: page
 ---
 
