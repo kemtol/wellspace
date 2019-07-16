@@ -46,9 +46,6 @@ photo:
 - "/uploads/WellspacesTokopedia5.jpg"
 - "/uploads/WellspacesTokopedia1.jpg"
 - "/uploads/WellspacesTokopedia4.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
 workwell Suites Tokopedia Tower offers inspiring spaces with inviting design, flexible environment and genuine experiences, for the thriving communities of business and professionals to grow, sustain and scale.
