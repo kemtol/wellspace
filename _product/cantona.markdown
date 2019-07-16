@@ -33,6 +33,7 @@ featureslist:
 - 15 Private Office Rooms
 - 12 Persons Meeting Room
 - Cozy Lounge
+- Shared Desk Area
 video: <iframe width="100%" height="800" src="https://www.youtube.com/embed/MqvdZ7Fo_8Y"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
@@ -48,6 +49,9 @@ photo:
 - "/uploads/Equity4.jpg"
 - "/uploads/Equity2.jpg"
 - "/uploads/Equity1.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
 In one of Jakarta’s most upscale areas, this SCBD coworking & serviced office space located directly in the most popular business district in Sudirman, Jakarta. Famous locations such Pacific Place, Jakarta Stock Exchange, and Ritz Carlton hotel are just in proximity with our Workwell Suites Equity 18 branch.
