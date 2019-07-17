@@ -1,6 +1,8 @@
 ---
 title: Aulia Masna
 date: 2019-07-01 13:13:00 +07:00
+categories:
+- alumni
 company: 
 position: Blog Writer
 image: "/uploads/Aulia.jpg"
