@@ -1,6 +1,8 @@
 ---
 title: Khailee Ng
 date: 2019-07-01 13:10:00 +07:00
+categories:
+- alumni
 company: 500 Startups
 position: Startup Accelerator
 image: "/uploads/Khailee.jpg"
