@@ -11,7 +11,7 @@
       <div class="row">
         {% assign items = site.master-data | sort:"date" %}
         {% for item in items %}
-        {% if item.title == "benefit" %}
+        {% if item.title contains "benefit" %}
           <h1>{{item.title}}</h1>
         {% endif %}
         {% endfor %}
