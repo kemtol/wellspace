@@ -1,0 +1,16 @@
+<section class="pt-4 pt-sm-5 pb-4 pb-sm-5 mt-4 mt-sm-5 mb-4 mb-sm-5 clearfix">
+  <div class="container-fluid">
+      <div class="row">
+          <div class="col-12">
+              <div class="text-center mb-4 mb-sm-5">
+                <h4>OUR BENEFItS</h4>
+                <h2 class="display-3">PERKS OF BEING WELLSOCIETY</h2>
+              </div>
+          </div>
+      </div>
+      <div class="row">
+        {% assign item = site.masterdata.benefit | sort:"date" %}
+        <h1>{{item.title}}</h1>
+      </div>
+  </div>
+</section>

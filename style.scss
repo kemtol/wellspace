@@ -1487,7 +1487,7 @@ footer{
 .brands-area {
     position: relative;
     z-index: 1;
-    background-color: $bg-gray;
+    /*background-color: $bg-gray;*/
     /*padding: 100px 5%;*/
     overflow:auto;
     @media #{$breakpoint-xs} {
