@@ -11,7 +11,10 @@
       <div class="row">
         {% assign items = site.master-data | where:"title","Benefit" | sort:"date" %}
         {% for item in items %}
-          <h1>{{item.title}}</h1>
+          {% assign benefitz = item.benefits %}
+          {% for benefit in benefitz %}
+              <div>benefit[0] benefit[1]</div>
+          {% endfor %}
         {% endfor %}
       </div>
   </div>
