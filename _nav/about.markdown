@@ -20,7 +20,7 @@ milestones:
     becomes workwell Suites Intermark BSD), Freeware Outpost Santa Market (now becomes
     workwell Outpost Santa Market) and Jakarta's first co-living: dwell House Antasari
     27</p>"
-  Key 1: |-
+  '2019': |-
     <p>Freeware now is transformed into Wellspace group with new diversed brand opening over 10 new locations in the pipeline by end of 2019.</p>
 
     <p>We also launched our new, fresh look that you can now enjoy!</p>
