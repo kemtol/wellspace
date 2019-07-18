@@ -4,10 +4,26 @@ date: 2018-08-31 16:49:00 +07:00
 permalink: "/about.html"
 image: "/uploads/bg-3.jpg"
 milestone-image: "/uploads/milestone-bg.jpg"
-milestone-description: |-
-  <p>Freeware now is transformed into Wellspace group with new diversed brand opening over 10 new locations in the pipeline by end of 2019.</p>
+milestone-description: 
+milestones:
+  '2012': "<p>Our humble beginning when we started Freeware Spaces as a business incubator
+    in Ampera neighbourhood, South Jakarta. Backed by an oil company, the incubator
+    bred start-up superstars, including Fabelio and kumparan.com</p>"
+  '2013': <p>Freeware Spaces hosted the first "Startup Weekend Jakarta" at Freeware
+    Labs Ampera</p>
+  '2016': "<p>Freeware Labs Kemang (now becomes workwell Labs Kemang) and Freeware
+    Suites Energy were opened as the first two co-working spaces of Freeware</p>"
+  '2017': "<p>Freeware Suites Equity 18 (now becomes workwell Suites Equity 18) was
+    opened at Equity Tower in SCBD. The interior is inspired by the calming Japanese
+    design.</p>"
+  '2018': "<p>Three new locations were opened: Freeware Suites Intermark BSD (now
+    becomes workwell Suites Intermark BSD), Freeware Outpost Santa Market (now becomes
+    workwell Outpost Santa Market) and Jakarta's first co-living: dwell House Antasari
+    27</p>"
+  Key 1: |-
+    <p>Freeware now is transformed into Wellspace group with new diversed brand opening over 10 new locations in the pipeline by end of 2019.</p>
 
-  <p>We also launched our new, fresh look that you can now enjoy!</p>
+    <p>We also launched our new, fresh look that you can now enjoy!</p>
 content-bg-image: "/uploads/bg-plus-90.png"
 content-bg-repeat: no-repeat
 content-bg-position: top left
