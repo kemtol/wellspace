@@ -13,7 +13,10 @@
         {% for item in items %}
           {% assign benefitz = item.benefits %}
           {% for benefit in benefitz %}
-              <div>{{benefit[0]}} {{benefit[1]}}</div>
+              <div class="col-4 col-lg-2">
+                <img src="{{benefit[1]}}" class="img-fluid">
+                <span>{{benefit[0]}}</span>
+              </div>
           {% endfor %}
         {% endfor %}
       </div>
