@@ -50,8 +50,15 @@
     
     <script>
       $(document).ready(function(){
-        $(".milestone-year li:last-child").removeClass("strike");
+        $(".milestone-year li:last-child a").removeClass("strike");
         $(".milestone-desc li:last-child").removeClass("d-none").addClass("d-block");
+        $(".milestone-year li a").click(function(){
+          var sel = $(this).text();
+          $(".milestone-desc li").removeClass("d-block").removeClass("d-none").addClass("d-none");
+          $("."+sel).removeClass("d-none").addClass("d-block");
+          $(".milestone-year li a").removeClass("strike").addClass("strike");
+          $(this).removeClass("strike");
+        });
       });
     </script>
   
