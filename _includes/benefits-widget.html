@@ -3,7 +3,7 @@
       <div class="row">
           <div class="col-12">
               <div class="text-center mb-4 mb-sm-5">
-                <h4>OUR BENEFItS</h4>
+                <h4>OUR BENEFITS</h4>
                 <h2 class="display-3">PERKS OF BEING WELLSOCIETY</h2>
               </div>
           </div>
@@ -11,9 +11,7 @@
       <div class="row">
         {% assign items = site.master-data | sort:"date" %}
         {% for item in items %}
-        {% if item.title contains "benefit" %}
           <h1>{{item.title}}</h1>
-        {% endif %}
         {% endfor %}
       </div>
   </div>
