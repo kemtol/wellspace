@@ -14,8 +14,12 @@
           {% assign benefitz = item.benefits %}
           {% for benefit in benefitz %}
               <div class="col-4 col-lg-2">
-                <img src="{{benefit[1]}}" class="img-fluid">
-                <span>{{benefit[0]}}</span>
+                <div class="text-center mb-4">
+                  <span style="border-radius:50%;overflow:hidden;display:inline-block">
+                    <img src="{{benefit[1]}}" class="img-fluid">
+                  </span>
+                </div>
+                <span class="d-block text-center">{{benefit[0]}}</span>
               </div>
           {% endfor %}
         {% endfor %}
