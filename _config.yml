@@ -20,6 +20,9 @@ collections:
   jumbotron:
     title: Jumbotron
     output: true
+  master-data:
+    title: Master Data
+    output: true
   mediacoverage:
     title: Media Coverage
     output: true
