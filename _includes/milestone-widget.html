@@ -15,17 +15,16 @@
         <div class="row">
             <div class="col-3 col-md-2 p-sm-5" style="border-right: 2px solid yellow;">
               <ul class="milestone-year">
-                <li><strike>2012</strike></li>
-                <li><strike>2014</strike></li>
-                <li><strike>2016</strike></li>
-                <li><strike>2018</strike></li>
-                <li>2019</li>
+              {% assign years = page.milestones %}
+              {% for item in items %}
+                <li class="strike">{{item[0]}}</li>
+              {% endfor %}
               </ul>
             </div>
             <div class="col-9 col-md-10 col-lg-8 p-sm-5 milestone-description">
               {% assign items = page.milestones %}
               {% for item in items %}
-                <div>{{item[1]}}</div>
+                <div class="{{item[0]}} d-none">{{item[1]}}</div>
               {% endfor %}
             </div>
         </div>
