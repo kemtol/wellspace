@@ -11,7 +11,7 @@
   </div>
   <div class="container-fluid pb-5 mb-5">
       <div class="row">
-      {% assign items = site.member  | sort:"date" | reverse %}
+      {% assign items = site.members  | sort:"date" | reverse %}
       {% for item in items %}
         <div class="col-lg-2 col-md-3 col-6">
           <a href="#" class="d-block mb-4 h-100">
