@@ -48,6 +48,7 @@
     <!-- format currency js -->
     <script type="text/javascript" src="{{ site.baseurl }}/js/jquery.formatCurrency.js"></script>
     
+    {% if page.path == "_nav/whats-on.markdown" %}
     <script>
       $(document).ready(function(){
         $(".milestone-year li:last-child a").removeClass("strike");
@@ -62,6 +63,7 @@
         });
       });
     </script>
+    {% endif %}
   
     <!--<script>
       //js halaman index
