@@ -9,11 +9,9 @@
           </div>
       </div>
       <div class="row">
-        {% assign items = site.master-data | sort:"date" %}
+        {% assign items = site.master-data | where:"title","Benefit" | sort:"date" %}
         {% for item in items %}
-        {% if item.title contains "Benefit" %}
           <h1>{{item.title}}</h1>
-        {% endif %}
         {% endfor %}
       </div>
   </div>
