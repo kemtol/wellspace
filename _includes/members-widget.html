@@ -5,6 +5,7 @@
                 <div class="lg-two-slides owl-carousel">
                 {% assign items = site.members  | sort:"date" | reverse %}
                 {% for item in items %}
+                {% if item.categories contains "alumni" %}
                     <div class="single-product-wrapper">
                         <div class="d-block w-25 h-100 float-left" style="border-radius: 50%;overflow:hidden;">
                             <img src="{{site.baseurl}}{{item.image}}" alt="" class="w-100">
@@ -14,6 +15,7 @@
                             <p>{{item.content}}</p>
                         </div>
                     </div>
+                {% endif %}
                 {% endfor %}
                 </div>
             </div>

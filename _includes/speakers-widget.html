@@ -13,11 +13,14 @@
       <div class="row">
       {% assign items = site.members  | sort:"date" | reverse %}
       {% for item in items %}
+      {% if item.categories contains "speakers" %}
         <div class="col-lg-2 col-md-3 col-6">
-          <a href="#" class="d-block mb-4 h-100">
-                <img class="img-fluid img-thumbnail" src="{{item.image}}" alt="">
-              </a>
+            <span class="d-block mb-3" style="border-radius: 50%;overflow:hidden;">
+              <img class="img-fluid" src="{{site.baseurl}}{{item.image}}" alt="">
+            </span>
+            <h4>{{item.title | upcase }}</h4>
         </div>
+      {% endif %}
       {% endfor %}
       </div>
   </div>
