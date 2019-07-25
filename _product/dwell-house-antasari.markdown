@@ -39,11 +39,8 @@ photo:
 - "/uploads/Dwell-7.jpeg"
 - "/uploads/Dwell-3.jpg"
 - "/uploads/Dwell-4.jpg"
-- "/uploads/Dwell-6.jpeg"
 - "/uploads/Dwell-10.jpeg"
 - "/uploads/Dwell-9.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
 dwell House Antasari 27 is the latest elegant approach to community living. Our concept invites millenials to never feel out of place in their work and home. Modern furnished private rooms and bathrooms for your leisure at a practical value with support from Fabelio furniture. Our newest venture infuses co living with the entrepreneurial spirit of the city we live in. 
