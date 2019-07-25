@@ -21,7 +21,7 @@ milestones:
     workwell Outpost Santa Market) and Jakarta's first co-living: dwell House Antasari
     27</p>"
   '2019': |-
-    <p>Freeware now is transformed into Wellspace group with new diversed brand opening over 10 new locations in the pipeline by end of 2019.</p>
+    <p>Freeware now is transformed into wellspaces.co Group with new diversed brand opening over 10 new locations in the pipeline by end of 2019.</p>
 
     <p>We also launched our new, fresh look that you can now enjoy!</p>
 content-bg-image: "/uploads/bg-plus-90.png"
