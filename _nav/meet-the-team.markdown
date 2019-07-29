@@ -2,7 +2,7 @@
 title: MEET THE TEAM
 date: 2018-12-06 18:00:00 +07:00
 permalink: "/meet-the-team.html"
-image: "/uploads/Untitled%20design-6cae64.jpg"
+image: "/uploads/Meet%20The%20Team.jpg"
 intro-image: "/uploads/DSC05207.JPG"
 intro-title: FRITZ ARADHANA (CMO + CO-FOUNDER)
 intro-content: We are the brand-driven, upscale spaces management company enriched
