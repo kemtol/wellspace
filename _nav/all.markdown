@@ -2,7 +2,7 @@
 title: OUR LOCATIONS
 date: 2018-09-01 09:02:00 +07:00
 permalink: "/service/"
-image: "/uploads/Featured-Image-Our-Service-1920x720.jpg"
+image: "/uploads/Our%20Locations.jpg"
 ---
 
 <div class="row mb-5">
