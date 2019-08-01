@@ -36,9 +36,6 @@ photo:
 - "/uploads/IntermarkBSD3.jpg"
 - "/uploads/IntermarkBSD2.jpg"
 - "/uploads/IntermarkBSD1.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
 pricing:
   sharedesk month: 1500000
   sharedesk year: 15000000
