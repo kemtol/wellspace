@@ -17,7 +17,6 @@ featuresdesc: |-
   - 5 minutes from Pasar Modern BSD
   - 10 minutes from Edutown Complex (The Breeze, Grha Unilever, Prasetiya Mulya University, AEON Mall, Apple iOS Developer Academy)
 featureslist:
-- The only building in BSD
 - 12 Persons Meeting Room
 - Cozy Lounge
 - Center of South Tangerang
