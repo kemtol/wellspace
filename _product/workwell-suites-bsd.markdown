@@ -20,6 +20,7 @@ featureslist:
 - 12 Persons Meeting Room
 - Cozy Lounge
 - Center of South Tangerang
+- Well-designed for Productivity
 video: <iframe width="100%" height="800" src="https://www.youtube.com/embed/MqvdZ7Fo_8Y"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
@@ -35,6 +36,9 @@ photo:
 - "/uploads/IntermarkBSD3.jpg"
 - "/uploads/IntermarkBSD2.jpg"
 - "/uploads/IntermarkBSD1.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
 pricing:
   sharedesk month: 1500000
   sharedesk year: 15000000
