@@ -4,6 +4,8 @@ date: 2019-08-07 11:11:00 +07:00
 categories:
 - living
 bg-image: "/uploads/Kertanegara%20Senopati.jpg"
+image:
+- "/uploads/Thumbnail.jpg"
 address: Coming Soon.
 featuresdesc: Coming Soon.
 photo:
