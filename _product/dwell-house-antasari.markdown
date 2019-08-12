@@ -11,8 +11,8 @@ image:
 address: Jl. Pangeran Antasari Blok Haji Naim 3 No.27, RT.7/RW.9, Cipete Utara, Kby.
   Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150
 price:
-  Deluxe Room: Rp. 4.000.000/mo (Promo Rp 3.500.000)
-  Deluxe Room + Flexi Desk Co-Working: Rp. 4.450.000/mo (Promo Rp 3.950.000)
+  Deluxe Room: Rp. 4.000.000/mo
+  Deluxe Room + Flexi Desk Co-Working: Rp. 4.450.000/mo
 featuresdesc: The 16 bedroom venue provides a homey touch for residents to indulge
   their culinary desires using our fully equipped kitchen and connect with fellow
   professionals in comfort at our lounges. Build by entrepreneurs for entrepreneurs.
