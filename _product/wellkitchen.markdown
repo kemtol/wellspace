@@ -1,14 +1,14 @@
 ---
-title: Co-kitchen & Food Market
+title: AstraLabs
 date: 2018-12-22 12:50:00 +07:00
 permalink: "/product/jual-sabnani-casual-jacket.html"
 categories:
 - parent
 image:
-- "/uploads/home-owl-wellkitchen.jpg"
-- "/uploads/home-owl-wellkitchen.jpg"
+- "/uploads/Logo%20AstraLabs-058807.jpg"
+- "/uploads/Logo%20AstraLabs-8a6e1e.jpg"
 branches:
-- Soon!
+- AstraLabs FIF TB Simatupang
 ---
 
 
