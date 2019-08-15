@@ -50,9 +50,9 @@ photo:
 - "/uploads/9-09263f.jpg"
 - "/uploads/10-c6a530.jpg"
 - "/uploads/12.jpg"
-- "/uploads/AstraLabs%20FIF%20TB%20Simatupang%20-%20Lounge%20Area%20(8).jpeg"
-- "/uploads/IMG_0390.JPG"
-- "/uploads/AstraLabs%20FIF%20TB%20Simatupang%20-%20Event%20Space%20(2).jpeg"
+- "/uploads/Untitled%20design-88f03a.jpg"
+- "/uploads/Untitled%20design%20(1).jpg"
+- "/uploads/Untitled%20design%20(2).jpg"
 ---
 
 Nestled in FIF Tower, Astra Labs TB Simatupang offers a workspace that promotes innovation and productivity. Be it private office space, meeting rooms or virtual office needs, or event space that can cater up to 75 people, AstraLabs FIF TB Simatupang promises the ideal setup where business unlock their potentials and thrive to grow exponentially through our #WorkLearnNetwork environment that will shape start-ups and scale-ups to take off for future success.
