@@ -20,9 +20,9 @@ price:
   per Day: Rp. 6.600.000/day (8 hours)
   "&nbsp": "&nbsp"
   "*Minimum 3 hours, weekdays above 6pm": 
-featuresdesc: Astra Labs FIF TB Simatupang located in Lebak Bulus 10 minutes walk
-  to Lebak Bulus and Fatmawati MRT Station. Right next to Siloam Hospital and South
-  Quarter 500 meters to Mayapada Hospital. Within the strategic CBD area of TB Simatupang.
+featuresdesc: AstraLabs FIF TB Simatupang located in Lebak Bulus 10 minutes walk to
+  Lebak Bulus and Fatmawati MRT Station. Right next to Siloam Hospital and South Quarter
+  500 meters to Mayapada Hospital. Within the strategic CBD area of TB Simatupang.
   45 minutes drive to Soekarno-Hatta International Airport via the toll road. 5 minutes
   drive to Poin Square Shopping Mall. Less than 10 minutes drive to Cilandak Town
   Square and Pondok Indah Hospital. 10 minutes drive to Pondok Indah Mall.
