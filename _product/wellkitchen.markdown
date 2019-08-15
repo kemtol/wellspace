@@ -5,7 +5,7 @@ permalink: "/product/jual-sabnani-casual-jacket.html"
 categories:
 - parent
 image:
-- "/uploads/Logo%20AstraLabs-058807.jpg"
+- "/uploads/Untitled%20design-73ee15.jpg"
 - "/uploads/Logo%20AstraLabs-8a6e1e.jpg"
 branches:
 - AstraLabs FIF TB Simatupang
