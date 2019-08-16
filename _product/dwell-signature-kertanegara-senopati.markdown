@@ -3,9 +3,10 @@ title: dwell Signature Kertanegara Senopati
 date: 2019-08-07 11:11:00 +07:00
 categories:
 - living
-bg-image: "/uploads/Kertanegara%20Senopati.jpg"
+bg-image: "/uploads/Kertanegara%20Senopati%20copy.jpg"
 image:
 - "/uploads/Thumbnail.jpg"
+- "/uploads/pic-2.jpg"
 address: Coming Soon.
 featuresdesc: Coming Soon.
 photo:
