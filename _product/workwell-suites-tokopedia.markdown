@@ -1,7 +1,7 @@
 ---
 title: workwell Suites Tokopedia Tower
 date: 2019-06-29 23:20:00 +07:00
-permalink: "/service/workwell-suites-tokopedia"
+permalink: "/service/workwell-suites-kuningan-tokopedia-tower"
 categories:
 - office
 bg-image: "/uploads/Wellspaces-Tokopedia-Featured-Image.jpg"
@@ -46,6 +46,9 @@ photo:
 - "/uploads/WellspacesTokopedia5.jpg"
 - "/uploads/WellspacesTokopedia1.jpg"
 - "/uploads/WellspacesTokopedia4.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
 workwell Suites Tokopedia Tower offers inspiring spaces with inviting design, flexible environment and genuine experiences, for the thriving communities of business and professionals to grow, sustain and scale.
