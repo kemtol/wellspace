@@ -1,7 +1,7 @@
 ---
 title: workwell Suites Intermark BSD
 date: 2019-03-20 16:45:00 +07:00
-permalink: "/service/workwell-suites-bsd.html"
+permalink: "/service/workwell-suites-intermark-bsd.html"
 categories:
 - office
 bg-image: "/uploads/Untitled%20design-715144.jpg"
@@ -36,6 +36,9 @@ photo:
 - "/uploads/IntermarkBSD3.jpg"
 - "/uploads/IntermarkBSD2.jpg"
 - "/uploads/IntermarkBSD1.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
 pricing:
   sharedesk month: 1500000
   sharedesk year: 15000000
