@@ -1,7 +1,7 @@
 ---
 title: AstraLabs FIF TB Simatupang
 date: 2019-06-26 12:07:00 +07:00
-permalink: "/service/astra-labs-simatupang.html"
+permalink: "/service/astra-labs-tb-simatupang.html"
 categories:
 - office
 bg-image: "/uploads/Untitled%20design.jpg"
