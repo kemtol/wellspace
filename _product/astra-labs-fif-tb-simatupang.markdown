@@ -4,7 +4,7 @@ date: 2019-06-26 12:07:00 +07:00
 permalink: "/service/astra-labs-fif-tb-simatupang.html"
 categories:
 - office
-bg-image: "/uploads/Untitled%20design.jpg"
+bg-image: "/uploads/AstraLabs%20Header%20copy.jpg"
 image:
 - "/uploads/12.jpg"
 - "/uploads/1-8ebfad.jpg"
