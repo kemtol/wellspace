@@ -4,7 +4,7 @@ date: 2018-12-24 13:12:00 +07:00
 permalink: "/service/workwell-labs-kemang.html"
 categories:
 - office
-bg-image: "/uploads/WellspaceLabs-Featured-Image.jpg"
+bg-image: "/uploads/Kemang%20Header%20copy.jpg"
 image:
 - "/uploads/FreewareLabs6.jpg"
 - "/uploads/FreewareLabs1.jpg"
