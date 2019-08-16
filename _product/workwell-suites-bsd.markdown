@@ -4,7 +4,7 @@ date: 2019-03-20 16:45:00 +07:00
 permalink: "/service/workwell-suites-intermark-bsd.html"
 categories:
 - office
-bg-image: "/uploads/Untitled%20design-715144.jpg"
+bg-image: "/uploads/Intermark%20Header%20copy.jpg"
 image:
 - "/uploads/IntermarkBSD5.jpg"
 - "/uploads/IntermarkBSD4.jpg"
