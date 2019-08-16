@@ -4,7 +4,7 @@ date: 2019-06-26 10:53:00 +07:00
 permalink: "/service/dwell-house-coliving-antasari.html"
 categories:
 - living
-bg-image: "/uploads/Dwell-Featured-Image.jpg"
+bg-image: "/uploads/dwell%20Header%20copy.jpg"
 image:
 - "/uploads/Dwell-1.jpg"
 - "/uploads/Dwell02.jpeg"
