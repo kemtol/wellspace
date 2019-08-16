@@ -4,7 +4,7 @@ date: 2018-12-24 13:29:00 +07:00
 permalink: "/service/workwell-suites-scbd-equity-tower.html"
 categories:
 - office
-bg-image: "/uploads/Wellspaces-Suites-SCBD3.jpg"
+bg-image: "/uploads/Equity%20Header%20copy.jpg"
 image:
 - "/uploads/Equity6.jpg"
 - "/uploads/Equity5.jpg"
