@@ -1,7 +1,7 @@
 ---
 title: workwell Labs Kemang
 date: 2018-12-24 13:12:00 +07:00
-permalink: "/service/workwell-labs.html"
+permalink: "/service/workwell-labs-kemang.html"
 categories:
 - office
 bg-image: "/uploads/WellspaceLabs-Featured-Image.jpg"
