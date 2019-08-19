@@ -35,7 +35,7 @@ featureslist:
 - Near MRT Station
 - Near Shopping Arcade
 - CBD
-video: <iframe width="100%" height="640" src="https://www.youtube.com/embed/35iok_pqI6Q"
+video: <iframe width="100%" height="640" src="https://www.youtube.com/watch?v=UpXoldkeKo8"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
 mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d7931.578989463437!2d106.78171702418815!3d-6.291374631786165!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f116aaf251b7%3A0xd86d4431f2513095!2sAstra+Labs+FIF+TB+Simatupang+Coworking+Space+%26+Serviced+Office+by+wellspaces.co!5e0!3m2!1sid!2sid!4v1562057345523!5m2!1sid!2sid"
