@@ -43,7 +43,7 @@ mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1
   width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 photo:
 - "/uploads/Equity9.jpg"
-- "/uploads/Equity8.jpg"
+- "/uploads/PRIVATE%20ROOM%203%20WEB.jpg"
 - "/uploads/Equity7.jpg"
 - "/uploads/Equity6.jpg"
 - "/uploads/Equity5.jpg"
