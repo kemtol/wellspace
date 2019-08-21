@@ -39,12 +39,12 @@ video: <iframe width="100%" height="800" src="https://www.youtube.com/embed/Mqvd
 mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d126935.34071815993!2d106.70555680249149!3d-6.166980377667229!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f3dfac70797f%3A0x31b837bfa1fcbdae!2sworkwell+Suites+Tokopedia+Tower+Kuningan+Coworking+Space+%26+Serviced+Office+by+wellspaces.co!5e0!3m2!1sid!2sid!4v1561825506765!5m2!1sid!2sid"
   width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 photo:
-- "/uploads/WellspacesTokopedia7.jpg"
-- "/uploads/WellspacesTokopedia10.jpg"
-- "/uploads/WellspacesTokopedia9.jpg"
+- "/uploads/OFFICE%20SPACE%20WEB.jpg"
+- "/uploads/LOUNGE%20WEB.jpg"
+- "/uploads/READING%20CORNER%202%20WEB.jpg"
 - "/uploads/WellspacesTokopedia8.jpg"
 - "/uploads/WellspacesTokopedia2.jpg"
-- "/uploads/WellspacesTokopedia6.jpg"
+- "/uploads/MEETING%20ROOM%20WEB-71cfe2.jpg"
 - "/uploads/WellspacesTokopedia5.jpg"
 - "/uploads/WellspacesTokopedia1.jpg"
 - "/uploads/WellspacesTokopedia4.jpg"
