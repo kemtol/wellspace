@@ -9,6 +9,8 @@ image:
 - "/uploads/WellspacesTokopedia3.jpg"
 - "/uploads/WellspacesTokopedia8.jpg"
 - 
+seotags:
+- workwell, suites, tokopedia, tower, ciputra, world, wellspaces, jakarta, kuningan
 address: "Tokopedia Tower Ciputra World 2, 19th Floor, Jl. Prof. DR. Satrio No.Kav.
   11, RT.3/RW.3, Karet Semanggi, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota
   Jakarta 12950\n\n"
@@ -46,9 +48,9 @@ photo:
 - "/uploads/WellspacesTokopedia5.jpg"
 - "/uploads/WellspacesTokopedia1.jpg"
 - "/uploads/WellspacesTokopedia4.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/TOKPED%20READING%20CORNER%20WEB.jpg"
+- "/uploads/VIEWING%20CORNER%20WEB.jpg"
+- "/uploads/TOKPED%20PANTRY%20WEB.jpg"
 ---
 
 workwell Suites Tokopedia Tower offers inspiring spaces with inviting design, flexible environment and genuine experiences, for the thriving communities of business and professionals to grow, sustain and scale.
