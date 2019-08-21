@@ -8,6 +8,8 @@ bg-image: "/uploads/dwell%20Header%20copy.jpg"
 image:
 - "/uploads/Dwell-1.jpg"
 - "/uploads/Dwell02.jpeg"
+seotags:
+- dwell, house, antasari, south, jakarta, coliving, kost, the stay
 address: Jl. Pangeran Antasari Blok Haji Naim 3 No.27, RT.7/RW.9, Cipete Utara, Kby.
   Baru, Kota Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12150
 price:
@@ -39,9 +41,9 @@ photo:
 - "/uploads/Dwell-4.jpg"
 - "/uploads/Dwell-10.jpeg"
 - "/uploads/Dwell-9.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/DETAIL%20WEB.jpg"
+- "/uploads/LIVING%20ROOM%20WEB.jpg"
+- "/uploads/BED%20WEB.jpg"
 ---
 
 dwell House Antasari 27 is the latest elegant approach to community living. Our concept invites millenials to never feel out of place in their work and home. Modern furnished private rooms and bathrooms for your leisure at a practical value with support from Fabelio furniture. Our newest venture infuses co living with the entrepreneurial spirit of the city we live in. 
