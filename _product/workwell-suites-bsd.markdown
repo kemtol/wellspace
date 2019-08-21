@@ -8,6 +8,8 @@ bg-image: "/uploads/Intermark%20Header%20copy.jpg"
 image:
 - "/uploads/IntermarkBSD5.jpg"
 - "/uploads/IntermarkBSD4.jpg"
+seotags:
+- workwell, suites, intermark, associate, tower, bsd, south, tangerang
 address: The Associate Tower, 2nd Floor, Jl. Lkr. Tim. No. 9, Rw. Mekar Jaya, Serpong,
   Kota Tangerang Selatan, Banten 15310
 featuresdesc: |-
@@ -36,9 +38,9 @@ photo:
 - "/uploads/IntermarkBSD3.jpg"
 - "/uploads/IntermarkBSD2.jpg"
 - "/uploads/IntermarkBSD1.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/INTERMARK%20COZY%20CORNER%20WEB.jpg"
+- "/uploads/INTERMARK%20PANTRY%20WEB.jpg"
+- "/uploads/INTERMARK%20HALLWAY%20WEB.jpg"
 pricing:
   sharedesk month: 1500000
   sharedesk year: 15000000
