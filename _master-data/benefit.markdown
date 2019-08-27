@@ -6,7 +6,7 @@ benefits:
   Great Deals From Partner: http://www.freewarespaces.com/uploads/library/greatdeals.png
   Concierge Service: http://www.freewarespaces.com/uploads/library/concierge.png
   Wi-Fi Connection: http://www.freewarespaces.com/uploads/library/internet.png
-  Workshop/Networking Events: http://www.freewarespaces.com/uploads/library/networking.jpg
+  Workshop & Networking Events: http://www.freewarespaces.com/uploads/library/networking.jpg
   Access To Members Database: http://www.freewarespaces.com/uploads/library/database.jpg
 ---
 
