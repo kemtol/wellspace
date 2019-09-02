@@ -5,7 +5,7 @@ categories:
 - homepage
 author: "@wellspaces.co"
 image:
-- "/uploads/paradigm.jpeg"
+- "/uploads/paradigm%20fitness.jpg"
 ---
 
 Achieve your body's true potential and experience much needed + rewarding workout sessions at the most "HipFit" gym in Jakarta, Paradigm Fitness Indonesia!
