@@ -53,4 +53,4 @@ workwell Suites Intermark BSD is located at the new development complex of Inter
 
 Located next to the exit toll road of BSD from Jakarta, 5-minute drive to Pasar Modern BSD and 10-minute drive to Edutown BSD (Prasetiya Mulya, Unilever Indonesia, The Breeze, Aeon Mall, ICE BSD), Freeware Suites Intermark BSD brings a new perspective in ways of work to South Tangerang where our shared office spaces and all the supporting features are entwined with great design.
 
-Whether you’re an entrepreneur, small business or start-up founder, Freeware Suites Intermark BSD provides the ideal environment for you and your business to thrive. We believe by establishing a professional yet collaborative ecosystem will help our members to be creative, innovative and productive in which business development is paramount.
+Whether you’re an entrepreneur, small business or start-up founder, workwell Suites Intermark BSD provides the ideal environment for you and your business to thrive. We believe by establishing a professional yet collaborative ecosystem will help our members to be creative, innovative and productive in which business development is paramount.
