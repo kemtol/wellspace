@@ -56,4 +56,4 @@ photo:
 - "/uploads/PRIVATE%20ROOM%202%20WEB.jpg"
 ---
 
-In one of Jakarta’s most upscale areas, this SCBD coworking & serviced office space located directly in the most popular business district in Sudirman, Jakarta. Famous locations such Pacific Place, Jakarta Stock Exchange, and Ritz Carlton hotel are just in proximity with our Workwell Suites Equity 18 branch.
+In one of Jakarta’s most upscale areas, this SCBD coworking & serviced office space located directly in the most popular business district in Sudirman, Jakarta. Famous locations such Pacific Place, Jakarta Stock Exchange, and Ritz Carlton hotel are just in proximity from our Workwell Suites Equity 18 branch.
