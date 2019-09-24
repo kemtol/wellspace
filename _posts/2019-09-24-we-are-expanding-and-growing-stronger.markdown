@@ -5,6 +5,8 @@ date: 2019-09-24 15:20:00 +07:00
 
 wellspaces.co Group is Hiring!
 
+![wellsaid #1.jpeg](/uploads/wellsaid%20%231.jpeg)
+
 wellspaces.co is the pioneer of entrepreneurial community based coworking and service office group. We have catered entrepreneurs and professionals since 2013 and have helped created thousands of jobs through the creations of startup companies within our community. Our members have raised investments for more than $40 Million and still counting, not including those who have sold their companies that are worth in million dollars. We are located in Kemang, Equity Tower SCBD, Energy Building SCBD, and Associate Tower Intermark BSD.
 
 We have 100+ strong mentors from top entrepreneurs such Nadiem Makarim (Co-Founder of GOJEK), Sandiaga Uno (Managing Partner, Saratoga Capital), Andrew Darwis (Co-Founder, Kaskus), Achmad Zaky (Co-Founder, Bukalapak), Khailee Ng (Managing Partner, 500 Startups), Patrick Walujo (Managing Partner of North Star Group), Natali Ardianto (Tiket.com), and many more!
