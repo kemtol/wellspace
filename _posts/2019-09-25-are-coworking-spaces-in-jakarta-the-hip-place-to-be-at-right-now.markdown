@@ -4,11 +4,11 @@ date: 2019-09-25 15:16:00 +07:00
 permalink: "/post/hip-coworking-in-jakarta.html"
 ---
 
+![freeware_coworking_spaces_networking.jpg](/uploads/freeware_coworking_spaces_networking.jpg)
+
 Coworking spaces are surely something special these days. The journey of an entrepreneur can be quite a lonely, especially when you’re bootstrapping from the ground up by yourself. At a coworking space, you are surrounded by diverse groups of freelancers, remote workers, and other independent professionals work together in a share and communal setting. Each is unique and have different stories to share, in which could benefit you in the short and long term.
 
 You may be doing something different to them, but they too have interest in other people’s projects and could introduce you to their network that may be of use for you. This is where you build your network. At the same time, through connecting with each other, you and everybody else have the sense of being part of a community.
-
-![freeware_coworking_spaces_networking.jpg](/uploads/freeware_coworking_spaces_networking.jpg)
 
 Having many like-minded and talented individuals around you is just one of the perks working from a coworking space.  If you are on a budget and coffeeshops are starting to get expensive, a coworking space is definitely a much better choice. With stable internet connection, conference rooms, as well as free flow of coffee, tea, water, and sometimes booze (only at certain coworking spaces), you have access to the basic necessary amenities to work.
 
