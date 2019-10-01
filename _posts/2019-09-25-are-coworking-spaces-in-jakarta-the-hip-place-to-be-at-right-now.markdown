@@ -1,6 +1,7 @@
 ---
 title: Are Coworking Spaces In Jakarta The Hip Place To Be At Right Now?
 date: 2019-09-25 15:16:00 +07:00
+permalink: "/post/hip-coworking-in-jakarta.html"
 ---
 
 Coworking spaces are surely something special these days. The journey of an entrepreneur can be quite a lonely, especially when you’re bootstrapping from the ground up by yourself. At a coworking space, you are surrounded by diverse groups of freelancers, remote workers, and other independent professionals work together in a share and communal setting. Each is unique and have different stories to share, in which could benefit you in the short and long term.
