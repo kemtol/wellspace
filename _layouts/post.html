@@ -2,11 +2,13 @@
 layout: default
 ---
 
-<section class="pt-4 pt-sm-5 pb-4 pb-sm-5 mt-4 mt-sm-5 mb-4 mb-sm-5">
+<section class="pt-4 pt-sm-5 pb-4 pb-sm-5 mb-4 mb-sm-5">
     <div class="container-fluid">
         <div class="row justify-content-center">
-            <div class="col-12">
-              <h2 class="mb-50">{{ page.title }}</h2>
+            <div class="col-12 col-lg-8">
+              <h1 class="mb-50">{{ page.title }}</h1>
+              <p class="text-secondary mb-3" style="font-style: italic;font-family: georgia;">{{ page.date | date: "%B %e, %Y" }}</p>
+              <div class="featured-image"><img src="{{post.featured-image}}" class="img-fluid" /></div>
               <div class="regular-page-text">
                   {{content}}
               </div>
