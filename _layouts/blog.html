@@ -15,14 +15,13 @@ layout: default
     <div class="container-fluid">
         <div class="row justify-content-center">
           {% for post in site.posts %}
-            <div class="col-12">
+            <div class="col-12 mb-4 mb-sm-5">
               <div class="item">
                 <div class="item-title">
                   <h4><strong>{{ post.title }}</strong></h4>
                   <p class="text-secondary mb-0 small">{{ page.date | date: "%B %e, %Y" }} | <a href="#">{{ post.author }}</a></p>
                 </div>
-    
-                <div class="entry post" style="display:none">
+                <div class="entry post">
                   {{ post.excerpt }}
                 </div>
               </div>
