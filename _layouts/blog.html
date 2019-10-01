@@ -17,11 +17,11 @@ layout: default
           {% for post in site.posts %}
             <div class="col-12 mb-4 mb-sm-5">
               <div class="item">
-                <div class="featured-image"><img src="{{post.featured-image}}" class="img-fluid" /></div>
                 <div class="item-title">
                   <h2><a href="{{post.permalink}}">{{ post.title }}</a></h2>
                   <p class="text-secondary mb-3" style="font-style: italic;font-family: georgia;">{{ page.date | date: "%B %e, %Y" }}</p>
                 </div>
+                <div class="featured-image"><img src="{{post.featured-image}}" class="img-fluid" /></div>
                 <div class="entry post">
                   {{ post.excerpt }}
                 </div>
