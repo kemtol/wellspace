@@ -2,7 +2,6 @@
 title: 7 Kebiasaan Yang Dapat Merubah Hidupmu
 date: 2019-10-22 13:16:00 +07:00
 permalink: "/post/kebiasaan_yang_dapat_merubah_hidup_wellspaces"
-layout: blog
 ---
 
 Hasil yang baik terbuat dari hal kecil yang kamu lakukan setiap harinya. Kebiasaan atau habit lah yang akan menentukan siapa dirimu dan apa yang dapat kamu gapai di masa depan.
