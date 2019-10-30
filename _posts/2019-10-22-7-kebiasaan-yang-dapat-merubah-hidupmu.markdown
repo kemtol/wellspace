@@ -35,6 +35,8 @@ Ketika kamu sudah janji kepada seseorang, lakukan dengan penuh komitmen. Dalam s
 7. Berkontribusi kembali kepada dunia
 Mulai membiasakan untuk berkontribusi kepada masyarakat dan dunia, kamu tidak perlu menunggu sampai kamu sukses untuk melakukan hal itu.
 
+Ditulis oleh Faiz Arsyad Wahab, Marketing & Communications Lead, wellspaces.co Group
+
 -
 
 Whether you’re an entrepreneur, small business or start-up founder, and even corporates, wellspaces provides the ideal environment for you and your business to thrive. We believe by establishing a professional yet collaborative ecosystem will help our members to be creative, innovative and productive in which business development is paramount.
