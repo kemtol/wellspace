@@ -12,6 +12,6 @@ price:
 branches:
 - House Antasari 27
 - Studio Antasari (Soon!)
-- Signature Abdul Majid (Soon!)
+- Kemang Village Penthouse (Soon!)
 ---
 
