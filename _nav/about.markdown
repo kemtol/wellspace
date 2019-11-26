@@ -38,7 +38,7 @@ layout: page
 
 <div class="col-12 col-md-8">
 <h4 class="mb-5">THE INTRODUCTION</h4>
-<p class="text-justify mb-5">Started as Freeware Spaces Group, a premier operator of co-working–the first mover in Indonesia who brought the concept of Freeware Co-working by launching Freeware Ampera in 2012 where no other players in the market and was fully sponsored by an energy company to run their available/idle office space as a business incubator for the start-ups to work for free.
+<p class="text-justify mb-5">Started as Freeware Spaces Group, a premier operator of coworking–the first mover in Indonesia who brought the concept of Freeware Coworking by launching Freeware Ampera in 2012 where no other players in the market and was fully sponsored by an energy company to run their available/idle office space as a business incubator for the start-ups to work for free.
 </p>
 </div>
 
