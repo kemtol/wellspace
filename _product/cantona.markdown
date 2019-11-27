@@ -36,6 +36,7 @@ featureslist:
 - 12 Persons Meeting Room
 - Cozy Lounge
 - Shared Desk Area
+- Event Space
 video: <iframe width="100%" height="800" src="https://www.youtube.com/embed/MqvdZ7Fo_8Y"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
