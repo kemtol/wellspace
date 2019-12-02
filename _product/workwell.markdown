@@ -1,7 +1,7 @@
 ---
 title: Coworking & Serviced Offices
 date: 2018-12-22 12:56:00 +07:00
-permalink: Coworking-and-service-office
+permalink: product/Coworking-and-service-office
 categories:
 - parent
 image:
