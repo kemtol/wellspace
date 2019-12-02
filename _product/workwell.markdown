@@ -4,8 +4,8 @@ date: 2018-12-22 12:56:00 +07:00
 categories:
 - parent
 image:
-- "/uploads/home-owl-workwell.jpg"
-- "/uploads/home-owl-workwell.jpg"
+- "/uploads/wellspaces%20blue%20with%20symbol(2).jpg"
+- "/uploads/wellspaces%20blue%20with%20symbol(2)-b0091a.jpg"
 branches:
 - Suites Equity 18 SCBD
 - Labs Kemang
