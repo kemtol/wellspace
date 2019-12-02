@@ -1,7 +1,7 @@
 ---
-title: wellspaces Tokopedia Tower
+title: wellspaces Tokopedia Tower Kuningan
 date: 2019-06-29 23:20:00 +07:00
-permalink: "/service/workwell-suites-kuningan-tokopedia-tower"
+permalink: "/service/wellspaces-tokopedia-tower-kuningan"
 categories:
 - office
 bg-image: "/uploads/Wellspaces-Tokopedia-Featured-Image.jpg"
