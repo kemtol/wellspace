@@ -5,8 +5,10 @@ permalink: "/product/jual-sabnani-training-jacket.html"
 categories:
 - parent
 image:
-- "/uploads/home-owl-dwellhouse.jpg"
-- "/uploads/pic-2.jpg"
+- "/uploads/dwell%20400-da0beb.jpg"
+- "/uploads/dwell%20400-6abd2d.jpg"
+seotags:
+- dwell ,  the stay , coliving , kostan , kostan jakarta
 price:
   privatemonth: 5000000
 branches:
