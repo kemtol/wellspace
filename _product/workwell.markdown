@@ -5,10 +5,10 @@ permalink: product/Coworking-and-service-office.html
 categories:
 - parent
 image:
-- "/uploads/wellspaces%20blue%20with%20symbol(2).jpg"
-- "/uploads/wellspaces%20blue%20with%20symbol(2)-b0091a.jpg"
+- "/uploads/wellspaces%20blue.jpg"
+- "/uploads/wellspaces%20blue-87081b.jpg"
 seotags:
-- Coworking, Office Spaces, Coworking Space Jakarta
+- Coworking, Office Spaces, Coworking Space Jakarta, Ruang Kantor
 branches:
 - Suites Equity 18 SCBD
 - Labs Kemang
