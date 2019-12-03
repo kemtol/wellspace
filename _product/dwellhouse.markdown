@@ -5,8 +5,8 @@ permalink: "/product/dwell-co-living-house.html"
 categories:
 - parent
 image:
-- "/uploads/dwell%20400-da0beb.jpg"
-- "/uploads/dwell%20400-6abd2d.jpg"
+- "/uploads/dwell%20150.jpg"
+- "/uploads/dwell%20150-b08817.jpg"
 seotags:
 - dwell ,  the stay , coliving , kostan , kostan jakarta
 price:
