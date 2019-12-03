@@ -10,14 +10,15 @@ image:
 seotags:
 - Coworking, Office Spaces, Coworking Space Jakarta, Ruang Kantor
 branches:
-- Suites Equity 18 SCBD
-- Labs Kemang
-- Suites Intermark BSD
-- Suites Tokopedia Tower
+- wellspaces Equity SCBD
+- wellspaces Kemang
+- wellspaces Intermark BSD Serpong
+- wellspaces Tokopedia Tower Kuningan
 - AstraLabs FIF TB Simatupang
 - " Outpost Santa Market"
 - Suites Heritage 28 SCBD (Soon!)
 - Labs Surabaya (Soon!)
 - Labs Medan (Soon!)
+- 
 ---
 
