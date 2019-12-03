@@ -5,8 +5,8 @@ permalink: product/Coworking-and-service-office.html
 categories:
 - parent
 image:
-- "/uploads/Wellspaces%20blue%20with%20symbol%20400.jpg"
-- "/uploads/Wellspaces%20blue%20with%20symbol%20400-096b8a.jpg"
+- "/uploads/Wellspaces%20blue%20with%20symbol%20150.jpg"
+- "/uploads/Wellspaces%20blue%20with%20symbol%20150-1a8d05.jpg"
 seotags:
 - wellspaces.co , Coworking, Office Spaces, Coworking Space Jakarta, Ruang Kantor,
   Serviced Office
