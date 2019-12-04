@@ -22,7 +22,7 @@ wellspaces Santa, a dedicated brand for office space that caters less than 50 se
 
 Situated next to Pasar Santa (Santa Market) where thriving youth spirited businesses emerges with the long-established shops, wellspaces Santa offers comfortable access to strategic business districts of Sudirman and Kuningan. Senopati and Kemang—two areas dubbed as modern foodies haven in South Jakarta, is only a stone’s throw away, where a myriad of contemporary food scene is buzzing.
 
-Some say that green rejuvenates one’s eyes, thus we decorate the office space with the nuance of green—promising fresh ideas to spark for those who select Freeware Outpost Santa as the address of choice.
+Some say that green rejuvenates one’s eyes, thus we decorate the office space with the nuance of green—promising fresh ideas to spark for those who select wellspaces Santa as the address of choice.
 
 Sits in the second floor of Happy Fresh’s ex-office building, our space gives an ultra-convenient way to reach the surrounding commercial area—offering hassle-free distance for your team members to find inspirations outside, or to have working lunch. The famous Tuku Coffee would be next to you, so you can grab their signature Iced Coffee Milk that everyone is crazed about, anytime you want!
 
