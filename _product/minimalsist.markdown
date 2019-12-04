@@ -57,4 +57,4 @@ photo:
 - "/uploads/LOUNGE%20WEB-c859fe.jpg"
 ---
 
-In an innovative house-container style building at the the most hipster area in Jakarta, Kemang. This Jakarta coworking space is the most startup friendly campus to be opened by wellspaces.co Group. This 1,800 m2 complex set the tone for wellspaces brand to follow, with house revealing exposed brick, towering containers, and huge windows letting in lots of light.
+In an innovative house-container style building at the the most hipster area in Jakarta, Kemang. This Jakarta coworking space is the most startup friendly campus to be opened by wellspaces Group. This 1,800 m2 complex set the tone for wellspaces brand to follow, with house revealing exposed brick, towering containers, and huge windows letting in lots of light.
