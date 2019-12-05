@@ -1,7 +1,7 @@
 ---
 title: wellspaces Tokopedia Tower Kuningan
 date: 2019-06-29 23:20:00 +07:00
-permalink: "/service/coworking-space-serviced-office-tokopedia-tower-mega-kuningan"
+permalink: "/service/coworking-space-serviced-office-tokopedia-tower-mega-kuningan.html"
 categories:
 - office
 bg-image: "/uploads/Wellspaces-Tokopedia-Featured-Image.jpg"
