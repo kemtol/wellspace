@@ -1,7 +1,7 @@
 ---
 title: dwell House Antasari
 date: 2019-06-26 10:53:00 +07:00
-permalink: "/service/coliving-kost-premium-apartement-antasari.html"
+permalink: "/service/coliving-kost-exclusive-apartment-antasari-jakarta.html"
 categories:
 - living
 bg-image: "/uploads/dwell%20Header%20copy.jpg"
