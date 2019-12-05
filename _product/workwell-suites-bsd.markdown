@@ -1,7 +1,7 @@
 ---
 title: wellspaces Intermark BSD Serpong
 date: 2019-03-20 16:45:00 +07:00
-permalink: "/service/wellspaces-intermark-bsd-serpong.html"
+permalink: "/service/coworking-spaces-service-office-BSD-Associate-Tower-intermark.html"
 categories:
 - office
 bg-image: "/uploads/Intermark%20Header%20copy.jpg"
