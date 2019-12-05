@@ -1,7 +1,7 @@
 ---
 title: wellspaces Kemang
 date: 2018-12-24 13:12:00 +07:00
-permalink: "/service/wellspaces-kemang.html"
+permalink: "/service/coworking-spaces-office-spaces-kemang.html"
 categories:
 - office
 bg-image: "/uploads/Kemang%20Header%20copy.jpg"
