@@ -1,7 +1,7 @@
 ---
 title: AstraLabs FIF TB Simatupang
 date: 2019-06-26 12:07:00 +07:00
-permalink: "/service/coworking-spaces-serviced-office-menara-FIF-tb-simatupang.html"
+permalink: "/service/coworking-space-serviced-office-TB-simatupang-menara-FIF-jakarta.html"
 categories:
 - office
 bg-image: "/uploads/AstraLabs%20Header%20copy.jpg"
