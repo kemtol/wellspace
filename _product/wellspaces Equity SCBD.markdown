@@ -1,7 +1,7 @@
 ---
 title: wellspaces Equity SCBD
 date: 2018-12-24 13:29:00 +07:00
-permalink: "/service/wellspaces-equity-scbd.html"
+permalink: "/service/coworking-space-serviced-office-equity-scbd.html"
 categories:
 - office
 bg-image: "/uploads/Equity%20Header%20copy.jpg"
