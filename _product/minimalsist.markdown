@@ -57,6 +57,9 @@ photo:
 - "/uploads/OUTDOOR%20LAWN%20WEB.jpg"
 - "/uploads/CONTAINER%20WEB.jpg"
 - "/uploads/LOUNGE%20WEB-c859fe.jpg"
+Video: <iframe width="100%" height="800" src="https://www.youtube.com/embed/MqvdZ7Fo_8Y"
+  frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
+  allowfullscreen></iframe>
 ---
 
 In an innovative house-container style building at the the most hipster area in Jakarta, Kemang. This Jakarta coworking space is the most startup friendly campus to be opened by wellspaces Group. This 1,800 m2 complex set the tone for wellspaces brand to follow, with house revealing exposed brick, towering containers, and huge windows letting in lots of light.
