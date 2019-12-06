@@ -9,6 +9,6 @@ layout: page
 <div class="row mb-5">
 <div class="col-12 col-lg-8 offset-lg-2 text-center">
 <h4 class="mb-4">AT ANY LOCATIONS...</h4>
-<p>Be it <strong>workwell</strong>, <strong>dwell</strong>, <strong>wellkitchen</strong> or any of our spaces, there are always well-inspired events and special deals/promotions awaiting you to be discovered!</p>
+<p>At our spaces, there are always well-inspired events and special deals/promotions awaiting you to be discovered!</p>
 </div>
 </div>
