@@ -38,7 +38,7 @@ layout: page
 
 <div class="col-12 col-md-8">
 <h4 class="mb-5">THE INTRODUCTION</h4>
-<p class="text-justify mb-5">Started as Freeware Spaces Group, a premier operator of coworking–the first mover in Indonesia who brought the concept of Freeware Coworking by launching Freeware Ampera in 2012 where no other players in the market and was fully sponsored by an energy company to run their available/idle office space as a business incubator for the start-ups to work for free.
+<p class="text-justify mb-5">Started as <strong>Freeware Spaces Group</strong>, a premier operator of coworking–the first mover in Indonesia who brought the concept of Freeware Coworking by launching Freeware Ampera in 2012 where no other players in the market and was fully sponsored by an energy company to run their available/idle office space as a business incubator for the start-ups to work for free.
 </p>
 </div>
 
@@ -47,7 +47,7 @@ layout: page
 </div>
 
 <div class="col-12">
-<p class="text-justify mb-5">Recently re-introduced to the public as Wellspaces, we don't want to limit ourselves to one type of portfolio. With our new set of brands, we give people different choices. Spaces to count on, that are different enough to be fun. Unstuffy spaces, where people feel comfortable to be productive, and just get on with the genuine connection amongst our team and members. Spaces that naturally stand out from the crowd.</p>
+<p class="text-justify mb-5">Recently re-introduced to the public as <strong>Wellspaces</strong>, we don't want to limit ourselves to one type of portfolio. With our new set of brands, we give people different choices. Spaces to count on, that are different enough to be fun. Unstuffy spaces, where people feel comfortable to be productive, and just get on with the genuine connection amongst our team and members. Spaces that naturally stand out from the crowd.</p>
 </div>
 
 <div class="col-12">
