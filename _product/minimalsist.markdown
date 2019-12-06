@@ -8,6 +8,8 @@ bg-image: "/uploads/Kemang%20Header%20copy.jpg"
 image:
 - "/uploads/FreewareLabs6.jpg"
 - "/uploads/FreewareLabs1.jpg"
+- "/uploads/CONTAINER%20WEB.jpg"
+- "/uploads/FreewareLabs10.jpg"
 seotags:
 - workwell, labs, kemang, bangka, xii, wellspaces, south, jakarta
 address: Jl. Bangka XII No.4, RT.2/RW.7, Pela Mampang, Mampang Prapatan, Jakarta Selatan,
