@@ -5,8 +5,8 @@ permalink: "/product/jual-polo-shirt-team-sepakbola.html"
 categories:
 - parent
 image:
-- "/uploads/home-owl-welldefense.jpg"
-- "/uploads/home-owl-welldefense.jpg"
+- "/uploads/welldefense%20150%20(2).jpeg"
+- "/uploads/welldefense%20150%20(2)-a24200.jpeg"
 video: <iframe width="100%" height="800" src="https://www.youtube.com/embed/MqvdZ7Fo_8Y"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
