@@ -2,6 +2,8 @@
 title: wellspaces Energy Building SCBD
 date: 2019-12-04 12:51:00 +07:00
 published: false
+categories:
+- office
 position: 14
 seotags:
 - suites, equity, scbd, wellspaces, coworking, jakarta, office space
