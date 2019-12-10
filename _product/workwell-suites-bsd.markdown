@@ -11,6 +11,11 @@ image:
 - "/uploads/IntermarkBSD4.jpg"
 seotags:
 - workwell, suites, intermark, associate, tower, bsd, south, tangerang
+seodesc:
+- 'Wellspaces intermark BSD at The Associate Tower is our coworking space in BSD Tangerang
+  area. Located next to the toll gate, this coworking space gives you office space
+  with easy access in convenience location. Wellspaces Intermark BSD offer you office
+  space and meeting room. '
 address: The Associate Tower, 2nd Floor, Jl. Lkr. Tim. No. 9, Rw. Mekar Jaya, Serpong,
   Kota Tangerang Selatan, Banten 15310
 price:
