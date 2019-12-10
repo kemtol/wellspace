@@ -7,7 +7,7 @@ categories:
 position: 5
 bg-image: "/uploads/LOUNGE%20WEB.jpg"
 image:
-- "/uploads/WellspacesTokopedia3.jpg"
+- "/uploads/TOKPED%20PANTRY%20WEB.jpg"
 - "/uploads/WellspacesTokopedia8.jpg"
 - 
 seotags:
