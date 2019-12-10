@@ -4,6 +4,7 @@ date: 2019-06-26 12:07:00 +07:00
 permalink: "/service/coworking-space-serviced-office-TB-simatupang-menara-FIF-jakarta.html"
 categories:
 - office
+position: 8
 bg-image: "/uploads/AstraLabs%20Header%20copy.jpg"
 image:
 - "/uploads/12.jpg"

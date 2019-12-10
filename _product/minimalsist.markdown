@@ -4,6 +4,7 @@ date: 2018-12-24 13:12:00 +07:00
 permalink: "/service/coworking-space-serviced-office-kemang-Jakarta.html"
 categories:
 - office
+position: 9
 bg-image: "/uploads/Kemang%20Header%20copy.jpg"
 image:
 - "/uploads/FreewareLabs6.jpg"

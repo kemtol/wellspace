@@ -4,6 +4,7 @@ date: 2019-03-20 16:45:00 +07:00
 permalink: "/service/coworking-space-serviced-office-BSD-associate-tower-tangerang.html"
 categories:
 - office
+position: 6
 bg-image: "/uploads/Intermark%20Header%20copy.jpg"
 image:
 - "/uploads/IntermarkBSD5.jpg"

@@ -4,6 +4,7 @@ date: 2019-12-10 11:33:00 +07:00
 published: false
 categories:
 - office
+position: 12
 seotags:
 - scbd, treasury tower, district 8, wellspaces, south, jakarta, sudirman, office space,
   serviced office, pacific place, coworking space

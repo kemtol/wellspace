@@ -4,6 +4,7 @@ date: 2018-12-22 12:46:00 +07:00
 permalink: "/product/jual-polo-shirt-team-sepakbola.html"
 categories:
 - parent
+position: 0
 image:
 - "/uploads/welldefense%20150.jpg"
 - "/uploads/welldefense%20150-b15e7d.jpg"

@@ -4,6 +4,7 @@ date: 2018-12-24 13:29:00 +07:00
 permalink: "/service/coworking-space-serviced-office-SCBD-equity-tower-jakarta.html"
 categories:
 - office
+position: 4
 bg-image: "/uploads/Equity%20Header%20copy.jpg"
 image:
 - "/uploads/Equity6.jpg"

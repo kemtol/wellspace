@@ -4,6 +4,7 @@ date: 2019-06-29 23:20:00 +07:00
 permalink: "/service/coworking-space-serviced-office-tokopedia-tower-mega-kuningan.html"
 categories:
 - office
+position: 5
 bg-image: "/uploads/Wellspaces-Tokopedia-Featured-Image.jpg"
 image:
 - "/uploads/WellspacesTokopedia3.jpg"

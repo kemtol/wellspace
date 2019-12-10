@@ -4,6 +4,7 @@ date: 2018-12-22 12:53:00 +07:00
 permalink: "/product/dwell-co-living-house.html"
 categories:
 - parent
+position: 3
 image:
 - "/uploads/dwell%20150.jpg"
 - "/uploads/dwell%20150-b08817.jpg"

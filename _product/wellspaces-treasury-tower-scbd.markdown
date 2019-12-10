@@ -5,5 +5,6 @@ permalink: "/service/coworking-space-serviced-office-treasury-tower-SCBD.html"
 published: false
 categories:
 - office
+position: 1
 ---
 

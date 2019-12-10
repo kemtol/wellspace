@@ -4,6 +4,7 @@ date: 2018-12-22 12:56:00 +07:00
 permalink: product/Coworking-spaces-and-service-office.html
 categories:
 - parent
+position: 11
 image:
 - "/uploads/Wellspaces%20blue%20with%20symbol%20150.jpg"
 - "/uploads/Wellspaces%20blue%20with%20symbol%20150-1a8d05.jpg"
