@@ -11,6 +11,11 @@ image:
 - "/uploads/1-8ebfad.jpg"
 seotags:
 - astra, labs, fif, tb, simatupang, wellspaces, workwell, coworking, space, jakarta
+seodesc:
+- 'Trendiest coworking space in TB Simatupang South Jakarta. AstraLabs TB Simatupang
+  Menara FIF offers you office spaces located in strategic location near Lebak Bulus
+  and Fatmawati MRT station with direct access to Transjakarta. AstraLabs also offer
+  you event space and meeting room. '
 address: Jl. TB Simatupang Kav. 15, Menara FIF, 2nd Floor, RT.4/RW.1, Lb. Bulus, Cilandak,
   Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440
 price:
