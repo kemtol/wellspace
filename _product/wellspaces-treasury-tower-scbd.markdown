@@ -23,4 +23,3 @@ photo:
 - "/uploads/1d170128-2204-441b-84ba-6d4f6b4cd09e.jpg"
 ---
 
-fdssgsggvegsvsegv
