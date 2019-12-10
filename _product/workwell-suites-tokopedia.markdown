@@ -5,7 +5,7 @@ permalink: "/service/coworking-space-serviced-office-tokopedia-tower-mega-kuning
 categories:
 - office
 position: 5
-bg-image: "/uploads/Wellspaces-Tokopedia-Featured-Image.jpg"
+bg-image: "/uploads/LOUNGE%20WEB.jpg"
 image:
 - "/uploads/WellspacesTokopedia3.jpg"
 - "/uploads/WellspacesTokopedia8.jpg"
