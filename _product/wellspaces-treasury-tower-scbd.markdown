@@ -1,7 +1,6 @@
 ---
 title: wellspaces Treasury Tower SCBD
 date: 2019-12-10 11:33:00 +07:00
-published: false
 categories:
 - office
 position: 12
@@ -23,3 +22,4 @@ photo:
 - "/uploads/1d170128-2204-441b-84ba-6d4f6b4cd09e.jpg"
 ---
 
+fdssgsggvegsvsegv
