@@ -12,6 +12,10 @@ image:
 - "/uploads/CONTAINER%20WEB.jpg"
 seotags:
 - workwell, labs, kemang, bangka, xii, wellspaces, south, jakarta
+seodesc:
+- 'The biggest coworking space in Kemang area, this location offers container based
+  office space, meeting room & event space with inspiring design & thriving community.
+  Wellspaces kemang is open 24hours everyday. '
 address: Jl. Bangka XII No.4, RT.2/RW.7, Pela Mampang, Mampang Prapatan, Jakarta Selatan,
   Daerah Khusus Ibukota Jakarta 12720
 price:
