@@ -12,6 +12,10 @@ image:
 - 
 seotags:
 - workwell, suites, tokopedia, tower, ciputra, world, wellspaces, jakarta, kuningan
+seodesc:
+- 'This Mega Kuningan based coworking space, Wellspaces Tokopedia Tower, offers you
+  office space with easy access to shopping mall, MRT Jakarta, transjakarta and others
+  Jakarta hidden gems. '
 address: "Tokopedia Tower Ciputra World 2, 19th Floor, Jl. Prof. DR. Satrio No.Kav.
   11, RT.3/RW.3, Karet Semanggi, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota
   Jakarta 12950\n\n"
