@@ -13,8 +13,8 @@ pricedesc: 'Not only we offer you the best hospitality as best as we could, but 
   the experience that suits your needs. Pro tips: dont forget to check our special
   deals in whats on section!'
 price:
-  Shared Desk: 'Rp '
-  Private Offices (2-6 Persons): 'Rp '
+  Shared Desk: Rp 2.500.000/mo
+  Private Offices (2-6 Persons): Rp 20.000.000/mo
   Meeting Room: Rp 250.000/hour
 featureslist:
 - 5 Private Offices Rooms
