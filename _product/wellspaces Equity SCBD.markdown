@@ -11,6 +11,11 @@ image:
 - "/uploads/Equity5.jpg"
 seotags:
 - 'workwell, suites, equity, scbd, wellspaces, coworking, jakarta, office space, '
+seodesc:
+- 'Wellspaces Equity Tower SCBD is one of our prime coworking spaces that located
+  in the heart of Jakarta’s most popular business district, Sudirman SCBD.  Wellspaces
+  Equity Tower SCBD offers you office space, event space and meeting room . Wellspaces
+  Equity Tower SCBD also have easy access to Istora Mandiri MRT Station. '
 address: Equity Tower, 18th floor, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta Selatan,
   Daerah Khusus Ibukota Jakarta 12190
 pricedesc: 'Not only we offer you the best hospitality as best as we could, but also
