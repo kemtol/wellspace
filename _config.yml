@@ -141,23 +141,23 @@ defaults:
     layout: default
 favicon: "/uploads/favicon.png"
 name: wellspaces.co
-description: Coworking Office & Coliving House in Jakarta
+description: The first coworking space and coliving operator in Jakarta, Indonesia. With strategic locations all over the capital city. We offer serviced office space and residence/ apartment/ kost with inviting design, flexible environment and genuine experience, for the thriving communities of business and professionals at any scale.
 logo: img/core-img/logo.png
-igid: 
-igtoken: 
+igid:
+igtoken:
 wa: "+62 813 1839 1205"
 fb: https://www.facebook.com/wellspaces.co/
 ig: https://www.instagram.com/wellspaces.co/
-twitter: 
+twitter:
 youtube: https://www.youtube.com/channel/UCtnxjFATCgkZoFErnaf-6aA
 linkedin: https://www.linkedin.com/company/wellspaces-group/
-google_analytics: 
+google_analytics:
 google_form_contact: http://bit.ly/wellspacesinquiryform
 homeyoutube: <iframe width="100%" height="420" src="https://www.youtube.com/embed/35iok_pqI6Q"
   frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
   allowfullscreen></iframe>
 url: https://wellspaces.CO
-baseurl: 
+baseurl:
 permalink: "/:title/"
 version: v1.2.0
 kramdown:
