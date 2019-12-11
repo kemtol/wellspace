@@ -1,6 +1,7 @@
 ---
 title: wellspaces Treasury Tower SCBD
 date: 2019-12-10 11:33:00 +07:00
+permalink: "/service/coworking-space-serviced-office-treasury-tower-SCBD.html"
 published: false
 categories:
 - office
@@ -30,6 +31,12 @@ photo:
 - "/uploads/treasury%205.jpg"
 - "/uploads/workwell-suites-SCBD.jpg"
 - "/uploads/Treasury%202.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
 COMING SOON!
