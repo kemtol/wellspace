@@ -1,6 +1,7 @@
 ---
 title: wellspaces Energy Building SCBD
 date: 2019-12-04 12:51:00 +07:00
+permalink: "/service/coworking-space-serviced-office-energy-bulding-SCBD.html"
 published: false
 categories:
 - office
