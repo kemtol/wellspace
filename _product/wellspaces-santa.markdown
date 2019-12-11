@@ -1,7 +1,7 @@
 ---
 title: wellspaces Santa
 date: 2019-12-03 14:06:00 +07:00
-permalink: "/service/wellspaces-Santa.html"
+permalink: "/service/coworking-space-serviced-office-Santa.html"
 published: false
 categories:
 - office
