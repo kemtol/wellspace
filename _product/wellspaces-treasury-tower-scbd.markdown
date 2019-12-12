@@ -16,7 +16,7 @@ seotags:
 address: Treasury Tower, District 8, Jl. Jend. Sudirman, Senayan, Kec. Kby. Baru,
   Daerah Khusus Ibukota Jakarta 12190
 price:
-  Starting Price: 'Rp '
+  Starting Price: Rp 2.000.000/pax
 featureslist:
 - Private Offices
 - Meeting Rooms
@@ -29,14 +29,7 @@ photo:
 - "/uploads/Treasury%209.jpg"
 - "/uploads/Treasury%207.jpg"
 - "/uploads/treasury%205.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
 - "/uploads/Treasury%202.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
 COMING SOON!
