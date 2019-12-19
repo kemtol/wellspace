@@ -15,8 +15,11 @@ seotags:
   serviced office, pacific place, coworking space
 address: Treasury Tower, District 8, Jl. Jend. Sudirman, Senayan, Kec. Kby. Baru,
   Daerah Khusus Ibukota Jakarta 12190
+pricedesc: 'Not only we offer you the best hospitality as best as we could, but also
+  the experience that suits your needs. Pro tips: don''t forget to check out our special
+  deals in whats on section!'
 price:
-  Starting Price: Rp 2.000.000/pax
+  Starting Price: Rp 2.500.000/pax
 featureslist:
 - Private Offices
 - Meeting Rooms
