@@ -10,7 +10,12 @@ bg-image: "/uploads/workwell%20Outpost%20Santa%20-%20Kitchen%20Area.jpeg"
 image:
 - "/uploads/workwell%20Outpost%20Santa%20-%2025%20Shared%20Desks-ac3668.jpeg"
 - "/uploads/workwell%20Outpost%20Santa%20-%20Kitchen%20Area%20(2).jpeg"
+seotags:
+- santa, gunawarman, senopati, shared desks, coworking, selatan, jakarta, office space
 address: 'Jl. Cisanggiri II No. 14 '
+pricedesc: 'Not only we offer you the best hospitality as best as we could, but also
+  the experience that suits your needs. Pro tips: don''t forget to check out our special
+  deals in whats on section!'
 price:
   Shared Desk: Rp 1.500.000/mo
 featureslist:
