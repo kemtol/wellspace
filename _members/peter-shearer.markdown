@@ -6,4 +6,3 @@ categories:
 image: "/uploads/PETER%20SHEARER%20WEB.jpeg"
 ---
 
-Founder, Wahyoo
