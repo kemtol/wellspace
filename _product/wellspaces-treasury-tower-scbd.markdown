@@ -2,7 +2,6 @@
 title: wellspaces Treasury Tower SCBD
 date: 2019-12-10 11:33:00 +07:00
 permalink: "/service/coworking-space-serviced-office-treasury-tower-SCBD.html"
-published: false
 categories:
 - office
 position: 12
@@ -42,4 +41,5 @@ photo:
 - "/uploads/workwell-suites-SCBD.jpg"
 ---
 
-COMING SOON!
+Wellspaces Treasury Tower is a Serviced Office and Coworking space that is located in the newest area in SCBD, District 8. SCBD has undoubtedly become the largest business center in Jakarta that continues to live and moves dynamically throughout Jakarta’s economy.
+Strategically located near Grand Lucky, Goods Diner, Alila Hotel, and Pacific Place makes Wellspaces Treasury Tower the perfect place that offers productivity and time effectiveness to your company. 
