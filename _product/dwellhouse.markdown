@@ -13,8 +13,8 @@ seotags:
 price:
   privatemonth: 5000000
 branches:
-- House Antasari 27
+- dwell House Antasari
+- dwell Kemang Village (Soon!)
 - Studio Antasari (Soon!)
-- Kemang Village Penthouse (Soon!)
 ---
 
