@@ -2,11 +2,13 @@
 title: dwell Kemang Village
 date: 2019-12-16 09:52:00 +07:00
 permalink: "/service/coliving-kost-exclusive-apartement-kemang-village-jakarta.html"
+published: false
 categories:
 - living
 bg-image: "/uploads/Kemvil%20empire%20tower.jpg"
 image:
 - "/uploads/Kemvil%20empire%20tower.jpg"
+- "/uploads/pic-2.jpg"
 seotags:
 - apartment, serviced apartment, kost, kemang village, empire tower, south, jakarta,
   bedroom, wellspaces, dwell, coliving, kost exclusive
