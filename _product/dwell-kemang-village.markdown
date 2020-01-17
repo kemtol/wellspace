@@ -2,13 +2,12 @@
 title: dwell Kemang Village
 date: 2019-12-16 09:52:00 +07:00
 permalink: "/service/coliving-kost-exclusive-apartement-kemang-village-jakarta.html"
-published: false
 categories:
 - living
 bg-image: "/uploads/Kemang%201.jpg"
 image:
 - "/uploads/Kemang%201.jpg"
-- "/uploads/Kemang%201.jpg"
+- "/uploads/Kemang%206.jpg"
 seotags:
 - apartment, serviced apartment, kost, kemang village, empire tower, south, jakarta,
   bedroom, wellspaces, dwell, coliving, kost exclusive
@@ -19,6 +18,9 @@ pricedesc: 'Not only we offer you the best hospitality as best as we could, but 
   deals in whats on section!'
 price:
   Starting Price: Rp 6.500.000/Room/Mo
+featuresdesc: |-
+  dwell Kemang village invites millenials to never feel out of place in their work and home. Modern and practically furnished private rooms and bathrooms for your leisure with the best value.
+  Located in an integrated area with one of the finest mall and apartment complex in South Jakarta. Let us be your home and help you through your productive and creative days.
 featureslist:
 - 'Private Bedroom '
 - Lounge Area
@@ -34,6 +36,7 @@ photo:
 - "/uploads/Kemang%205.jpg"
 - "/uploads/Kemang%203.jpg"
 - "/uploads/Kemang%202.jpg"
+- "/uploads/Kemang%201.jpg"
 ---
 
 Getting a place to stay that is surrounded by a variety of adequate facilities and located in one of the strategic locations in Jakarta, can be a very big advantage. Dwell Kemang Village can fulfill that! Located on the top floor of the Empire Tower Kemang Village, Dwell Kemang Village provides an astounding landscape view of the city. Provided with such facilities such as gym, swimming pool, and also Kemang Village Mall. Dwell Kemang Village concept invites professionals and entrepreneurs to never feel out of place in their work and home!
