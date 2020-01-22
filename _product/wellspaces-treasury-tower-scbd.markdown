@@ -19,6 +19,12 @@ pricedesc: 'Not only we offer you the best hospitality as best as we could, but 
   deals in whats on section!'
 price:
   Starting Price: Rp 2.500.000/pax
+featuresdesc: "Wellspaces Treasury Tower is a Serviced Office and Coworking space
+  that is located in the newest area in SCBD, District 8. SCBD has undoubtedly become
+  the largest business center in Jakarta that continues to live and moves dynamically
+  throughout Jakarta’s economy.\nStrategically located near Grand Lucky, Goods Diner,
+  Alila Hotel, and Pacific Place makes Wellspaces Treasury Tower the perfect place
+  that offers productivity and time effectiveness to your company. "
 featureslist:
 - Private Offices
 - Meeting Rooms
