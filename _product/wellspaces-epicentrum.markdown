@@ -1,5 +1,5 @@
 ---
-title: wellspaces epicentrum
+title: wellspaces Epicentrum
 date: 2020-01-22 11:15:00 +07:00
 published: false
 categories:
@@ -31,6 +31,9 @@ photo:
 - "/uploads/Epicentum%207.jpg"
 - "/uploads/Epicentrum%208.jpg"
 - "/uploads/Epicentrum%209.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/workwell-suites-SCBD.jpg"
 ---
 
 coming soon !!
