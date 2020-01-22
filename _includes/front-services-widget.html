@@ -19,7 +19,8 @@
                     {% for item in items %}
                           {% if item.categories contains "parent" %}
                           <!-- Single Product -->
-                          <div class="single-product-wrapper d-flex flex-row">
+                          <!--<div class="single-product-wrapper d-flex flex-row">-->
+                          <div class="single-product-wrapper">
                             <!-- Product Image -->
                             <a href="{{site.baseurl}}/service/"  class="d-block product-img w-30 p-4">
                               <img src="{{site.baseurl}}{{ item.image[0] }}" alt="">
