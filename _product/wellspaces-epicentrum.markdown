@@ -4,7 +4,7 @@ date: 2020-01-22 11:15:00 +07:00
 published: false
 categories:
 - office
-bg-image: "/uploads/Epicentrum%209.jpg"
+bg-image: "/uploads/Epicentrum%20BG.jpg"
 image:
 - "/uploads/Epicentrum%204.jpg"
 - "/uploads/Epicentrum%2010.jpg"
