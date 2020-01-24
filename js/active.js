@@ -33,13 +33,13 @@
                     items: 3
                 },
                 1200:{
-                    items: 4
+                    items: 3
                 },
                 1600:{
-                    items: 5
+                    items: 3
                 },
                 2048: {
-                    items: 6
+                    items: 3
                 }
             }
         });
