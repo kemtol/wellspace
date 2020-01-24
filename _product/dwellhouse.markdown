@@ -6,8 +6,8 @@ categories:
 - parent
 position: 3
 image:
-- "/uploads/dwell%20150.jpg"
-- "/uploads/dwell%20150-b08817.jpg"
+- "/uploads/Dwell%20360.jpg"
+- "/uploads/Dwell%20360.jpg"
 seotags:
 - dwell ,  the stay , coliving , kostan , kostan jakarta
 price:
