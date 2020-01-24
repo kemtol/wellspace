@@ -6,8 +6,8 @@ categories:
 - parent
 position: 11
 image:
-- "/uploads/Wellspaces%20blue%20with%20symbol%20150.jpg"
-- "/uploads/Wellspaces%20blue%20with%20symbol%20150-1a8d05.jpg"
+- "/uploads/wellspaces%20360.jpg"
+- "/uploads/wellspaces%20360.jpg"
 seotags:
 - wellspaces.co , Coworking, Office Spaces, Coworking Space Jakarta, Ruang Kantor,
   Serviced Office
