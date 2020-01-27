@@ -33,12 +33,18 @@ featureslist:
 mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15865.092156644432!2d106.806193!3d-6.2276876!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1932ce0709d82af4!2sTreasury%20Office%20Tower!5e0!3m2!1sen!2sid!4v1575952691188!5m2!1sen!2sid"
   width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 photo:
-- "/uploads/treasury%208.jpg"
-- "/uploads/Treasury%209.jpg"
-- "/uploads/Treasury%207.jpg"
-- "/uploads/treasury%205.jpg"
+- "/uploads/Treasury%201.jpg"
 - "/uploads/Treasury%202.jpg"
+- "/uploads/treasury%203.jpg"
+- "/uploads/Treasury%204.jpg"
+- "/uploads/treasury%205.jpg"
 - "/uploads/Treasury%206.jpg"
+- "/uploads/Treasury%207.jpg"
+- "/uploads/Treasury%201.jpg"
+- "/uploads/treasury%208.jpg"
+- "/uploads/Treasury%206.jpg"
+- "/uploads/Treasury%209.jpg"
+- "/uploads/Treasury%202.jpg"
 ---
 
 Wellspaces Treasury Tower is a Serviced Office and Coworking space that is located in the newest area in SCBD, District 8. SCBD has undoubtedly become the largest business center in Jakarta that continues to live and moves dynamically throughout Jakarta’s economy.
