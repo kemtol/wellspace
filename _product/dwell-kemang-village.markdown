@@ -37,6 +37,12 @@ photo:
 - "/uploads/Kemang%203.jpg"
 - "/uploads/Kemang%202.jpg"
 - "/uploads/Kemang%201.jpg"
+- "/uploads/Kemang%207.jpg"
+- "/uploads/Kemang%208.jpg"
+- "/uploads/Kemang%209.jpg"
+- "/uploads/Kemang%204.jpg"
+- "/uploads/Kemang%205.jpg"
+- "/uploads/Kemang%203.jpg"
 ---
 
 Getting a place to stay that is surrounded by a variety of adequate facilities and located in one of the strategic locations in Jakarta, can be a very big advantage. Dwell Kemang Village can fulfill that! Located on the top floor of the Empire Tower Kemang Village, Dwell Kemang Village provides an astounding landscape view of the city. Provided with such facilities such as gym, swimming pool, and also Kemang Village Mall. Dwell Kemang Village concept invites professionals and entrepreneurs to never feel out of place in their work and home!
