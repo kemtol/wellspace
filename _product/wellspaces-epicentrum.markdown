@@ -31,9 +31,9 @@ photo:
 - "/uploads/Epicentum%207.jpg"
 - "/uploads/Epicentrum%208.jpg"
 - "/uploads/Epicentrum%209.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
-- "/uploads/workwell-suites-SCBD.jpg"
+- "/uploads/Epicentrum%2010.jpg"
+- "/uploads/Epicentrum%2011.jpg"
+- "/uploads/Epicentrum%2012.jpg"
 ---
 
 coming soon !!
