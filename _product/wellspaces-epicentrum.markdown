@@ -14,6 +14,11 @@ pricedesc: 'Not only we offer you the best hospitality as best as we could, but 
   deals in whats on section!'
 price:
   Price List: Rp. 2.000.000/pax
+featuresdesc: Wellspaces epicentrum is a coworking space located strategically in
+  Jakarta high end business location of Rasuna Said kuningan. Our coworking space
+  is also just a step away from Plaza festival, Epiwalk and high end hotel such as
+  Westin, J.S Luwansa and Grand Melia. Wellspaces epicentrum is the right office space
+  for you to grow your business
 featureslist:
 - Private Office
 - Meeting Room
