@@ -41,4 +41,4 @@ photo:
 - "/uploads/Epicentrum%2012.jpg"
 ---
 
-Working environment is one of the biggest factors to reach your highest productivity. Ease of transportation and entertainment facilities are the way to reach your work life balance. Wellspaces epicentrum is a coworking space located strategically in Jakarta high end business location of Rasuna Said kuningan. Our coworking space is also just a step away from Plaza festival, Epiwalk and high end hotel such as Westin, J.S Luwansa and Grand Melia. Wellspaces epicentrum is the right office space for you to grow your business! 
+Working environment is one of the biggest factor to reach your highest productivity. wellspaces epicentrum is the right office space for you to maximize your business growth. Ease of transportation and entertainment facility is the way to reach your work life balance.   Wellspaces Epicenteum is a coworking space located strategically in Jakarta’s high end bussines location of Rasuna Said, Kuningan. Our coworking space is also just a step away from Plaza festival, Epiwalk and highend hotel such as Westin, J.S Luwansa and Grand Melia 
