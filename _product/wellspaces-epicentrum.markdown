@@ -1,6 +1,7 @@
 ---
 title: wellspaces Epicentrum
 date: 2020-01-22 11:15:00 +07:00
+permalink: "/service/coworking-space-serviced-office-epicentrum-kuningan.html"
 categories:
 - office
 bg-image: "/uploads/Epicentrum%20BG.jpg"
