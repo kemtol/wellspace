@@ -28,6 +28,8 @@ featureslist:
 - Event Space
 - Cozy Lounge
 - Free Coffee
+mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.232775133115!2d106.82974371372899!3d-6.233015462772431!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2e69f3e8cfc30d87%3A0x8dc9aec3d3078ecd!2sEpicentrum%20Walk!5e0!3m2!1sen!2sid!4v1580797382698!5m2!1sen!2sid"
+  width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 photo:
 - "/uploads/Epicentrum%201.jpg"
 - "/uploads/Epicentrum%202.jpg"
