@@ -2,7 +2,6 @@
 title: wellspaces Intermark BSD Serpong
 date: 2019-03-20 16:45:00 +07:00
 permalink: "/service/coworking-space-serviced-office-BSD-associate-tower-tangerang.html"
-published: false
 categories:
 - office
 position: 6
