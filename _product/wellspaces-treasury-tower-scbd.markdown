@@ -35,11 +35,11 @@ mapcoordinate: <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1
 photo:
 - "/uploads/Treasury%201.jpg"
 - "/uploads/Treasury%202.jpg"
-- "/uploads/treasury%203.jpg"
+- "/uploads/Treasury%206-203a16.jpg"
 - "/uploads/Treasury%204.jpg"
 - "/uploads/treasury%205.jpg"
 - "/uploads/Treasury%206.jpg"
-- "/uploads/Treasury%207.jpg"
+- "/uploads/Treasury%2010-ae1c39.jpg"
 - "/uploads/Treasury%201(2).jpg"
 - "/uploads/Treasury%203%20(3).jpg"
 - "/uploads/Treasury%205%20(2).jpg"
