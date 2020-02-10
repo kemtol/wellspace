@@ -40,10 +40,10 @@ photo:
 - "/uploads/treasury%205.jpg"
 - "/uploads/Treasury%206.jpg"
 - "/uploads/Treasury%207.jpg"
-- "/uploads/Treasury%203%20(1).PNG"
-- "/uploads/Treasury%201%20(1).PNG"
-- "/uploads/Treasury%207%20(1).PNG"
-- "/uploads/Treasury%209%20(1).PNG"
+- "/uploads/Treasury%2013.jpg"
+- "/uploads/Treasury%2012.jpg"
+- "/uploads/Treasury%2011.jpg"
+- "/uploads/Treasury%2010.jpg"
 - "/uploads/Treasury%205%20(1).PNG"
 ---
 
