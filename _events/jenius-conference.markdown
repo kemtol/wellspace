@@ -1,6 +1,7 @@
 ---
 title: JENIUS CONFERENCE
 date: 2019-06-27 12:41:00 +07:00
+published: false
 categories:
 - seminar
 image: "/uploads/jenius-connect.jpeg"
