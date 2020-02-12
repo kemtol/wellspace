@@ -1,5 +1,5 @@
 ---
-title: MEAT UP 2020 The Entrepreneurs Networking Events
+title: MEAT UP 2020 The Entrepreneurs Networking Event
 date: 2020-02-12 14:41:00 +07:00
 permalink: "/events/jakarta-entrepreneurs-networking-event"
 published: false
