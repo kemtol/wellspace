@@ -12,6 +12,5 @@ location: |-
   Jalan Bangka XII.
   Mampang Prpt, Daerah Khusus Ibukota Jakarta 12720.
 price: Rp. 350.000
-ticket-link: bit.ly/meatup2020
 ---
 
