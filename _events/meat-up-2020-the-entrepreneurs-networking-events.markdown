@@ -15,7 +15,3 @@ price: Rp. 350.000
 ticket-link: bit.ly/meatup2020
 ---
 
-50% TICKET SOLD IN A WEEK
-EARLY BIRD 1 TICKET SOLD OUT
-
-As one of the biggest networking events in Jakarta for entrepreneurs & professionals in the tech startup & entrepreneurship scene, with more than 800+ attendances back in 2019. Its where you can meet & meat together with fellow entrepreneurs, professionals, and investors in a casual way. Accompanied by good drinks, food, and entertainment.
