@@ -2,6 +2,7 @@
 title: MEAT UP 2020 The Entrepreneurs Networking Events
 date: 2020-02-12 14:41:00 +07:00
 permalink: "/"
+published: false
 categories:
 - seminar
 image: "/uploads/Meat%20Up%20Early%20Bird%202.jpeg"
