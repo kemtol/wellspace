@@ -1,15 +1,15 @@
 ---
-title: JENIUS CONFERENCE
+title: MEAT UP 2020 The Entrepreneurs Networking Events
 date: 2019-06-27 12:41:00 +07:00
-published: false
 categories:
 - seminar
-image: "/uploads/jenius-connect.jpeg"
-event-date: 2019-02-22 17:00:00 +07:00
+image: "/uploads/Meat%20Up%204.jpeg"
+event-date: 2020-03-18 19:00:00 +07:00
 location: |-
-  Menara BTPN
-  Beranda Menara BTPN, 27th Floor.
-  Kecamatan Setiabudi, Daerah Khusus Ibukota Jakarta 12950.
-ticket-link: https://www.eventbrite.com/e/jenius-conference-tickets-56774218215
+  wellspaces Kemang
+  Jalan Bangka XII.
+  Mampang Prpt, Daerah Khusus Ibukota Jakarta 12720.
+price: Rp. 350.000
+ticket-link: https://www.eventbrite.com/e/meat-up-jakartas-biggest-entrepreneurs-networking-night-at-wellspaces-tickets-89204524133
 ---
 
