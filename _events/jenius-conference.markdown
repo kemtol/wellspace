@@ -1,6 +1,7 @@
 ---
 title: MEAT UP 2020 The Entrepreneurs Networking Events
 date: 2019-06-27 12:41:00 +07:00
+permalink: "/events/jakarta-biggest-networking-night.html"
 categories:
 - seminar
 image: "/uploads/Meat%20Up%204.jpeg"
