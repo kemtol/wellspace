@@ -55,8 +55,5 @@ photo:
 - "/uploads/INTERMARK%20HALLWAY%20WEB.jpg"
 ---
 
-wellspaces Intermark BSD is located at the new development complex of Intermark where the Associate Tower, 24/7 alfresco dining, business hotel, residence and assembly hall sit in one compound—making it a strategic global business hub in the emerging town of BSD, South Tangerang.
-
-Located next to the exit toll road of BSD from Jakarta, 5-minute drive to Pasar Modern BSD and 10-minute drive to Edutown BSD (Prasetiya Mulya, Unilever Indonesia, The Breeze, Aeon Mall, ICE BSD), wellspaces Intermark BSD brings a new perspective in ways of work to South Tangerang where our shared office spaces and all the supporting features are entwined with great design.
-
-Whether you’re an entrepreneur, small business or start-up founder, wellspaces Intermark BSD provides the ideal environment for you and your business to thrive. We believe by establishing a professional yet collaborative ecosystem will help our members to be creative, innovative and productive in which business development is paramount.
+Have you ever looked for a place to focus on working in a supportive environment, or looking for a place to hold important meetings with clients or business partners? Sometimes the thing that becomes a reference for finding the right place is the comfortable environment with a supportive room or a strategic location that not far from the city.
+Wellspaces offers inviting design spaces, where entrepreneurs and companies can work together in a shared workspace in the heart of Tangerang. Wellspaces has a private and shared workspace with the comfort of a completely modern facility and a comfortable corner for relaxing, chatting or hanging out. Get inspired in an environment conducive to creativity and productivity.
