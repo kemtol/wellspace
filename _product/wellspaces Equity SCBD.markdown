@@ -20,9 +20,9 @@ seodesc:
   with your partners.
 address: Equity Tower, 18th floor, RT.5/RW.3, Senayan, Kby. Baru, Kota Jakarta Selatan,
   Daerah Khusus Ibukota Jakarta 12190
-pricedesc: |-
-  Wellspaces provides entrepreneurs, creatives and independent professionals flexible workspaces that offer convenience, world-class facilities, and style without breaking the bank.
-  Not only we offer you the best hospitality as best as we could, but also the experience that suits your needs. Pro tips: dont forget to check our special deals in whats on section!
+pricedesc: 'Not only we offer you the best hospitality as best as we could, but also
+  the experience that suits your needs. Pro tips: don''t forget to check our special
+  deals in what''s on section!'
 price:
   Shared Desk: Rp. 1.950.000/mo
   Reserved Desk: Rp. 2.800.000/mo
@@ -64,4 +64,3 @@ photo:
 
 Have you ever looking for a great place to work in a district area? Sudirman Central Business District or SCBD is a business district with an integrated mixed-use development concept, located in South Jakarta, Indonesia. With so many buildings and offices around SCBD, it will make you easy to feel the “working environment” around this area. Once you hit SCBD, you will go to find the perfect and comfortable working space for you to do some works, or hold important meetings with your partners.
 Wellspaces occupies the entire 18th floor of SCBD Equity Tower, with sweeping views of the city skyline and direct access to so many South Jakarta’s busiest commercial, office, shopping and transportation shelters or stations. It offers an excellent cost to benefit ratio combined with unsurpassed convenience, which makes this location highly desirable for both local and multinational companies.
-The coworking space occupies the 18th floor of SCBD Equity Tower so there’s plenty of natural light and views of the urban skyline. Located near Gelora Bung Karno sports complex, and near Google Indonesia’s office. Took only 13 minutes to walk from MRT Senayan station and Transjakarta shelter. This is the strategic place for you to get a place for a meeting or work in a coworking space. 
