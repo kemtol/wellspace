@@ -13,12 +13,14 @@ image:
 seotags:
 - workwell, suites, tokopedia, tower, ciputra, world, wellspaces, jakarta, kuningan
 seodesc:
-- 'This Mega Kuningan based coworking space, Wellspaces Tokopedia Tower, offers you
-  office space with easy access to shopping mall, MRT Jakarta, transjakarta and others
-  Jakarta hidden gems. '
-address: "Tokopedia Tower Ciputra World 2, 19th Floor, Jl. Prof. DR. Satrio No.Kav.
+- Wellspaces Mega Kuningan is located in Tokopedia Tower Ciputra World 2, 19th floor.
+  It is only 1 kilometer away from Semanggi Transjakarta shelter and Bendungan Hilir
+  MRT station. It is a very strategic place and right in the middle of the office
+  environment. During lunches or meetings, you have the option to walk to Plaza Semanggi
+  or many restaurants, which is only 11 minutes away.
+address: Tokopedia Tower Ciputra World 2, 19th Floor, Jl. Prof. DR. Satrio No.Kav.
   11, RT.3/RW.3, Karet Semanggi, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota
-  Jakarta 12950\n\n"
+  Jakarta 12950
 price:
   Private Offices (7 Person) Non Window Side: Rp. 14.300.000/mo
   Private Offices (6 Person) Window Side: Rp. 16.000.000/mo
@@ -55,5 +57,4 @@ photo:
 - "/uploads/TOKPED%20PANTRY%20WEB.jpg"
 ---
 
-wellspaces Tokopedia Tower offers inspiring spaces with inviting design, flexible environment and genuine experiences, for the thriving communities of business and professionals to grow, sustain and scale.
-
+Coworking space has the advantages needed in doing business that is currently very important; networking and collaboration. With coworking space as a place for entrepreneurs to gather, coworking space users will have more business acquaintances who can be used as business partners. With the presence of acquaintances and the possibility of collaborating, the business can develop much more rapidly because of the many opportunities and also the inspiration obtained from different environments. There are so many coworking spaces in Jakarta, the basic reason for all of this is simply because Jakarta is the central business in Indonesia, it is dominant and filled with dozens of startups. So, where to find coworking space in the Jakarta area si that work can be more comfortable? If you are around Setiabudi, the right coworking space for you is Wellspace Tokopedia Tower Kuningan. If you are one of those people looking for a centralized location to work as it is close to basically anywhere, then Wellspaces Tokopedia Tower Kuningan is the obvious choice.
