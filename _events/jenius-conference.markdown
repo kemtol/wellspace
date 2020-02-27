@@ -10,7 +10,7 @@ location: |-
   wellspaces Kemang
   Jalan Bangka XII.
   Mampang Prpt, Daerah Khusus Ibukota Jakarta 12720.
-price: Rp. 350.000
+price: Rp. 400.000
 ticket-link: https://www.eventbrite.com/e/meat-up-jakartas-biggest-entrepreneurs-networking-night-at-wellspaces-tickets-89204524133
 ---
 
