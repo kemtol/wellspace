@@ -19,13 +19,9 @@ seodesc:
 address: Jl. TB Simatupang Kav. 15, Menara FIF, 2nd Floor, RT.4/RW.1, Lb. Bulus, Cilandak,
   Jakarta Selatan, Daerah Khusus Ibukota Jakarta 12440
 price:
-  Private Offices (7 Person) Non Window Side: Rp. 10.000.000/mo
-  Private Offices (8 Person) Window Side: Rp. 11.000.000/mo
-  Private Offices (11 Person) Window Side: Rp. 12.000.000/mo
-  Meeting Room (6 person): Rp. 250.000/hour
-  Event Spaces Indoor* (up to 70 person): 
-  per Hour: Rp. 1.650.000/hour
-  per Day: Rp. 6.600.000/day (8 hours)
+  Private Offices (Start From): Rp. 8.276.400/mo
+  Meeting Room: Rp. 250.000/hour
+  Event Spaces (up to 70 person): Rp. 1.650.000/hour
   "&nbsp": "&nbsp"
   "*Minimum 3 hours, weekdays above 6pm": 
 featuresdesc: AstraLabs FIF TB Simatupang located in Lebak Bulus 10 minutes walk to
