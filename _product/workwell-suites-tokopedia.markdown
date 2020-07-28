@@ -22,13 +22,9 @@ address: Tokopedia Tower Ciputra World 2, 19th Floor, Jl. Prof. DR. Satrio No.Ka
   11, RT.3/RW.3, Karet Semanggi, Setia Budi, Kota Jakarta Selatan, Daerah Khusus Ibukota
   Jakarta 12950
 price:
-  Private Offices (7 Person) Non Window Side: Rp. 14.300.000/mo
-  Private Offices (6 Person) Window Side: Rp. 16.000.000/mo
-  Private Offices (10 Person) Window Side: Rp. 20.900.000/mo
+  Private Offices (Starts From): Rp. 11.000.000/mo
   Meeting Room (8 person): Rp. 250.000/hour
-  Event Spaces Indoor* (up to 20 person): 
-  per Hour: Rp. 800.000/hour
-  per Day: Rp. 3.850.000/day (8 hours)
+  Event Spaces* (Starts From): Rp. 800.000/hour
   "&nbsp": 
   "*Minimum 3 hours, weekdays above 6pm": 
 featuresdesc: |-
