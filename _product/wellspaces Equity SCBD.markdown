@@ -24,13 +24,9 @@ pricedesc: 'Not only we offer you the best hospitality as best as we could, but 
   the experience that suits your needs. Pro tips: don''t forget to check our special
   deals in what''s on section!'
 price:
-  Shared Desk: Rp. 1.950.000/mo
-  Reserved Desk: Rp. 2.800.000/mo
-  Private Offices (2-6 Person): Rp. 11.200.000/mo
-  Private Offices (7-12 Person): Rp. 19.200.000/mo
-  Private Offices (13+ Person): Rp. 38.000.000/mo
-  Event Spaces (Class Package)*: 'Rp. 6.000.000/3 hours '
-  Event Spaces (Premium Package)**: Rp. 12.000.000/3 hours
+  Private Offices (Starts From): Rp. 7.700.000/mo
+  Shared Desk (Starts From): Rp. 250.000/day
+  Event Spaces (Class Package)*: Rp. 1.000.000/hour
   Meeting Room: Rp. 250.000/hour
   "&nbsp": "&nbsp"
   "*Minimum 3 hours, weekdays above 6pm": 
