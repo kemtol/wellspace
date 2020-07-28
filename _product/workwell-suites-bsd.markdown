@@ -19,10 +19,8 @@ seodesc:
 address: The Associate Tower, 2nd Floor, Jl. Lkr. Tim. No. 9, Rw. Mekar Jaya, Serpong,
   Kota Tangerang Selatan, Banten 15310
 price:
-  Shared Desk (Dedicated): Rp. 1.350.000/mo
-  Shared Desk (Non-dedicated): Rp. 900.000/mo
-  Private Offices (6-10 Persons): Rp. 7.400.000/mo
-  Private Offices (10-16 Persons): Rp. 8.000.000/mo
+  Private Offices (Starts From): Rp. 8.200.000/mo
+  Shared Desk (Starts From): Rp. 150.000/day
   Meeting Room: Rp. 150.000/hour
 featuresdesc: |-
   Workwell Suites Intermark BSD is:
