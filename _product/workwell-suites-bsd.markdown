@@ -20,8 +20,8 @@ address: The Associate Tower, 2nd Floor, Jl. Lkr. Tim. No. 9, Rw. Mekar Jaya, Se
   Kota Tangerang Selatan, Banten 15310
 price:
   Private Offices (Starts From): Rp. 8.200.000/mo
-  Shared Desk (Starts From): Rp. 150.000/day
   Meeting Room: Rp. 150.000/hour
+  Shared Desk (Starts From): Rp. 150.000/day
 featuresdesc: |-
   Workwell Suites Intermark BSD is:
   - 30 minutes from Jakarta

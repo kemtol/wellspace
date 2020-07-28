@@ -21,7 +21,7 @@ address: Jl. Bangka XII No.4, RT.2/RW.7, Pela Mampang, Mampang Prapatan, Jakarta
 price:
   Private Offices (Starts From): Rp. 4.200.000/mo
   Meeting Room: Rp. 150.000/hour
-  Shared Desk: Rp. 1.350.000/mo
+  Shared Desk (Starts From): Rp. 1.350.000/mo
   Event Spaces (Starts From): 'Rp. 500.000/hours '
   "&nbsp": "&nbsp"
   "*Minimum 3 hours, weekdays above 6pm": 
