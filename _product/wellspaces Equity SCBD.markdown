@@ -26,7 +26,7 @@ pricedesc: 'Not only we offer you the best hospitality as best as we could, but 
 price:
   Private Offices (Starts From): Rp. 7.700.000/mo
   Shared Desk (Starts From): Rp. 250.000/day
-  Event Spaces (Class Package)*: Rp. 1.000.000/hour
+  Event Spaces (Starts From): Rp. 1.000.000/hour
   Meeting Room: Rp. 250.000/hour
   "&nbsp": "&nbsp"
   "*Minimum 3 hours, weekdays above 6pm": 
