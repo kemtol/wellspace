@@ -19,14 +19,10 @@ seodesc:
 address: Jl. Bangka XII No.4, RT.2/RW.7, Pela Mampang, Mampang Prapatan, Jakarta Selatan,
   Daerah Khusus Ibukota Jakarta 12720
 price:
-  Shared Desk: Rp. 1.350.000/mo
-  Private Offices (2-4 Person): Rp. 6.500.000/mo
-  Private Offices (6-8 Person): Rp. 12.000.000/mo
-  Private Offices (10+ Person): Rp. 19.200.000/mo
-  Event Spaces Indoor*: 'Rp. 4.500.000/3 hours '
-  Event Spaces Outdoor*: Rp. 3.600.000/3 hours
-  Event Spaces Indoor + Outdoor**: 'Rp. 15.000.000/8 hours, all day '
+  Private Offices (Starts From): Rp. 4.200.000/mo
   Meeting Room: Rp. 150.000/hour
+  Shared Desk: Rp. 1.350.000/mo
+  Event Spaces (Starts From): 'Rp. 500.000/hours '
   "&nbsp": "&nbsp"
   "*Minimum 3 hours, weekdays above 6pm": 
   "**Weekend only, maximum 8 hours": 
