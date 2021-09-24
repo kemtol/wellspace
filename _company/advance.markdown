@@ -1,6 +1,6 @@
 ---
 title: Advance
 date: 2021-09-24 09:54:00 +07:00
-image: "/uploads/advance_ai_logo.028d369.png"
+image: "/uploads/Untitled-4-01.jpg"
 ---
 
