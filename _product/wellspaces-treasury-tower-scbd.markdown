@@ -5,10 +5,10 @@ permalink: "/service/coworking-space-serviced-office-treasury-tower-SCBD.html"
 categories:
 - office
 position: 12
-bg-image: "/uploads/Treasury%20BG.jpg"
+bg-image: "/uploads/skinsters%20revise-273.JPG"
 image:
-- "/uploads/Treasury%201.jpg"
-- "/uploads/Treasury%206.jpg"
+- "/uploads/skinsters%20revise-269.JPG"
+- "/uploads/skinsters%20revise-259.JPG"
 seotags:
 - scbd, treasury tower, district 8, wellspaces, south, jakarta, sudirman, office space,
   serviced office, pacific place, coworking space
