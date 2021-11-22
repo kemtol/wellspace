@@ -1,5 +1,5 @@
 ---
-title: wellspaces Equity Tower SCBD
+title: Wellspaces Equity Tower SCBD
 date: 2018-12-24 13:29:00 +07:00
 permalink: "/service/coworking-space-serviced-office-SCBD-equity-tower-jakarta.html"
 categories:
