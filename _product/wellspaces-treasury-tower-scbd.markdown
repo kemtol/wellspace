@@ -1,5 +1,5 @@
 ---
-title: wellspaces Treasury Tower SCBD
+title: Wellspaces Treasury Tower SCBD
 date: 2019-12-10 11:33:00 +07:00
 permalink: "/service/coworking-space-serviced-office-treasury-tower-SCBD.html"
 categories:
